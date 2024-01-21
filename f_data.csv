@@ -1,0 +1,1001 @@
+,MATCH_ID,MATCHMAKING_ATTEMPT_START_TIME_UTC,MATCHMAKING_DAY_OF_WEEK,PLAYER_ROLE,PARTY_SIZE,SERVER_NAME,PLATFORM,QUEUE_DURATION_IN_SECS,MATCHMAKING_OUTCOME,MMR_GROUP_DECILE, CHARACTER_NAME,Unnamed
+0,B1nQmqNOiisHQzmjrlqF6JF9y6p6lu0I,08:31:35,Tue,Survivor,2,us-west-2,ps5,26,success,4,Survivor,1365
+1,vTupMItFjP8ccE1Rt4TGJYEYl1g71BIr,04:38:44,Fri,Survivor,3,us-west-2,steam,117,success,8,Survivor,316
+2,6OluwMzCbwbDjeRpqpSUN2sToB439PKH,00:38:00,Sun,Survivor,4,us-west-2,steam,12,success,8,Survivor,366
+3,AWaARGezT7Cl96HRlGoB0BYWfAQ9zB2y,08:36:15,Tue,Survivor,1, ap-southeast-1,ps5,38,success,15,Survivor,349
+4,vvSFbWoFCcqvYpnjzVqFwCvAOGjMA3li,11:08:29,Sat,Survivor,2, us-east-1,xsx,9,success,8,Survivor,1420
+5,UIbrnGIjNqjuTRvB0LZiY0b7RoJ4U2lM,16:02:30,Fri,Killer,1, eu-central-1,xsx,74,success,11,Killer,1788
+6,S7I38sy80mculJXf4SWqMBwqMYsP2QpC,01:10:21,Fri,Survivor,4, us-east-1,egs,90,success,12,Survivor,1025
+7,T3KCEzS98RmUwyMtEyORUble2bJ8QQVg,17:52:00,Fri,Survivor,1, ap-southeast-1,egs,61,success,20,Survivor,1999
+8,SpnHJVek6J1mdwS7Ec70EiFlspbNa8sg,19:27:10,Sun,Survivor,4, ap-southeast-1,ps5,67,success,6,Survivor,544
+9,YEpshYSo46Oe6oeUxLdigxpUcn06RBac,06:03:37,Sat,Survivor,3, ap-southeast-1,steam,114,success,13,Survivor,457
+10,OGoGzedlksG03q4r6jrRXi1QmYAsjLtR,00:52:47,Wed,Survivor,3, us-east-1,xsx,50,success,15,Survivor,1754
+11,Erx4zQaYStUXlC38aHRsTW3NxZRxHvyv,04:48:53,Sun,Survivor,1,us-west-2,egs,14,success,10,Survivor,155
+12,tXdndkde3fJvm1mCAS9VfI2s2CN3cH4k,18:56:19,Sun,Survivor,1,us-west-2,ps5,53,success,20,Survivor,1403
+13,fNctvKQNnHmxsLxVZJLS2lfP5c3xRTLU,06:36:46,Tue,Survivor,3, ap-southeast-1,steam,18,success,11,Survivor,1604
+14,UKUtvVe5C6qEGRvM256VRgSPAdi677iq,04:11:07,Fri,Survivor,1, ap-southeast-1,xsx,71,success,7,Survivor,1362
+15,dAsBWN06gWvvZwfdMEEv5TAXNToRXrPw,05:07:27,Wed,Survivor,2, ap-southeast-1,steam,95,success,9,Survivor,1709
+16,aAqeK5x3GcfMIdPBBPypNTK5m3y5W8Un,20:40:35,Mon,Survivor,3, us-east-1,ps5,51,success,12,Survivor,1964
+17,QYgMsfmWqG4R2azTVibyFywaAkl2wKQT,06:36:35,Mon,Survivor,3, eu-central-1,egs,9,success,17,Survivor,599
+18,rSQd19fKAlHgvRejZe2n9iaRsrsPetqM,20:21:25,Wed,Survivor,2, eu-central-1,steam,107,success,12,Survivor,75
+19,k8jpKo1YkQ3q1Ru0I8P5LexlaaoHAa0V,13:59:33,Fri,Survivor,3, eu-central-1,egs,93,success,7,Survivor,1808
+20,eePBui7UKs6wP5YMvuBtJDMn6OdCwLOY,17:19:37,Sun,Survivor,2, us-east-1,xsx,94,success,2,Survivor,1422
+21,Dt5hw1VLy6BMwLJbSSgcs4x60aSrCEzi,03:49:22,Mon,Killer,1, us-east-1,steam,36,success,4,Killer,406
+22,vWYTMslFGBBm8zXCgKk2xnJZ7WU9vNGT,06:02:10,Thu,Killer,1, eu-central-1,xsx,36,success,18,Killer,890
+23,WDoRs14VGhFMdpYC95YDiVLgpNjp5qa7,14:11:51,Fri,Survivor,4, eu-central-1,steam,19,success,13,Survivor,163
+24,CSOyoxAuD3T46SiiGsmsc1dt288g94Us,20:45:31,Fri,Survivor,4, eu-central-1,xsx,36,success,5,Survivor,1803
+25,4qNDtcrapY4DFaHg5nfoPSFPTVqNCNm0,11:15:38,Tue,Survivor,4, us-east-1,steam,33,success,5,Survivor,1828
+26,XBw8nuBnvpvvWuPHjfN39QHCX48LkS00,06:10:55,Sat,Survivor,2, ap-southeast-1,ps5,68,success,7,Survivor,148
+27,A6XYCQ1WvtxuNvC7Yi2FiYHaURjiQcX4,06:35:57,Fri,Survivor,4, eu-central-1,xsx,70,success,1,Survivor,1339
+28,cSnrLjkpz7aKXUWik1X9jLZoofk6GGDS,11:31:42,Thu,Survivor,3, eu-central-1,steam,106,success,17,Survivor,357
+29,pGPoOryWrsgVhWnVcdt4pqljSrS1g58v,15:13:35,Tue,Survivor,3,us-west-2,ps5,63,success,15,Survivor,1839
+30,yUbf6PiPCXIGeKSK3OfKLebzh6vaaaQF,20:59:35,Sat,Survivor,4, eu-central-1,ps5,23,success,16,Survivor,1325
+31,iO7hqBsZ723ebOjWe8XDoxnzqChVQIVs,22:24:29,Tue,Survivor,1,us-west-2,xsx,90,success,5,Survivor,219
+32,7wqFQF3n9VpwT2KjV9NMzQD07P5dlsbQ,09:10:18,Fri,Killer,1, us-east-1,steam,49,success,16,Killer,1090
+33,4DWnyDdkPrXD9VJTC9KBlGjhHDLySRwV,03:49:31,Mon,Survivor,4, ap-southeast-1,xsx,45,success,15,Survivor,15
+34,4jr6K318hFklZsV0jBYOLf2zWlfPoywk,01:38:43,Mon,Survivor,3,us-west-2,egs,73,success,6,Survivor,1499
+35,BV4RBJfpxwEybVTtKqMXHM9q5Obs36gD,13:17:34,Sun,Killer,1, ap-southeast-1,steam,33,success,10,Killer,1179
+36,bWHJhnjDvZYYr1ixl4TRp49pSwwdTGkW,09:38:36,Sun,Survivor,1, ap-southeast-1,xsx,98,success,13,Survivor,1865
+37,a6BYEcm5nDEqrGFfE2DblzcaDMImcRKO,09:02:56,Sat,Survivor,2, eu-central-1,egs,110,success,19,Survivor,1650
+38,icSxGA6d7RRahCgaK2c70EVeNETkw3xu,03:43:39,Sun,Killer,1, us-east-1,xsx,6,success,8,Killer,586
+39,e45KrId7LC5eux6oR8P3XQcFO8bVbsTd,16:44:02,Thu,Survivor,1,us-west-2,steam,43,success,18,Survivor,961
+40,nPzkayhPpGD4mk704Wx4Q7Nf6Bb7kt4Z,07:17:51,Thu,Killer,1, ap-southeast-1,xsx,17,success,4,Killer,1249
+41,7zaJ82H2NWFIWreBzfTq3kFjp865TVcH,19:47:26,Wed,Survivor,2, eu-central-1,egs,88,success,19,Survivor,910
+42,CeQ8Rvdg80yD6tvmNTDSOn8VkyYiswXQ,04:27:22,Sun,Survivor,1,us-west-2,xsx,50,success,12,Survivor,1183
+43,YTCc2396E2YwAA8B1akvTikk1c29JSA2,12:29:34,Mon,Survivor,1,us-west-2,steam,65,success,9,Survivor,1601
+44,7ITTyBeZl8VJtm76FZC5jgWwRl0EDKYu,05:56:56,Sun,Survivor,3, ap-southeast-1,ps5,97,success,3,Survivor,1329
+45,o2Pajih5xDu3xNxIN1uRZHqkgx6eIEjY,20:58:58,Thu,Killer,1, ap-southeast-1,ps5,72,success,19,Killer,558
+46,CSQpdrGYMF21DUC5JeQwVt17X8CohCi2,09:38:13,Sat,Killer,1, ap-southeast-1,xsx,86,success,3,Killer,284
+47,h6AI76kiYXSVOuyI0b4I1IR5w6l5gNSv,08:40:15,Tue,Survivor,1, us-east-1,ps5,76,success,3,Survivor,1541
+48,yuAbN233rFqJzSFUd5HMxejcPOUivy8S,13:43:05,Sat,Killer,1,us-west-2,xsx,90,success,17,Killer,1717
+49,355sGPGzmqSPYeGqdUhvrvfDbUOfl20k,18:25:49,Wed,Survivor,3,us-west-2,xsx,106,success,9,Survivor,692
+50,dfhetjTn22Y7uJosUl8pT5gpLrCFRjDs,03:19:41,Thu,Survivor,3, us-east-1,ps5,106,success,3,Survivor,1155
+51,GNrZgLpeElU4xQvtPsIrQwbBHRES5pso,01:03:45,Sat,Survivor,1, eu-central-1,egs,57,success,11,Survivor,1496
+52,puTCsWrOVIB4ePOSQ6yyDaDBznr5gxH9,01:38:30,Sun,Survivor,2, ap-southeast-1,steam,97,success,15,Survivor,1643
+53,MsIHqSJp08pzsyotrT7sN7hjSnvrN1Rd,17:01:14,Thu,Survivor,1, ap-southeast-1,xsx,12,success,1,Survivor,522
+54,Bk2dL3epF4RHBSNuZDvyZf6xGggcERYO,02:43:56,Mon,Survivor,3,us-west-2,ps5,46,success,9,Survivor,1645
+55,4NbRpqjCPo68KBiQcyWNCjy3QCs6VrUa,14:51:27,Tue,Survivor,1, ap-southeast-1,steam,56,success,20,Survivor,1750
+56,xsPM9DwNny31fuJyl4ST4wXmExWOWueM,06:45:30,Thu,Survivor,2, eu-central-1,ps5,13,success,12,Survivor,1185
+57,DM3jk7an5qwkZnDL7LUIn4JKGfsjSULT,18:37:57,Mon,Killer,1, ap-southeast-1,xsx,63,success,4,Killer,817
+58,WCxxjsyloaQT1MolkiB22XKPnQ3hPdYT,05:08:35,Sat,Survivor,1, eu-central-1,xsx,50,success,11,Survivor,182
+59,o6iGI82A9XP3PfTgCq7laWzFhu66jf5s,12:55:44,Tue,Survivor,4,us-west-2,ps5,83,success,20,Survivor,1036
+60,eBiTpZLEteR2X8dfOSByDuYqNnWt8cGr,11:18:55,Thu,Survivor,1, eu-central-1,xsx,64,success,18,Survivor,652
+61,VhJgLozX9W8Qc6YgoltccJjcbIJGgL9l,03:51:30,Sun,Survivor,4, us-east-1,xsx,55,success,7,Survivor,281
+62,04Vz1GnRHPddhll55Nui9xl2X1WhWwGK,21:37:39,Thu,Survivor,4, ap-southeast-1,egs,14,success,10,Survivor,120
+63,m9ricgdkeCDhCYMjb7T6T6VQWgCJ1RbU,22:17:05,Sun,Survivor,4, eu-central-1,egs,12,success,13,Survivor,1664
+64,JUksOM2FYYDfgjtBr0mvVNoxmOFQUcJp,19:36:11,Sun,Survivor,2, ap-southeast-1,xsx,19,success,18,Survivor,1061
+65,INQU77Cwc5nJ2JhsfhJJ2htAE7P3vkBo,19:32:03,Wed,Survivor,1, us-east-1,steam,35,success,17,Survivor,981
+66,ZRCgf2GXcDsaEALOvUgK9jICUQBDCsCI,05:44:17,Mon,Killer,1,us-west-2,xsx,82,success,19,Killer,1088
+67,x1RUUzSd1I4rGPjQhruzKSr7FUKLuIOS,00:32:43,Tue,Survivor,2,us-west-2,steam,43,success,13,Survivor,157
+68,5Rwn1hgKzjFbfJnxz212gvQpfnMdU3yp,22:36:03,Sat,Survivor,3, eu-central-1,ps5,109,success,6,Survivor,814
+69,d4n7GnoHKYKJS0VkSfsmW87LMKKHGuBJ,09:40:17,Fri,Survivor,3, ap-southeast-1,steam,81,success,1,Survivor,428
+70,KlikJ6Rh2XXzifynK6YOj6CQWpdMcqdM,19:33:57,Tue,Killer,1, eu-central-1,steam,70,success,13,Killer,1990
+71,5q40tqTlgQSH2qcNa1GmawTtiSu7utAg,15:27:46,Thu,Survivor,1, us-east-1,steam,118,success,13,Survivor,1896
+72,7aqCuirYTsZS0ZOMgGfkGX76F7hUE2Hy,03:38:32,Wed,Survivor,3, eu-central-1,steam,77,success,10,Survivor,212
+73,HuYocMYW4Ecrg87Q8JXo79PDH5eKLi51,13:23:11,Mon,Survivor,3, us-east-1,ps5,36,success,17,Survivor,1906
+74,iF2BkKa1D27LNu3ayuZ0SlXcTzooJAu6,13:54:49,Mon,Survivor,4, eu-central-1,egs,47,success,17,Survivor,1222
+75,A0AgbeVQVmYuiIzjT4SlBdF2NSGohanl,12:06:43,Fri,Killer,1, us-east-1,egs,54,success,12,Killer,1049
+76,kX0t40D04pxldW2sJYkhDsdt8S0JgGOu,07:42:59,Sun,Survivor,4, ap-southeast-1,ps5,27,success,11,Survivor,385
+77,fyGQaKUc4wsyh10GqkmSV0b3w53oruw1,17:24:30,Thu,Survivor,4,us-west-2,egs,70,success,17,Survivor,1756
+78,r2JhGKh48RQGNWDfzbHIUvqVtUWnjYQ0,00:53:32,Sat,Survivor,4, ap-southeast-1,xsx,77,success,12,Survivor,917
+79,8fHYaGEbWIXpNgOnPvreLM6hwntv4agY,18:24:49,Fri,Survivor,4, ap-southeast-1,xsx,113,success,1,Survivor,1305
+80,RaF6PL8P73qRdwnykUReFbdaARlnop41,00:31:54,Mon,Survivor,3, eu-central-1,steam,118,success,2,Survivor,1463
+81,b6MOiRMtYNwmjAiwFDS8nr5CQTLwPm33,07:36:34,Fri,Survivor,3, eu-central-1,egs,69,success,10,Survivor,1343
+82,KfyczQ9Ex146iSetYX8NPkmpEN41gA5G,01:23:31,Thu,Survivor,3, us-east-1,steam,67,success,5,Survivor,495
+83,6GbbTuqLyT4sDn2DH98bOFGfE0oBbEve,09:15:29,Wed,Killer,1,us-west-2,steam,42,success,6,Killer,185
+84,btXELdbniCgjZ4DSnZIhimGUxcoqTWei,00:45:53,Sat,Survivor,2, us-east-1,egs,51,success,3,Survivor,404
+85,l23o2AXvtRwmPLVSAt9SOe7yWFaH8lpk,15:04:16,Wed,Survivor,4, eu-central-1,ps5,96,success,13,Survivor,1595
+86,UiMWc8OGKsWWBWdwhHHdxhhlM7j92zGz,21:12:55,Thu,Survivor,2, eu-central-1,ps5,66,success,6,Survivor,1586
+87,OEKZijlJqSRkOiAE9zCywwBdJ4ZHI54O,23:05:17,Tue,Survivor,3, us-east-1,xsx,77,success,6,Survivor,211
+88,mjqxaCisEExiS6Bt2dX3Aq8Ht5fqpyji,17:34:57,Mon,Survivor,2, us-east-1,ps5,113,success,9,Survivor,456
+89,w1WN7YcTaeq3aYTxUHzC9KUFiH2zfB8Z,17:17:55,Wed,Survivor,1, us-east-1,steam,108,success,18,Survivor,1017
+90,CKaSt5t0hCxht26d8DcX5uBII34ED7cV,16:51:34,Tue,Survivor,3, eu-central-1,egs,98,success,13,Survivor,1687
+91,7N8e89WCjV08pjqQPWgvHhmYFMHJ8x0t,21:42:15,Tue,Survivor,1,us-west-2,steam,53,success,7,Survivor,1860
+92,FNam2Flc5RKZhreg6E3vKj0fcTKcNV4W,04:17:36,Tue,Survivor,3,us-west-2,xsx,26,success,12,Survivor,1846
+93,gEPDlf2xGjwdhicRQOu2ZCJPdsYLJ7PD,01:33:02,Tue,Killer,1,us-west-2,egs,37,success,4,Killer,1317
+94,EiyNQnD4XFM7QENlsHm8N4uPR45PmxBT,14:25:09,Wed,Survivor,4, us-east-1,ps5,77,success,1,Survivor,1062
+95,8Q4kPPspfLt6rChyQMccNVQ5HdcEyCS6,17:04:12,Thu,Killer,1, eu-central-1,egs,101,success,7,Killer,1752
+96,LmjZFlTWPDHC7EUC9y4PLhk2l9CT22qd,06:13:40,Fri,Survivor,1, ap-southeast-1,steam,60,success,1,Survivor,681
+97,MfuVbOKwXH5UZ8OXZrIhpZo3QhuXmY4S,10:56:36,Thu,Killer,1,us-west-2,egs,32,success,17,Killer,523
+98,AVQ45PtEdugtsGetGYpwS928e6zL3ybg,05:16:46,Tue,Survivor,4, us-east-1,xsx,116,success,15,Survivor,1083
+99,5IH6Vz9tDFNstaJnUJ9tggJ3fwEgyqIo,17:50:29,Sat,Survivor,3, us-east-1,xsx,78,success,13,Survivor,162
+100,cDxh9q8nQZArdsa7AeQ5lyfwJj4MPhpm,01:30:21,Fri,Survivor,2, eu-central-1,xsx,86,success,5,Survivor,687
+101,w7mxjL0Gy0tcgP8UmJDP8ZVCmIevvg19,09:04:44,Tue,Survivor,2, ap-southeast-1,steam,97,success,2,Survivor,650
+102,GXs7GhBSu3SMSfUejVX5ZMc7bemSiBOs,23:45:01,Mon,Survivor,2, ap-southeast-1,steam,15,success,8,Survivor,258
+103,QK6e1VXMuJgwxNXiQeWAtwdBdE1jo23v,21:47:27,Sun,Killer,1,us-west-2,ps5,48,success,13,Killer,34
+104,gTiTY9cR2GG4DCJf7p1JjHd3f92oq4n4,22:05:02,Wed,Killer,1, us-east-1,steam,97,success,12,Killer,1540
+105,O2LaKPz5lp6IpqviGkn5BTtdRK6HdVMA,22:59:32,Wed,Survivor,4, eu-central-1,steam,38,success,8,Survivor,1600
+106,BXR5etrVv0VjOE9LNgpZV09Dsi1ByzCY,20:10:27,Mon,Survivor,1, eu-central-1,ps5,31,success,12,Survivor,1616
+107,CtXvFlcWO42vOE9d1zyCmKxJgxSwmWu1,00:51:38,Fri,Survivor,2, eu-central-1,xsx,53,success,5,Survivor,1126
+108,FspOyZEDMFadLboh11qdnmYNakJCEllI,07:03:40,Mon,Survivor,4, ap-southeast-1,egs,7,success,10,Survivor,1470
+109,aUubsVbkPieGybX0uuCTHmZZHFeoMFBP,00:20:22,Wed,Survivor,2, ap-southeast-1,steam,93,success,13,Survivor,278
+110,1nOnywD7zEWhanpmarTPW5TqSD6zUrEV,03:02:46,Fri,Survivor,1, eu-central-1,xsx,116,success,9,Survivor,748
+111,ajWcA8MPtbNkBY61MXBZcHNj5mQQRliZ,14:15:40,Fri,Survivor,1,us-west-2,steam,110,success,3,Survivor,1393
+112,REibP2JKNIbeKuEmeXHj3AELyLB7w7PI,10:48:07,Tue,Survivor,1, us-east-1,ps5,55,success,18,Survivor,1212
+113,MCGLxpmr1rFayUs5nAsI1Av88CfQcOjQ,00:59:05,Thu,Survivor,1, ap-southeast-1,ps5,105,success,16,Survivor,254
+114,CR5cibQ6Z1mhXNGrZKHFMBrgcThYN3xH,08:23:29,Sat,Survivor,4, us-east-1,egs,105,success,9,Survivor,730
+115,YsROvb1HJj0uJELN76h6k2z5b5NP8E2T,13:29:57,Mon,Survivor,3, us-east-1,ps5,97,success,4,Survivor,87
+116,zC7sHrsvJupA43TVIbkn35vOFOHourcR,21:56:59,Sun,Survivor,1, us-east-1,ps5,4,success,2,Survivor,947
+117,rOwxvmhb2JSP5sp0KmmKHiIf6ME4rJxr,03:06:54,Sun,Survivor,4, ap-southeast-1,ps5,64,success,5,Survivor,1841
+118,GRdZwUfjMEksmY5jnBrP4yB9gPWZxEon,13:20:07,Fri,Survivor,2, ap-southeast-1,steam,50,success,12,Survivor,175
+119,X4fZvLWXngdqaFy0f2dcekTUaaHkgXLf,22:00:23,Fri,Survivor,4,us-west-2,xsx,51,success,7,Survivor,663
+120,nIZV9vmwqEy86i2eTwEBtT4ROPU5bMtQ,13:39:21,Fri,Survivor,1, eu-central-1,egs,74,success,16,Survivor,760
+121,kubiZuefnJDtzzvgCteDtwPtMYErUgAX,06:27:09,Thu,Survivor,1,us-west-2,xsx,13,success,10,Survivor,1298
+122,zG4GnJtiuPi3doanZca6psJ9KA6RR46H,00:35:48,Wed,Survivor,4, eu-central-1,xsx,100,success,6,Survivor,1218
+123,yMUOc9Z3XvP2wndVxjk8Vk6jHfstlqMO,16:23:34,Wed,Survivor,1, ap-southeast-1,steam,2,success,5,Survivor,596
+124,ROsKOZ13DGtqUV4RHuEYWvApd2CJ3Vm6,20:52:35,Fri,Survivor,2, eu-central-1,steam,118,success,8,Survivor,1936
+125,kwoWhdYQOlREOH3H2rDfCoZihL4l0V2F,09:13:01,Tue,Survivor,3, us-east-1,xsx,89,success,11,Survivor,1248
+126,QtCrP3gO7DYVhlVzF9GkWp1gv8vQoKQS,18:16:25,Sat,Survivor,2, us-east-1,steam,1,success,11,Survivor,1159
+127,CuFxsDpciHsd49VXypTz0nKBmHnz4CHm,00:47:54,Mon,Survivor,2, us-east-1,egs,91,success,19,Survivor,1044
+128,32F9lrbjCcTrECHwLonK35FLuQRsJInR,17:30:45,Thu,Killer,1, ap-southeast-1,xsx,23,success,2,Killer,141
+129,DBWHMwP80EMfOO1dYWN93WuorrzKdU1D,09:20:08,Thu,Survivor,4, ap-southeast-1,steam,68,success,3,Survivor,1020
+130,6aGW1ZdegVegJFp3BA6b28RDoOEbPFpj,23:52:43,Sun,Killer,1, us-east-1,ps5,23,success,1,Killer,1264
+131,si67fv5fr2OIVnhRfmUjcCeEQnHz0Rti,04:23:01,Tue,Survivor,2,us-west-2,xsx,67,success,2,Survivor,1007
+132,qanGETearRTtmfuD74yeIYFgbiOQJSVY,10:05:27,Fri,Survivor,4, ap-southeast-1,egs,65,success,9,Survivor,1047
+133,MOq2WDzJQUXJZrzaRUHd2uxfwj6Npm96,21:45:35,Thu,Survivor,1,us-west-2,egs,81,success,3,Survivor,1052
+134,E258iaUXbQPI32K1BgMSik3OHMwaU8za,19:28:37,Sun,Survivor,4, eu-central-1,xsx,77,success,14,Survivor,82
+135,k2ygiO29cGy6oYGk7Imfb3DmBqsr0SZC,09:36:04,Thu,Survivor,4, eu-central-1,xsx,17,success,1,Survivor,1699
+136,XCGCAAlYbtI2U6S20yPT2k8Ktb4jdGkv,23:42:22,Wed,Survivor,4, us-east-1,egs,88,success,17,Survivor,609
+137,MvYqg4awaclx3cm0MOZNfROdI75ZgdTH,14:35:43,Wed,Survivor,2,us-west-2,steam,103,success,20,Survivor,941
+138,VLhE1k05cV2Len6TgDKiUXzzMXdsn4ih,17:53:54,Fri,Survivor,1, ap-southeast-1,ps5,36,success,2,Survivor,533
+139,MKzXVea70iPCycnJIgFYUI1gRqKIi6Lb,08:16:09,Fri,Survivor,3, eu-central-1,xsx,26,success,12,Survivor,741
+140,NHZiZaMKbnYArzIvNyfKtlSNujEgPUEn,14:04:14,Mon,Survivor,3,us-west-2,xsx,50,success,19,Survivor,1923
+141,asXJ9BKgTlSzcWQxe7KYYqYdk44lurWA,08:20:33,Sat,Killer,1, ap-southeast-1,ps5,80,success,12,Killer,633
+142,llO7SRs5X3LOdcv69y9MZEBmxvPkMFY1,05:54:26,Thu,Killer,1,us-west-2,ps5,15,success,1,Killer,1580
+143,wu5i4AdvkE9tKPncTmwMXfapmuwfmbgr,09:56:27,Sun,Survivor,2, ap-southeast-1,egs,59,success,4,Survivor,1696
+144,v4jARfEn2JHNDZGL3M5j1lKUyibcNosg,20:10:19,Sun,Survivor,4,us-west-2,egs,4,success,8,Survivor,575
+145,dMNR6VCjLBKlHUSuGN3BUVjPfSRpVKyX,03:48:40,Sun,Survivor,1, us-east-1,egs,28,success,17,Survivor,10
+146,r9n9MPNZbsYlCR6YrWoTajkWAEgNHkGI,04:58:46,Wed,Killer,1,us-west-2,ps5,81,success,7,Killer,1949
+147,BjQ4SXX90TfttCiHyOrxLZcalilRizVs,20:00:46,Thu,Survivor,2, eu-central-1,ps5,23,success,13,Survivor,514
+148,GyEjZ7zwZXxErh1il2ibjnH6AVkP2Hht,11:22:32,Sun,Survivor,2, us-east-1,xsx,26,success,16,Survivor,246
+149,Ni7MoWIU6TlTSZkdLFcvCqtGAWixLJGk,02:37:24,Tue,Survivor,3, ap-southeast-1,egs,12,success,14,Survivor,1986
+150,x0edQwZES40qVU946nwNwucZ9oTHgZel,00:40:32,Sun,Killer,1,us-west-2,steam,109,success,5,Killer,889
+151,I9tJv45G3UooNl5sYy8CnLjqUFgGIWU3,05:37:54,Sun,Killer,1, eu-central-1,egs,114,success,1,Killer,733
+152,QaKqz6FPY5ddjd0JIMwbTIbgtt8lj9JS,05:59:40,Sat,Survivor,2,us-west-2,steam,106,success,18,Survivor,1256
+153,H6mtDBFVXJQDsi42ILhsmGeki5MqbIgv,09:49:27,Sat,Survivor,4,us-west-2,egs,97,success,15,Survivor,164
+154,4QGT1jWNFGdUgPmql6bp0EBBSAK0J4Ni,03:30:33,Sun,Survivor,1, ap-southeast-1,xsx,52,success,13,Survivor,1912
+155,oFy5mIFkzBmnKQA3GHFAxsgy2oP878Bk,20:35:56,Tue,Survivor,2,us-west-2,ps5,67,success,1,Survivor,245
+156,VGNa2F3EOrMo9iaoMtKMfnr7dLDaIMaL,10:52:23,Mon,Killer,1, us-east-1,steam,75,success,3,Killer,455
+157,5ylX5ln4NOOv9gca8rBy6frmSoqjFyuW,17:29:42,Thu,Survivor,2,us-west-2,ps5,61,success,1,Survivor,1815
+158,uYqMV7bTfBrK5waQAICOLo8PhSFg0NzA,19:04:13,Wed,Survivor,3, ap-southeast-1,egs,87,success,2,Survivor,629
+159,DSCPdGshEofU6IlEWZbhs8R1OgeiprRx,02:10:05,Sat,Survivor,3, us-east-1,egs,92,success,5,Survivor,1877
+160,rbTNKqw6lq6xPsC1R4HOWbAEHNcBFqN8,01:01:59,Fri,Survivor,3,us-west-2,ps5,24,success,10,Survivor,57
+161,Dgv6DXwhsrmKTVId0gQS9hUZZZNdwHRd,16:21:22,Thu,Killer,1, ap-southeast-1,egs,110,success,6,Killer,1548
+162,WWnmnPQUEMwAIbKa7RQje0QGHDByYB70,05:45:52,Fri,Survivor,1, eu-central-1,xsx,12,success,13,Survivor,1810
+163,2MjkVHTL0dBGGXLZCuK4E1zptnWNj1V5,04:34:34,Tue,Survivor,4, eu-central-1,ps5,59,success,18,Survivor,1533
+164,VHdL2hIb9wIwFRCCMbN7x7gz1cgT4nCV,12:42:55,Wed,Survivor,3, ap-southeast-1,ps5,88,success,8,Survivor,1984
+165,o1mQYr4OM0k3Oc4UX6NPbXV6AQxODWwR,20:09:00,Wed,Survivor,4, eu-central-1,ps5,46,success,11,Survivor,188
+166,sSwvgLqPA6SxZNDKFGVwe5iZ11ALPQtd,20:19:27,Tue,Survivor,4, ap-southeast-1,xsx,112,success,7,Survivor,647
+167,WrC6KBPSbCKzA1Ype3P60FpLKvj5zraz,03:56:45,Sun,Killer,1, eu-central-1,ps5,67,success,16,Killer,1127
+168,vDQeD0fI9yuxl5Z6o00zBesj4qTnobHk,22:55:38,Sat,Killer,1, eu-central-1,ps5,30,success,2,Killer,1916
+169,mB5PF5VBK2n3lvSJlvYAOlnqmkxRtAJh,02:37:49,Fri,Survivor,4, eu-central-1,egs,30,success,19,Survivor,713
+170,bqWHvkjMmVLC3N1vMd8MmViQC6zZi70W,12:59:07,Wed,Survivor,3, eu-central-1,ps5,66,success,13,Survivor,1221
+171,G5dHGok3IVeVPlRyhzrPTV6T21468hyt,04:30:48,Fri,Killer,1, eu-central-1,steam,6,success,9,Killer,1857
+172,0Ixc0OzNMNSQm0hZOc8u9RN9lzoLazVK,17:20:36,Wed,Survivor,3, us-east-1,xsx,64,success,6,Survivor,1154
+173,MibsTeJA5l4JeLsyIRqpfFGh0Yf0hih0,12:31:31,Wed,Survivor,3, ap-southeast-1,ps5,114,success,15,Survivor,895
+174,GWH5MmL852jgAJAgqSGksQB3vidRiHM7,10:46:16,Sun,Killer,1, ap-southeast-1,egs,109,success,15,Killer,1632
+175,8fFsWrjn8AIgViEskMsFHpDq8F0vZi5J,08:15:31,Thu,Survivor,2, ap-southeast-1,xsx,47,success,13,Survivor,1224
+176,oqjLBi38WibuFSXeAoomMmTdm2entsqB,12:01:11,Wed,Killer,1, us-east-1,xsx,54,success,18,Killer,1272
+177,dbPuqTOer6pgL1XCuIDvvNcIHiTVX8AM,10:53:22,Mon,Survivor,1, eu-central-1,steam,49,success,5,Survivor,251
+178,HUiMI6zYaf4pGApI2lGQeP7nqhI9eyI6,16:09:48,Wed,Killer,1, eu-central-1,ps5,4,success,20,Killer,783
+179,VDh2dpmavx6mo1Zjrj8bvY98aj6hJWGb,03:49:53,Fri,Killer,1, eu-central-1,ps5,41,success,13,Killer,1441
+180,NAhGmTyOcRYeqO69M276uEE7h9Ptpvwx,22:15:27,Tue,Survivor,4, ap-southeast-1,egs,15,success,8,Survivor,1850
+181,mBUBt0NyO4bLAPCpsSEvp9jwo4lJcWJk,12:51:25,Sun,Survivor,3, eu-central-1,xsx,6,success,4,Survivor,1791
+182,GB2OiX8nNUKmCYuDRLzDNOZiTrxW0JYN,07:41:00,Wed,Survivor,3, us-east-1,egs,90,success,10,Survivor,758
+183,fdyvQZHdqAbaGWFf1WbJJzPrBAwLWz87,04:12:28,Sun,Survivor,1, eu-central-1,xsx,15,success,7,Survivor,827
+184,vyGC2wUo3tnSbFPKTL2uoTo4VKZ5fBz8,07:12:54,Sun,Survivor,3, eu-central-1,steam,15,success,1,Survivor,97
+185,0AAY36H8W7VY3HeRvZo8UPfzWlAKzn3s,21:10:30,Mon,Killer,1, us-east-1,steam,53,success,1,Killer,883
+186,16JEcO8Y3S0Y6FSHGslOu2fdVvpmOes9,05:01:23,Thu,Killer,1,us-west-2,egs,49,success,3,Killer,1880
+187,Nz1QG2huHCT7pIBwKqxIGeTVN09uLVFV,09:59:11,Thu,Survivor,3, eu-central-1,xsx,116,success,3,Survivor,1286
+188,HiRp85ySqklBAAilF76zYMWRtFzlfqZX,05:24:51,Thu,Killer,1, us-east-1,ps5,110,success,4,Killer,210
+189,YlxHSowAdVMqU6vNgcwkRR56Wgl9CjLa,18:12:19,Thu,Survivor,4, eu-central-1,egs,77,success,7,Survivor,1993
+190,k1wYvvxtXpFxfnqkdG36VNR3AExl0vP6,09:05:31,Fri,Survivor,4, eu-central-1,steam,46,success,19,Survivor,1093
+191,aXpp4ktMzV8h57dEQnr7AwCSUKNbu0bq,22:46:41,Mon,Killer,1, ap-southeast-1,xsx,69,success,15,Killer,1000
+192,yiHDqIokbGOsL5xWzEffZ8C9Caa0nmXU,19:29:16,Tue,Killer,1,us-west-2,steam,98,success,17,Killer,1952
+193,29khNwlsn7bmuUHnx7rJuZwa0wDvcXHj,12:01:35,Wed,Survivor,3, eu-central-1,steam,108,success,11,Survivor,588
+194,EcnZPo6XTuaUyFFCxOGuLxcUqO9X7Vlr,11:34:37,Fri,Survivor,4, ap-southeast-1,ps5,115,success,19,Survivor,648
+195,Zza0ist3beHKo9vSTsZ4zDfgRlBVI4uw,23:44:23,Fri,Survivor,3, ap-southeast-1,xsx,44,success,20,Survivor,950
+196,U5MTgBH3AGoBWiBTBXHyO1LKPhh940XD,01:04:10,Thu,Survivor,3, eu-central-1,egs,89,success,18,Survivor,1230
+197,jqyqqVfHOLx2NBFcjyvOn4SIQOLZojSh,23:19:06,Sun,Survivor,3, eu-central-1,ps5,98,success,8,Survivor,1347
+198,itTGqXL4EqDlDmYJO3tNEk45CWkUYILE,18:18:59,Sun,Survivor,1, eu-central-1,ps5,65,success,6,Survivor,292
+199,S302RTsYNhMlrGOQeILgc2Mi0Z8GARFY,06:48:20,Wed,Killer,1, us-east-1,steam,70,success,10,Killer,1686
+200,36LCgbhtmJsISpwD9OIqEbrqin6O4UUX,02:50:51,Mon,Survivor,4, us-east-1,xsx,5,success,11,Survivor,1830
+201,uEEJChTWbheT7iTu3pmnuHxTkxwRLtcd,17:01:09,Fri,Survivor,2, ap-southeast-1,ps5,116,success,6,Survivor,189
+202,37qLr2oVijfjUZWwP4og0cONGpSifstP,21:46:54,Sat,Survivor,3, eu-central-1,steam,25,success,7,Survivor,607
+203,laPYYiFcRFsklbxILjV10IF0Q7mfJZmO,10:27:08,Sat,Survivor,2, eu-central-1,xsx,112,success,4,Survivor,1315
+204,aDYEYb6EZg65YpGMsnd7bHhMwZ6Dx1Lk,22:00:42,Wed,Survivor,4, us-east-1,egs,50,success,6,Survivor,1471
+205,8AQovgjMa12CGwtbHiH45ozxHvUjVrAr,19:07:10,Wed,Survivor,4, eu-central-1,xsx,89,success,9,Survivor,1919
+206,Gwx8KB2l95zJr5tmBRxRIeId2xmafR6Y,06:31:42,Wed,Survivor,3, eu-central-1,ps5,56,success,7,Survivor,325
+207,HT1gghRQAg8ZkAyh0UoP4VnFq9Bfqnqq,11:14:05,Sat,Survivor,2,us-west-2,egs,64,success,9,Survivor,1812
+208,Q5UWPJse1KotoDqyG6VQVdduTj4lMfbs,06:51:42,Sat,Survivor,2, us-east-1,steam,28,success,12,Survivor,1781
+209,72eIkmV69wFPsBsUr9Y9aEqzvGCsodGo,09:45:47,Mon,Killer,1, eu-central-1,egs,46,success,9,Killer,630
+210,9uzzfYSV3g5jeuQe1qLTF8AGwfyjXmov,09:01:31,Mon,Survivor,1,us-west-2,egs,104,success,9,Survivor,996
+211,guTMcL8kpbS27gwdghOIghII6SRRlH0k,08:24:06,Tue,Survivor,4, us-east-1,steam,91,success,17,Survivor,168
+212,M67mAx52XO36VufwHhFklLYLofP8me1p,15:33:12,Mon,Killer,1, eu-central-1,xsx,9,success,11,Killer,962
+213,xRSLErtLSWi5AarSxecEhvdG5nwUTft2,02:59:22,Sun,Survivor,1,us-west-2,egs,0,played_cancelled,18,Survivor,133
+214,7tRR93mSrqjzhsLRapKuG9h0jBdDiN1j,18:05:07,Mon,Survivor,4, us-east-1,steam,45,success,4,Survivor,165
+215,zfP0KRX5jVLCurZOlQNXO7tPCAMlEXaP,19:34:10,Wed,Survivor,2, us-east-1,egs,19,success,17,Survivor,807
+216,3I1krt6gwhMijUTZ7n9VbKkZQEb3B0yX,23:23:11,Thu,Survivor,3, eu-central-1,ps5,40,success,10,Survivor,740
+217,ADdm63B55TCuNAwk4I7Ksz31ghxUl5Rd,16:00:11,Sat,Survivor,3, eu-central-1,steam,15,success,6,Survivor,1644
+218,R4MLbPZE1p4IreOfxp0PNtzSXo0ZYSup,17:37:16,Sat,Survivor,2, eu-central-1,steam,26,success,13,Survivor,352
+219,6HbsPWl4ofjQ8b6SYDZ2tuRYpw0oH3BS,21:40:56,Sat,Survivor,1, eu-central-1,xsx,8,success,7,Survivor,1579
+220,4jfi2Kxfe8MzYKsgS9jKb8qu5G1f0zUc,20:33:45,Tue,Survivor,1,us-west-2,egs,99,success,7,Survivor,198
+221,jZlHtPYyZlxm47TCb4Ppvg1JMi8zwcfp,10:15:52,Fri,Survivor,4, eu-central-1,xsx,17,success,5,Survivor,725
+222,kS91lkkjGb6tGUBldz8eJrPkvreTQ5Uo,14:43:57,Fri,Survivor,2,us-west-2,egs,91,success,5,Survivor,1336
+223,1nb7jitbcx4WkLFuiFK9q7DAgHq2SVoR,17:56:01,Fri,Survivor,2, us-east-1,xsx,89,success,4,Survivor,497
+224,zsiEVLm3VbxETNxlZIiIwv8LKKVED8Py,00:44:15,Wed,Survivor,4, us-east-1,egs,85,success,18,Survivor,960
+225,n3kYeyS1Leb26z3Sc0iZQZ9CKLd2WEOM,13:39:45,Thu,Survivor,1,us-west-2,ps5,98,success,16,Survivor,1008
+226,CSrhIIEgQgoxF2kOe0llAZI12a6gIKpm,09:45:53,Sun,Survivor,1, eu-central-1,steam,73,success,13,Survivor,480
+227,Zx1r2F20N8mgahFKHhfn0LkCKfZwgZFx,03:05:22,Wed,Killer,1, us-east-1,egs,70,success,7,Killer,452
+228,mFVhghLpqaaOkKZlcGgQlXgxKcsYXozE,15:12:00,Tue,Survivor,2, eu-central-1,ps5,13,success,20,Survivor,351
+229,xHRfycSusSJYMSmA5sA1Hmef8GYM20SL,23:05:13,Thu,Survivor,3,us-west-2,egs,48,success,10,Survivor,2
+230,bGLgy8Ksv1jMmX7QRXlRN4UNVDUvYKtR,03:35:24,Sat,Survivor,1,us-west-2,xsx,64,success,8,Survivor,955
+231,xI2WNvmyvnobaEaYbv40zbd71ToK7QF4,19:39:09,Wed,Survivor,3, eu-central-1,ps5,60,success,12,Survivor,1046
+232,cOsFYoqlpgYJzvBhzsMKiiJf1sV38oR6,23:08:12,Wed,Survivor,3, ap-southeast-1,ps5,23,success,9,Survivor,335
+233,Tlk0eJ4NFKKgpGKaxw4LsLDzQZkbApJM,20:49:20,Wed,Survivor,2,us-west-2,ps5,79,success,18,Survivor,1827
+234,eab62TTGsQrT7ejg1y3MjJ76wgkNJh0B,17:39:06,Tue,Killer,1, ap-southeast-1,xsx,36,success,18,Killer,1429
+235,z3BbbWVMfk1ChCrzji3TGVVbD5grdLXd,01:13:58,Wed,Survivor,4, eu-central-1,egs,1,success,7,Survivor,1818
+236,8QdmExvtFDQIhv4fG12PTN0yB73f0wke,18:41:04,Tue,Survivor,1,us-west-2,steam,59,success,10,Survivor,669
+237,o3lty6flUBbX2Lq1bGOX4s6RJGETJFG3,14:22:38,Tue,Survivor,2,us-west-2,ps5,84,success,20,Survivor,1318
+238,8JGX4jVQAazWp5ZcnxclwkgtrkOtzHRz,05:02:54,Wed,Survivor,1, eu-central-1,ps5,115,success,6,Survivor,805
+239,PcGvv3p6RlczqQ9jKX542FIXMgSUODeT,06:08:50,Sun,Killer,1, us-east-1,ps5,87,success,17,Killer,1835
+240,161SuwDacL0F8yJLHy4iO14PTjmtFtTV,10:32:11,Tue,Survivor,4, us-east-1,steam,27,success,20,Survivor,1349
+241,bwNdjqg0mHruWwzucIixdwHkqLYVFSBw,23:19:51,Wed,Killer,1,us-west-2,egs,54,success,4,Killer,214
+242,pz6eS88Zko16AaavOZTzj007KOiy6xCh,13:57:50,Wed,Survivor,1,us-west-2,steam,56,success,1,Survivor,1263
+243,2gvdDBi3leSV1bV9UB637vvd3LH3PH15,09:10:17,Fri,Survivor,4,us-west-2,egs,46,success,16,Survivor,1128
+244,Y96B7d3VjQ0QJAWqrHhZAtfZiGON5hH6,08:55:12,Sat,Survivor,3,us-west-2,ps5,70,success,7,Survivor,1735
+245,Dh1lpoQDbfRn9690T9qxjL8AjNS6RQxS,19:33:50,Fri,Killer,1, eu-central-1,steam,33,success,11,Killer,875
+246,NyYmATYrCbl9vz79kPEdXTb51PJFiSLG,01:08:48,Sun,Killer,1, ap-southeast-1,ps5,13,success,9,Killer,1738
+247,Obat7Gr0jdPCCEu6AhglhCJw5M3ec6ZH,08:28:15,Mon,Survivor,4, ap-southeast-1,ps5,105,success,16,Survivor,1389
+248,ULqUgOOftF4KJJMGfiG1XWguz5dN4Rc4,16:06:28,Thu,Survivor,1, eu-central-1,xsx,7,success,14,Survivor,1834
+249,QVbh5syIQYR2ll3zyA8BZ5TWzPQgsT11,13:14:40,Tue,Killer,1, ap-southeast-1,ps5,86,success,13,Killer,977
+250,WyVYwgeJi2DFmnUTOm0zL2EPDjcRtNUE,15:25:36,Fri,Survivor,3,us-west-2,ps5,17,success,13,Survivor,1570
+251,zufSktKDEu7sVbvKWv9P36rm59SfD4P0,09:24:23,Thu,Survivor,1, us-east-1,ps5,69,success,20,Survivor,1371
+252,IBUyNKM3fOg2zXQ2BsaIe93ykPEmTI68,15:01:47,Wed,Survivor,1, us-east-1,ps5,72,success,15,Survivor,331
+253,MxVRbMX1PVuGPiwylh10VicvwAolttB4,18:03:11,Wed,Killer,1, us-east-1,egs,45,success,11,Killer,131
+254,FL9PM3Y9b8cRYVrkGay798D1fw3DSMC6,22:28:53,Wed,Killer,1, ap-southeast-1,egs,75,success,14,Killer,1933
+255,WeqLHWsZk327sqpPiz7lC0rigitesSxL,19:59:44,Sat,Survivor,1, eu-central-1,steam,19,success,8,Survivor,1370
+256,L4LdboTRLH3Yn1xSt6QGK8woz5mzcnKI,20:27:16,Fri,Survivor,2, eu-central-1,ps5,109,success,15,Survivor,377
+257,Nfu0iJWb7dOc1G4fBne6etC7RRyG779d,11:58:30,Mon,Survivor,1, eu-central-1,xsx,118,success,17,Survivor,909
+258,k6dwDJo8emOTY0UcgX4YOzxY4FiJBnbM,18:38:31,Sat,Survivor,2, ap-southeast-1,egs,109,success,7,Survivor,1111
+259,3bH9wKcts7qUEaPILwCJKJz9GAo207Sa,18:12:51,Sat,Survivor,3,us-west-2,xsx,115,success,2,Survivor,1513
+260,GWWggpLdj9gD6AqUuPCSwGNkYBQ1u8h2,21:52:01,Thu,Killer,1, eu-central-1,egs,85,success,15,Killer,1450
+261,k0scWV1PV8KYgKj0HveiEmANlhG62pHA,22:17:52,Wed,Killer,1, us-east-1,steam,0,played_cancelled,3,Killer,1300
+262,EvoFt70fdtbTDpUgEDygW6pi8GHdGzCm,10:27:32,Thu,Survivor,4, ap-southeast-1,ps5,58,success,17,Survivor,1571
+263,iL00SHY2zeNmqm1EPR4ph10SgInXyC4m,06:37:01,Fri,Survivor,2, eu-central-1,ps5,17,success,12,Survivor,1311
+264,G9CErmMNjL7WI41TWhT9r2cxkHxeFEIY,11:01:25,Fri,Survivor,3, us-east-1,xsx,70,success,18,Survivor,1848
+265,PxQXOupIYfKlkyVkR3yowp4mcy0nfH42,21:49:49,Thu,Survivor,2, ap-southeast-1,xsx,53,success,8,Survivor,201
+266,FtXcgwqQp0qzRk9TAWijdqDoYvFFs9ua,20:12:57,Thu,Survivor,1, us-east-1,ps5,26,success,8,Survivor,1267
+267,NRKZCJJL3qbKgQoiKuTzRqfhR2InUvBc,20:51:07,Mon,Survivor,3, ap-southeast-1,steam,19,success,19,Survivor,1559
+268,kqvqYC8AIcWXHZqSuSURLZ6JAscZpD7U,17:07:38,Mon,Survivor,1, ap-southeast-1,egs,10,success,7,Survivor,1373
+269,rKoVqxCdls5iiH6K1jkX5nwmhrYkLLDD,02:05:47,Wed,Survivor,1, us-east-1,egs,67,success,12,Survivor,597
+270,EZbNQ8GB9DuI85KN6Z4KH3oP24gob91X,02:27:36,Tue,Survivor,2, ap-southeast-1,ps5,114,success,11,Survivor,1151
+271,sjjrup8oxBjZNDsgumjdkqgQnzjp72bH,17:03:30,Wed,Survivor,1, us-east-1,ps5,14,success,3,Survivor,266
+272,KfEMeWxW2Min7qoyL2AOS27ta6qz315W,19:28:01,Wed,Survivor,1,us-west-2,xsx,75,success,6,Survivor,1674
+273,gzqOwEik0qnGWVUM3cR2B0OkcslPKgnz,16:59:20,Fri,Survivor,4, ap-southeast-1,xsx,117,success,1,Survivor,1247
+274,tgZpF5K6xEPMPfAm5wbhsK009B8GJ4pN,22:29:49,Sat,Killer,1,us-west-2,steam,74,success,17,Killer,1150
+275,4zuZgXEuy9d3PtPJFG9B4i1opR4Y0tPQ,10:10:50,Fri,Killer,1, us-east-1,steam,34,success,8,Killer,765
+276,VimwTbqrg3PDTxMSu6xK4k73TxRmieId,02:08:53,Sat,Killer,1,us-west-2,steam,33,success,14,Killer,12
+277,JDklhfhG8YX4ZPKP8hPAz5zl7th1UNHf,23:42:27,Sat,Survivor,4, ap-southeast-1,steam,112,success,8,Survivor,271
+278,GffjWfTlHXS8LF56JYRdZNhr73C5DWw7,00:05:29,Tue,Survivor,1, eu-central-1,egs,118,success,20,Survivor,547
+279,tNqpWStxJ2T0obXwIXMQMo8Wgxo4DYah,18:39:16,Fri,Survivor,1, us-east-1,ps5,0,played_cancelled,14,Survivor,1105
+280,WKU3PanCOBdBX1uQWUMY0xLTRDe1PuwB,13:04:52,Sat,Survivor,1, us-east-1,xsx,62,success,12,Survivor,1184
+281,fSxBsv6xiS3L10gvrJyLc2Frttk6esiV,01:41:28,Wed,Survivor,2, eu-central-1,xsx,78,success,7,Survivor,662
+282,V2XJ4vy3UG0MPZ2wQe7YzAeVdoMp0Nrp,13:42:21,Fri,Survivor,4, ap-southeast-1,egs,111,success,19,Survivor,467
+283,DeQDd8rLdAaWTxwhPV7KYsrQ9sWFYWaw,13:47:43,Wed,Survivor,1, us-east-1,egs,95,success,8,Survivor,486
+284,gP0FcYYVVwdFzd4tKZCkxSd83ddIXidN,18:12:21,Wed,Killer,1, ap-southeast-1,steam,9,success,11,Killer,132
+285,GVjx9OlHRYcnRqFLwC1AqH2ZVcyhQcNA,19:48:22,Tue,Killer,1,us-west-2,ps5,10,success,4,Killer,623
+286,0h901zvmzRx3R5Lrkgie9mEwN02zFgS2,06:34:19,Thu,Survivor,3, ap-southeast-1,xsx,47,success,16,Survivor,339
+287,BypbLWDPmyhpWjUB1EtCoVh9Bvq6G9xZ,18:28:30,Sun,Survivor,2, eu-central-1,egs,37,success,19,Survivor,843
+288,VhIduVC9G07v4QCcqitNnWBaNvn7TUEC,15:49:27,Wed,Survivor,4,us-west-2,ps5,74,success,10,Survivor,275
+289,VjT0usA1M7PeF2qagaelntedFmuNgco9,00:33:34,Fri,Survivor,1, ap-southeast-1,egs,2,success,5,Survivor,655
+290,cGOf8LPsHKIRZSkdN1fF3VVEmEcyvCSx,22:23:42,Thu,Survivor,3, ap-southeast-1,egs,28,success,2,Survivor,580
+291,WBGS7equmTpDOD90vanBVhRA16WaPufe,13:02:58,Wed,Survivor,1, ap-southeast-1,egs,28,success,2,Survivor,745
+292,kmkJpSzgRmnwKu6iqP2MF1AxHertXo4A,09:04:10,Thu,Survivor,1, eu-central-1,xsx,10,success,10,Survivor,1442
+293,trwo0tLYRTSjHR2AwPIpx2G8dIOa8U6H,22:28:26,Thu,Survivor,1,us-west-2,egs,50,success,18,Survivor,1762
+294,6GRvMG83q2jQGWFYCFXg6f8XJhsiBYx3,18:03:21,Sat,Killer,1, eu-central-1,steam,10,success,9,Killer,1832
+295,BJw4Fyp4YFn3UWmI4hEsqBCN2URioWCK,04:01:44,Fri,Survivor,3, ap-southeast-1,steam,101,success,13,Survivor,151
+296,ThT22BE6iwr0deDcZV9ZXgAp6Zhxse0K,23:06:00,Thu,Survivor,3,us-west-2,ps5,23,success,11,Survivor,1960
+297,WlTIUF0fCV6rnYkqiaSFGSxCDCHHnmnf,04:10:10,Thu,Survivor,3, us-east-1,xsx,42,success,12,Survivor,478
+298,qriN1lEB1D204N0g6tSf66yom5TC8tIq,19:58:37,Mon,Survivor,3,us-west-2,steam,105,success,13,Survivor,9
+299,hHiCqYIg7uRMVCZslfJQTaZw6TWbBYtt,02:26:00,Sun,Survivor,1,us-west-2,ps5,95,success,7,Survivor,656
+300,VcBP5ZztzyZXwE2mLNHcmjALxJICYfTc,13:02:01,Sun,Killer,1, eu-central-1,ps5,116,success,6,Killer,1599
+301,VuWzWJsIuiXN09D6XRylU3ifKgWJeVjD,20:14:11,Thu,Killer,1,us-west-2,steam,79,success,18,Killer,1313
+302,2dw293WJFXVDJpk4bBadrbJbnMkIPzCS,05:06:54,Sun,Survivor,3, ap-southeast-1,ps5,54,success,1,Survivor,62
+303,8DYUvi3VGYpHKcEceSKCIfiGqfuZNw9F,09:46:12,Wed,Survivor,4, us-east-1,xsx,116,success,10,Survivor,1016
+304,By97S9SzQ5xywTUqhADz1bzEmVM82w9s,04:19:44,Sat,Killer,1, ap-southeast-1,xsx,69,success,17,Killer,1557
+305,hZuME6cggxxvS6vB60fXvJhbbMrHBadV,08:16:47,Mon,Survivor,2, ap-southeast-1,ps5,19,success,10,Survivor,1893
+306,7Vxa25KtzayGXOuOZ32jcdzmWh5VHcP1,02:36:37,Fri,Survivor,2, us-east-1,egs,38,success,10,Survivor,1001
+307,5GngMncm6KpEplbI3DJYBbGMJKDOAneN,20:16:48,Thu,Survivor,1, eu-central-1,egs,67,success,15,Survivor,387
+308,WBZsBTBWO0z4rMB2Q0NHAuHTuLTttiEb,00:14:21,Wed,Survivor,1, eu-central-1,egs,16,success,9,Survivor,1488
+309,cU3tSfkLgBgFiGACrIW5ROm1dr8JwWv4,22:50:09,Sun,Killer,1, eu-central-1,xsx,76,success,5,Killer,1723
+310,O71WWwAlmaEYZQAgkOoUCA8PUkY0AJ6q,20:18:02,Tue,Survivor,4, us-east-1,xsx,77,success,6,Survivor,1484
+311,RErnbVvPfXrKqvDMBP48fQa5WtOKgy4t,21:10:21,Sun,Survivor,1, ap-southeast-1,ps5,107,success,5,Survivor,1051
+312,OVbgy0PrpDkvG7e6mAX5wq3vyDtEdXZI,16:59:18,Tue,Survivor,2, ap-southeast-1,xsx,70,success,13,Survivor,463
+313,86uZZR7YnF2Z2IGHeRdU83x0OwmL83YG,08:59:41,Fri,Survivor,4, us-east-1,xsx,60,success,13,Survivor,938
+314,rbiTTF22b8Z3xCF4ztOEtwt2GDtAVRu4,22:58:38,Mon,Survivor,3,us-west-2,ps5,11,success,16,Survivor,585
+315,3LEGgBV6X573GU7WXLngcAq3XvaR3OXN,23:46:17,Wed,Survivor,1, ap-southeast-1,egs,68,success,9,Survivor,869
+316,7mfAWun9Bbo00l8MAbtgPftrOP1s41AM,11:18:37,Mon,Killer,1, eu-central-1,xsx,36,success,11,Killer,449
+317,uhj0Y5jDNFPPkEpvTuQhkyE8luwYHgfB,07:26:52,Mon,Survivor,4, ap-southeast-1,xsx,31,success,2,Survivor,1282
+318,Rau4oLJyFF4EiTg74jfIvEMoDmoUigQv,23:59:13,Tue,Survivor,2,us-west-2,xsx,69,success,10,Survivor,346
+319,y8Sq5Yfkzu1C3EKyIDYJZls3KoNcN2Yn,16:52:27,Wed,Survivor,3, ap-southeast-1,ps5,83,success,4,Survivor,20
+320,fwCNF3U0l6d2LSBpRcZxJUaYK4DcN3qJ,17:11:38,Fri,Survivor,2,us-west-2,steam,93,success,19,Survivor,1677
+321,yZTmSewkVPSTKKul4CAlefJ8K8oO2hbH,01:00:11,Thu,Survivor,1, ap-southeast-1,ps5,92,success,2,Survivor,1031
+322,niuVEgI9GdpHS8M2uIqub2yl8OMWtsbS,00:18:57,Tue,Survivor,4, us-east-1,egs,95,success,10,Survivor,1108
+323,dMbgN0SnxKoiqAuLQzy4c4m0Y7LnyGlT,07:01:03,Tue,Survivor,3, us-east-1,xsx,18,success,1,Survivor,310
+324,GR55NEU2KoBtGRSjRbVgA9JydVeOA7P0,22:40:18,Sat,Killer,1, eu-central-1,egs,76,success,13,Killer,1053
+325,2RcT6BxfKFCO2nvEI9SISyJXczNqpWAi,08:53:42,Tue,Survivor,1, eu-central-1,steam,42,success,5,Survivor,1777
+326,yqt6DcSjzgb7Yfm2QAeIJ4LRv2aPZ65b,21:56:43,Sun,Killer,1, eu-central-1,egs,119,success,4,Killer,1924
+327,XmPKEHAi5YYvx58TYiYzKlkXm5uKZd1a,04:47:34,Thu,Survivor,3, eu-central-1,egs,26,success,13,Survivor,1379
+328,4gLGLYcQ4Nw2dtXKsDekydSBw72TUPG2,12:45:52,Wed,Survivor,2, us-east-1,steam,115,success,20,Survivor,154
+329,9a0ZS0J10saYffMwI26dtTNwe77ZUEjl,07:20:46,Tue,Killer,1,us-west-2,xsx,79,success,18,Killer,1434
+330,TwVgqBzSyleSUROopDCeuZwgurQQTA2L,18:52:17,Fri,Survivor,2,us-west-2,egs,4,success,4,Survivor,1177
+331,mGpvjhpJ3xEvdhyDSzYAxrv533KEpOpK,11:36:11,Sun,Survivor,4, eu-central-1,egs,75,success,2,Survivor,1474
+332,tcqTkYTMs3d13Xi6nG2jX4YtQvJQQMt3,13:05:44,Sat,Survivor,4, ap-southeast-1,egs,59,success,1,Survivor,1740
+333,EdnQVbsu4jLdZZ0uQOHhMeedsgafwwsS,20:19:01,Sat,Survivor,2,us-west-2,egs,54,success,9,Survivor,1764
+334,5ZCFoahYbVcYkzHs0KEs7shSNFhft9Cd,18:40:55,Wed,Killer,1, eu-central-1,egs,118,success,18,Killer,868
+335,LTm0QsSzy8VwRsnZHRbdsBkhyqxl3qmF,00:26:11,Sat,Survivor,1,us-west-2,egs,30,success,20,Survivor,507
+336,bTJX2D3wy9rU7nbL33VlqhgnkKQhD4fC,03:48:37,Fri,Survivor,1, ap-southeast-1,ps5,31,success,7,Survivor,216
+337,cNZ6V9cpFkSZy41jZHwcFK8ApjVwlNIb,10:18:16,Sun,Survivor,4, eu-central-1,steam,82,success,10,Survivor,200
+338,O8ScaLBkkxeKCLKr8Q4bj2WwW9iS4c4I,20:20:21,Tue,Survivor,3, eu-central-1,steam,81,success,4,Survivor,539
+339,8SZHAa5l1w658Rz3v2zy1nlU2N8h6ES9,18:34:16,Wed,Survivor,1, us-east-1,steam,69,success,7,Survivor,1206
+340,YVJnnPRuzX11vAzLTGLCYez70ObhCnId,21:13:06,Tue,Survivor,3, ap-southeast-1,steam,41,success,15,Survivor,830
+341,TE686PyCUwwMOL9XpursoIe78ABYZWjK,20:11:17,Sun,Survivor,1, eu-central-1,egs,67,success,18,Survivor,288
+342,6iMvujbPSZfQLn1O15nys9ryY89TKy5e,01:27:25,Fri,Survivor,4, us-east-1,steam,112,success,6,Survivor,617
+343,r3VpaiX3AwxTPiUMwR4NxWUNFUr2Qd5X,02:51:18,Tue,Survivor,4, ap-southeast-1,egs,110,success,12,Survivor,1819
+344,1EwGwQISdfkcw2bTPrraC3kDSuNpyX21,03:32:43,Sun,Survivor,1, eu-central-1,egs,99,success,11,Survivor,1169
+345,Va3viJynnKylV7ukJ44qu8kA9mXAKWcR,13:52:02,Sat,Survivor,1, ap-southeast-1,steam,2,success,3,Survivor,1215
+346,XzEjKV2UbZRDh0H7nF9eT9yFgcWGQ6T8,03:26:27,Fri,Survivor,2, eu-central-1,ps5,60,success,20,Survivor,1174
+347,J1DMlIwu3e403iQNWenbbqxVn7u2n6Oy,20:00:49,Wed,Survivor,2, eu-central-1,egs,32,success,8,Survivor,508
+348,X3HtWbKWffFZPCiZ8JqIyE4r1WuNQNlW,04:29:49,Mon,Survivor,3, ap-southeast-1,egs,20,success,3,Survivor,388
+349,1KHPeTDcJABP5VDcIXgLHFduTio8QrwD,15:44:53,Fri,Survivor,2, eu-central-1,xsx,29,success,1,Survivor,91
+350,wIcZ91F9ZZtX4q7sigCFhMS2d3Q7zd2m,18:05:57,Sat,Survivor,3, eu-central-1,ps5,58,success,1,Survivor,295
+351,P1zrcE6B4w2rkGEWPtKmp3M93WmgKFpv,21:35:34,Sun,Survivor,4, ap-southeast-1,xsx,57,success,12,Survivor,525
+352,2U9vxZYKCiHBqU4RdaPuKDCok7FNHE3p,07:47:13,Tue,Survivor,3, eu-central-1,egs,109,success,15,Survivor,402
+353,ZZxINW8G6c0tws6x9Ds7VBMYvMiJzOpZ,03:27:35,Wed,Survivor,4, ap-southeast-1,ps5,81,success,9,Survivor,477
+354,pZIq6R1IAUMNVjjemq36jE5F5yAA7GYV,00:50:45,Wed,Survivor,3, us-east-1,ps5,29,success,16,Survivor,1217
+355,Lc8nxP3K8oMCAB5RtIg4gLVQbteZ9963,14:12:35,Thu,Survivor,2,us-west-2,egs,32,success,19,Survivor,959
+356,duHpqDcGyzxm2J4FTRiPob3htril3O07,05:40:04,Sat,Survivor,4, eu-central-1,egs,8,success,11,Survivor,935
+357,FPMphxhUytN35AdfSoTjBx71RFzBKqPY,12:41:41,Thu,Survivor,2, eu-central-1,egs,108,success,18,Survivor,1774
+358,8ez5m18Zjuc8yl6IY8jDeoswuurEkYhe,19:16:28,Sat,Survivor,3, eu-central-1,xsx,51,success,20,Survivor,1653
+359,WQsqUrzgpxTf35OQRWZy1eAfqfOJN4At,01:28:27,Wed,Killer,1, ap-southeast-1,xsx,76,success,17,Killer,1885
+360,nxypCnMivZvcxJECeIUBgc6uK2w8O52E,18:37:32,Tue,Survivor,2, ap-southeast-1,steam,53,success,13,Survivor,926
+361,6ld6gwEJTiCXrLF3mYNo17xemiOodfja,16:05:44,Tue,Survivor,3,us-west-2,egs,98,success,6,Survivor,1641
+362,sT34Sj1ihTYnXn1YpAETfDJuWikrHamW,17:49:37,Sat,Survivor,2, eu-central-1,egs,109,success,8,Survivor,400
+363,0aML55U7s7oGplIPz5VLg91zqw6Ucfa1,22:51:42,Sat,Survivor,2, us-east-1,ps5,4,success,12,Survivor,1700
+364,KXEPwyyiVt4oMjqqlPi3uKkrz3itkRX6,08:03:57,Sun,Killer,1, eu-central-1,steam,61,success,15,Killer,1023
+365,PQhzAIbMBoB1jZgfWy8sZ8iewxyEsyye,23:18:06,Tue,Survivor,1, us-east-1,ps5,102,success,19,Survivor,174
+366,k2xou8d8wGOaFKf32CpKJbWukb5qa8Ke,06:55:01,Fri,Survivor,4,us-west-2,steam,58,success,19,Survivor,367
+367,NQNqnsXWTdf0NldXSslBL92EfJIr8M45,12:43:50,Wed,Survivor,3, ap-southeast-1,steam,92,success,5,Survivor,620
+368,ihtjVlz2nA3Af6Kf8al4iw9LSHoSBZDY,22:54:32,Fri,Survivor,3, ap-southeast-1,ps5,47,success,14,Survivor,1378
+369,MIPxUoTb6UccOkEI84zq3YSnkM8bJzFw,17:18:08,Thu,Survivor,4, eu-central-1,xsx,81,success,20,Survivor,113
+370,pQY02mHu49bbmSZ0zDmsJDfNcqeU6w0H,19:14:42,Sun,Survivor,2,us-west-2,steam,54,success,20,Survivor,852
+371,Tuq5bG1Xx79E39gGnuSjA3czirhP0Oxt,09:17:18,Sat,Survivor,4, eu-central-1,egs,35,success,8,Survivor,719
+372,rzacRXz7IFjkmwWOplQg0K4qzoPQ5dwm,04:34:44,Sun,Survivor,4, us-east-1,steam,19,success,5,Survivor,685
+373,FVFhZEJoaRsiAIJuFo6uJuawTRiliPIn,12:36:56,Thu,Survivor,4,us-west-2,steam,82,success,19,Survivor,1072
+374,VF5FFfED9ypPXbhttY6ceTOpRPJjt6Pf,08:34:32,Fri,Survivor,1, eu-central-1,ps5,85,success,6,Survivor,1239
+375,xZeGIU69zAC2bi66WbFK4lsQoiUljfGQ,08:36:49,Sat,Killer,1, us-east-1,egs,106,success,17,Killer,946
+376,wq5SAEh0xD2YnoLAeOn0WBeJtkVHVvPD,02:04:26,Thu,Survivor,3, us-east-1,ps5,84,success,15,Survivor,821
+377,KDabvodfQWfIv7oz3dwJ49c4KV9nRrvk,21:32:14,Tue,Killer,1, ap-southeast-1,steam,61,success,19,Killer,1790
+378,GWVaQXsmUIoRgOj0GMpaaTr2MsxtGeRU,11:31:28,Thu,Survivor,1, eu-central-1,xsx,66,success,11,Survivor,1153
+379,eg4a6BLXWy9PWqzmS7OjdEh5xnLQE4oT,14:06:22,Sat,Survivor,2, ap-southeast-1,xsx,119,success,20,Survivor,56
+380,J7TdFAUwLCLW8Iz72djPlESB9922GHF7,20:39:40,Sun,Survivor,1, ap-southeast-1,steam,96,success,8,Survivor,1944
+381,MgeUkr1AvGqtJfxyqtQaF54m11cJi6Ys,18:46:09,Mon,Survivor,4, eu-central-1,egs,105,success,2,Survivor,1288
+382,b8bG94XLA1luPMz8Xgzfdzy4Wsxi8BJI,08:49:33,Thu,Survivor,3,us-west-2,xsx,67,success,10,Survivor,809
+383,0yIHVELyBNdsqK3zmeMcUxWpqfNw5tNk,18:55:19,Tue,Survivor,1, eu-central-1,ps5,7,success,1,Survivor,1749
+384,VImDoY2baDUBRCB8hHrXfBvC1ZrgXQtv,05:34:18,Mon,Survivor,4,us-west-2,xsx,66,success,6,Survivor,1998
+385,lL4mZo7fabodgMr6LC6SkhMFT3utv27r,07:56:09,Wed,Survivor,2, us-east-1,steam,43,success,11,Survivor,269
+386,NyknsITnCDXgzoKmqtHsxNeKUuwjSg9t,00:04:41,Sat,Killer,1,us-west-2,egs,92,success,18,Killer,832
+387,3v4CjVAoKtjO3Y5I96WA0tQF5ZyBVtR5,01:37:19,Fri,Survivor,3, eu-central-1,xsx,32,success,10,Survivor,1291
+388,6qIQs7CGHlmHNvIIQkThtCLybDwG6yj4,00:56:43,Tue,Survivor,3, eu-central-1,ps5,62,success,4,Survivor,1259
+389,j31dsGz2P2fN4tV9V7yaEoz0PXifN661,16:01:12,Mon,Survivor,3, us-east-1,ps5,79,success,15,Survivor,1302
+390,ejallgiPqhvoVCqMrF3rlR2Rr4CeJjCK,09:10:24,Fri,Survivor,1, eu-central-1,steam,107,success,3,Survivor,301
+391,o4dnQoGlnz2xwVy5acObvhlu6QnKIpmY,12:20:25,Sat,Killer,1, eu-central-1,egs,6,success,13,Killer,1606
+392,rqXzDPzA7xkqVYqL7caJzB1h250ptT4c,13:39:25,Fri,Killer,1,us-west-2,steam,19,success,14,Killer,1014
+393,igL4m7bIkEpGKaGfOryuHdxvmapJk9nD,10:46:41,Wed,Survivor,1, ap-southeast-1,egs,95,success,13,Survivor,1100
+394,b4USXkD7uqpWu0OAG5kPbI9AoPavndQU,20:37:18,Sat,Survivor,1, eu-central-1,ps5,35,success,20,Survivor,160
+395,BbT4m0xkXzIHucT1YMHh5GDC1hkWamPw,07:46:51,Fri,Survivor,3, ap-southeast-1,egs,87,success,11,Survivor,1194
+396,7WXQzAxAy2I1N7L7NgYXqSCWn9oTiQOt,07:00:23,Tue,Survivor,4,us-west-2,xsx,25,success,20,Survivor,1006
+397,cloCS22m4t612UfK7SVsCrqdfEOI6aTp,03:24:24,Sat,Killer,1, ap-southeast-1,steam,99,success,12,Killer,1748
+398,KybHlnO1e5ty9iPFKmslF7RZKEEoZEBQ,14:18:09,Tue,Survivor,3,us-west-2,ps5,66,success,1,Survivor,992
+399,v5cceXxe41t5tQAaER7QWQD42VPGKqln,14:38:39,Wed,Killer,1, us-east-1,steam,82,success,15,Killer,621
+400,wdKLZv3a4jMJcpJFxTwfWIOVcelttfmV,18:17:48,Sat,Survivor,3, eu-central-1,xsx,117,success,16,Survivor,35
+401,UiBXUaLZ5LGkzemhYctCIiPAGJWu7ZBp,04:49:20,Tue,Survivor,4, ap-southeast-1,ps5,105,success,18,Survivor,54
+402,dJv8mFI9sQ3A3bHekTaP33HNZVNnm9rn,07:12:39,Thu,Survivor,4,us-west-2,ps5,110,success,13,Survivor,1351
+403,JXaNc2TDYoIeHJuLJG5KA16iDffelUFM,21:53:36,Sun,Survivor,3, eu-central-1,xsx,26,success,7,Survivor,530
+404,cuDeXc9mR8cOFzaejqQcuNBK0LVLhJjS,23:38:30,Fri,Survivor,1,us-west-2,steam,20,success,3,Survivor,839
+405,G7qF5VBeVx9W9mqWUgyDNXWrBzxl2Qpn,08:02:18,Mon,Survivor,4,us-west-2,xsx,18,success,19,Survivor,1097
+406,2KYULIXWVntbQAwdnBvsmyXZ5CuavFES,05:25:35,Sun,Survivor,1, ap-southeast-1,xsx,94,success,20,Survivor,439
+407,6nVsVYmSTPSH51ijLUE9KV4E8d6caDWC,00:46:01,Mon,Survivor,2, ap-southeast-1,egs,94,success,1,Survivor,808
+408,OnomC55L9aqOwGY7WGOFbyp3ZwZioubO,13:38:39,Mon,Survivor,3, us-east-1,egs,9,success,6,Survivor,1625
+409,MvV68tnulwsYNQHUskl9WF1JsWnBq5tD,19:03:36,Mon,Survivor,3, eu-central-1,xsx,72,success,1,Survivor,1799
+410,75gyT0SP0wKjHgGj3rjHeo9l5BZcj8aq,01:59:35,Fri,Survivor,2,us-west-2,xsx,79,success,10,Survivor,184
+411,O8wORcrq0Fz0uLsdiPUx2bCBfgAEYFUh,22:52:56,Sun,Killer,1, ap-southeast-1,ps5,77,success,18,Killer,1507
+412,3VI9JYU5iwySbosUPdvHqJsSesDVVF7b,09:03:51,Sun,Survivor,1, us-east-1,ps5,58,success,13,Survivor,1694
+413,KC929zAL2P1rx64F3rl7ykpfyaRrrbWq,09:16:01,Tue,Survivor,2,us-west-2,egs,28,success,8,Survivor,1121
+414,Gc58oxiYkfwHeRDmbPRXMZyqv0tjgWKP,15:13:47,Tue,Survivor,3,us-west-2,xsx,86,success,14,Survivor,1416
+415,l9s480zVDHItbUkrTxyFzsJB6P3KFzUK,21:29:57,Sun,Survivor,2, us-east-1,egs,110,success,18,Survivor,1124
+416,8juQ8ORnCSrIB3jui6zSDmYOQRITTs2K,21:25:33,Fri,Survivor,1, us-east-1,steam,72,success,14,Survivor,709
+417,VxyTkTKIuXHqMyfNoHvyPzyU6CiZu6K4,15:40:09,Wed,Survivor,2,us-west-2,xsx,70,success,18,Survivor,1096
+418,bLLJMPHONwx6saTwJaRXvhTjyU8yr0ND,22:20:34,Sun,Survivor,1,us-west-2,steam,56,success,10,Survivor,1114
+419,P8aq7jQO84vtBSxYmjFho8eoqemVmLMj,01:00:50,Thu,Survivor,1, us-east-1,ps5,119,success,6,Survivor,1987
+420,aOJoDTVKqacleW7cVQFuLDn3St0WXz0T,16:50:52,Sat,Survivor,1, eu-central-1,xsx,65,success,18,Survivor,1125
+421,Fwuz7HBBvTtrBY1ySzsvnPv5Bj5Nd2mN,01:32:23,Fri,Survivor,1,us-west-2,ps5,98,success,3,Survivor,1657
+422,EfmY72K1q19BlZxwtEh3KyZF9HB1UvX6,09:31:10,Fri,Survivor,4, us-east-1,egs,62,success,12,Survivor,1568
+423,BOFOahDFAD7R4GEj2Wc9LAGQGUmGtRNI,21:37:48,Wed,Survivor,1, ap-southeast-1,xsx,12,success,19,Survivor,1631
+424,Dk1vtJthDMQqnSnfpUb3BN1nSSXVAQuW,13:20:02,Thu,Survivor,1, us-east-1,ps5,95,success,20,Survivor,571
+425,gput7zqhgWss8niOjw4LgSSTfbm5WwzG,08:28:49,Mon,Killer,1,us-west-2,egs,45,success,18,Killer,511
+426,PEwfIWzUuPXmLkU6jBrsqb23QFsVznCc,09:25:44,Wed,Killer,1,us-west-2,steam,108,success,17,Killer,1789
+427,JLpoXeWdleE98oC779zs63tODfYlTLuI,10:49:02,Thu,Killer,1, eu-central-1,steam,57,success,1,Killer,1448
+428,uzQFmrToaqaEFW79UGJPmwRtJCyIYTjJ,21:13:52,Mon,Killer,1, ap-southeast-1,steam,79,success,5,Killer,1779
+429,8jvW5SZpx47By4mkHw5gjpzncpfnFigc,18:19:36,Thu,Survivor,4, eu-central-1,steam,38,success,15,Survivor,1055
+430,XHf2appM5tUGUy8KuMZO463PUWcNJxIM,15:55:18,Mon,Survivor,1, us-east-1,steam,85,success,1,Survivor,472
+431,7wWKzWOhZFvXyeRNzEilQVTCKLcaxUvv,00:32:51,Fri,Survivor,1,us-west-2,egs,75,success,8,Survivor,77
+432,srIA7ozfJz84ztrzfRfN3x5YMiJFKFBD,21:17:40,Sun,Survivor,2,us-west-2,ps5,91,success,9,Survivor,1414
+433,kH9jrtiOtBCqexLpgtr0CWyYXOhfWynt,11:33:20,Wed,Survivor,2, us-east-1,ps5,88,success,2,Survivor,391
+434,MgI8IxgXiejOLjYlypOeJhgN4K0CkyE7,14:15:40,Tue,Survivor,3, eu-central-1,steam,96,success,19,Survivor,1611
+435,ubk40L866O2mveqh0xe6n9xZ6MboDa7S,17:44:39,Mon,Survivor,3, ap-southeast-1,egs,56,success,19,Survivor,1615
+436,KiQ8GEMBVOFpSE1KMpyTws05g5yAkIXm,04:54:22,Sun,Survivor,2, ap-southeast-1,egs,117,success,17,Survivor,1408
+437,nVveLOBS47L6N7xfqm6sb1vUdM2LP82o,08:19:33,Sat,Killer,1,us-west-2,xsx,66,success,4,Killer,1655
+438,WSUrAcgMsDOnxMg37PoaLvVgDYU2BTGS,11:19:40,Wed,Killer,1, ap-southeast-1,egs,78,success,3,Killer,1716
+439,sinBUrLU7jSuGmpLVx7IwcQBTctd0Y3L,07:48:10,Fri,Killer,1, ap-southeast-1,egs,70,success,11,Killer,348
+440,YhWEmTXlSIhedLKUzHp0kE8F36wFfCjz,10:27:29,Sun,Survivor,2, eu-central-1,xsx,97,success,2,Survivor,1469
+441,a8otYUci9Fot4IakjWJzBW9MpO4PQGi1,07:21:04,Thu,Survivor,3, eu-central-1,steam,28,success,19,Survivor,1652
+442,HCRLQhPDQ3P6Icjb0JoOJrP8Kvoc81QA,22:36:35,Wed,Killer,1, us-east-1,ps5,36,success,9,Killer,225
+443,xRUQZjwflwsMBHgyfij51dtH8ggYZRv1,09:57:15,Mon,Killer,1,us-west-2,egs,115,success,20,Killer,403
+444,6wzTgw8rXrkxa8D4RrpMMaFpza49Ri7u,03:12:55,Mon,Killer,1, eu-central-1,egs,66,success,5,Killer,264
+445,SY9lgLdEYS1sKG3hcH0CTDXWkT3Uo9MA,07:16:40,Sat,Survivor,2, ap-southeast-1,steam,11,success,12,Survivor,186
+446,jgFaYmOUuSCBtcCzxxUMSa1mQ21nTMBL,22:07:19,Sat,Survivor,3, us-east-1,xsx,2,success,1,Survivor,1173
+447,L4V5mbsuVKOLCgtMr0Z5GVi8kf4Z8XHt,10:57:24,Tue,Survivor,1,us-west-2,ps5,13,success,5,Survivor,1262
+448,BUh6TJ2LUDixkb8WYW3gCUW65KBl5ucc,04:00:02,Thu,Survivor,3, us-east-1,egs,115,success,3,Survivor,255
+449,OPDs0gAT8o9MEoxlW2qXitz9sQQFhwZD,07:38:48,Sun,Survivor,4, ap-southeast-1,steam,100,success,16,Survivor,584
+450,22c4fTLEMmYC9BHo2xUL2hSKCoAvnuGT,20:40:19,Sun,Survivor,3, us-east-1,xsx,108,success,9,Survivor,1892
+451,g5GerBlPC57ZAqP4zhMXKuLx90y3i5aR,07:53:55,Thu,Survivor,1, us-east-1,steam,38,success,3,Survivor,1837
+452,zPtxvORW7Oh5txTJmArzmaoUj7zmeYCD,04:10:42,Fri,Survivor,1,us-west-2,ps5,118,success,9,Survivor,565
+453,L3EyZRkAJQt0bbaahMeHWVRkeaC4YLA4,05:04:24,Thu,Survivor,1, ap-southeast-1,ps5,31,success,12,Survivor,1813
+454,Mq5Pm0TdFEWIO9kglHa1SpTwzFYx98Pl,19:19:28,Mon,Survivor,2,us-west-2,ps5,106,success,13,Survivor,916
+455,BDRxMvJ6lyXVraHii6AZ2SUhSmkfUvmu,16:05:35,Sat,Survivor,2, eu-central-1,steam,49,success,18,Survivor,376
+456,EtnwKBhxC8pBYYJCgILRXxQrJ5sdAU8d,10:10:27,Sun,Survivor,3, us-east-1,xsx,48,success,12,Survivor,1817
+457,Qa1XYkPKSfJbxqMyplQIZHCPPjnL7fjy,03:14:01,Sat,Survivor,4, us-east-1,egs,109,success,9,Survivor,375
+458,3yfAooT88lSPiSUBE9bhztEoWYEIZfTw,01:44:12,Sat,Survivor,2,us-west-2,ps5,45,success,18,Survivor,1797
+459,yUsqvijpTVJ9QveIohApZhcE80kV6T0S,15:04:48,Thu,Survivor,1, us-east-1,steam,111,success,8,Survivor,1654
+460,jhkQdzdZ1GfjaIkfHQzr5ZgFGWYeGGrb,05:27:16,Fri,Survivor,1, ap-southeast-1,ps5,26,success,3,Survivor,1214
+461,SYVcz2VKXfzhLfIDtUaradEVUJUVPRy1,23:22:10,Sun,Survivor,3,us-west-2,egs,72,success,5,Survivor,1372
+462,MNgUJmGcOnh2NZQB9NTNWwrHuJaGRX2i,09:13:46,Thu,Killer,1, eu-central-1,ps5,101,success,20,Killer,1042
+463,uLDoepMwGuQVJ17hB5PIDqw6QIy98dhy,21:39:41,Mon,Survivor,1,us-west-2,egs,119,success,10,Survivor,1406
+464,4vWVtQfU4l07xxlyBEE6Zn7JYb7aK3ga,01:12:59,Sat,Killer,1, us-east-1,egs,48,success,18,Killer,922
+465,qIwXEDih7dEiPbKhp2aC2FrgSjJT7TMK,02:11:16,Fri,Killer,1, us-east-1,steam,77,success,10,Killer,303
+466,uFoedVbGIyS4f4nA3HzG8zXdAdS9GAkY,05:05:16,Sat,Survivor,1, ap-southeast-1,steam,113,success,19,Survivor,535
+467,EhCl7B96bgwuMpBFEk6gyEpYdKo6nVfB,03:07:34,Wed,Survivor,3, ap-southeast-1,steam,18,success,16,Survivor,1544
+468,ukYsgOHvGOf44Wbz59eizJzt1HezsyIL,11:44:34,Tue,Survivor,4, us-east-1,xsx,19,success,4,Survivor,1273
+469,Og7dS1klwNxVQdGitjfCa7TmE9cBCLES,04:47:12,Sun,Survivor,1, us-east-1,egs,10,success,16,Survivor,1482
+470,5RvRe2299tDD2TGe9dZVATs3M5kL5rji,13:54:13,Wed,Survivor,3, ap-southeast-1,steam,22,success,16,Survivor,297
+471,sC2yxRWhn4H0PyCoXcfYXNhdgueVl5zo,18:17:08,Sat,Survivor,3, us-east-1,xsx,51,success,4,Survivor,136
+472,MFTAhrnX1tBN5Z0Rvj1zAUcjmzLmU0eM,08:51:10,Mon,Survivor,3,us-west-2,steam,88,success,15,Survivor,1680
+473,65wnyt4lqqgxAWcaPYiZBTn3ljeBEbSw,07:32:39,Wed,Killer,1, eu-central-1,ps5,111,success,16,Killer,1726
+474,ea46RURguxLAkKNKhSaRKSefrz7gvy3e,19:18:46,Sun,Survivor,4,us-west-2,steam,38,success,9,Survivor,1381
+475,qYK8gD3rqty6sqGvV0mCswcimKf4ERiB,10:08:37,Wed,Survivor,3, eu-central-1,steam,103,success,18,Survivor,592
+476,nR20QYKAfzcp9M3GN36hOO0btgvrieMw,06:45:24,Wed,Survivor,4, us-east-1,steam,99,success,7,Survivor,5
+477,onfLe4CHYEQNDjNEnUKzo2JwZjkr2WQ2,16:07:37,Fri,Survivor,1, us-east-1,egs,61,success,2,Survivor,1193
+478,6vb4WhhxD7ydTzZSEAf6U3VXGp0zrXTN,01:22:30,Mon,Survivor,3, ap-southeast-1,ps5,115,success,20,Survivor,1921
+479,tY8OR7vLlgB4fh1zDREr5i4wSst1qCO1,11:20:07,Tue,Survivor,2, eu-central-1,ps5,14,success,1,Survivor,568
+480,ivXtcNKmfhgyKGy5LQ4V8cenb8JFIlMI,12:10:36,Sun,Survivor,4, ap-southeast-1,xsx,52,success,1,Survivor,1891
+481,G3XtE0jfBoh6jRQWguKW0rPF399gvunu,12:55:44,Sun,Survivor,3, eu-central-1,egs,75,success,1,Survivor,454
+482,SbPMYVVaaTsa5LuNcCcA6D9pBQ3BXiOo,08:22:22,Fri,Survivor,2, ap-southeast-1,xsx,115,success,6,Survivor,1445
+483,Q66ZSejNtq80QUKvnLV3zm9lI7Vs9PXY,01:17:08,Wed,Survivor,4,us-west-2,ps5,54,success,1,Survivor,28
+484,3qckCbtuynIEHidhBL7IltFCAXmDag0D,18:09:34,Sat,Survivor,1, eu-central-1,egs,99,success,19,Survivor,1366
+485,f3AlyobJkBk0sgC8PAIyL0nryKW7fN3M,08:01:37,Mon,Killer,1, us-east-1,ps5,105,success,4,Killer,408
+486,xm6XRHDfkW0lyFnsCGhU8HejdPcfnP4s,12:09:46,Fri,Killer,1,us-west-2,steam,109,success,17,Killer,296
+487,0ARNcqbLheFj2VqNvZ6F47r0waIXvjdD,19:40:10,Wed,Killer,1, us-east-1,ps5,12,success,19,Killer,1794
+488,VnKmOJc72nNJgV9RpzpdeuWlFdHdROLZ,02:40:27,Mon,Survivor,2, us-east-1,egs,75,success,4,Survivor,872
+489,fAzgEXuOGd2Sm2IyEy4IUjQu7QnDLyfb,08:59:04,Mon,Survivor,2, us-east-1,steam,17,success,15,Survivor,512
+490,9G8MNyRUE45PglesSh4Jnd4lHpiBri3r,16:45:14,Wed,Survivor,2,us-west-2,egs,112,success,14,Survivor,1950
+491,AaKMaoyKQNW1A6JEB1vQCc4eqWNlqZPB,17:26:44,Sat,Killer,1, ap-southeast-1,steam,63,success,8,Killer,1198
+492,QeKRlffsufhOJfa43W8zX4XPrtAu7odC,13:31:55,Sat,Killer,1, ap-southeast-1,egs,9,success,12,Killer,78
+493,b6jJOlaen3VbL8T7hOWDeBsf2MX2XD7n,12:21:15,Tue,Killer,1, eu-central-1,xsx,21,success,18,Killer,1095
+494,SPDliofgM6wzfBeGjBdo1jkVSZU6Mcym,20:01:35,Thu,Survivor,4, us-east-1,ps5,108,success,5,Survivor,605
+495,bcJPRH0AlOCpr8Go6sYawywzKAINC9vX,15:31:08,Sat,Survivor,2, us-east-1,ps5,67,success,4,Survivor,1380
+496,DBkDgcf10rQkvXzCPYfz9RKLh2P1HPaK,06:22:22,Fri,Survivor,4, eu-central-1,xsx,75,success,6,Survivor,707
+497,nTQORBkOoaMGx7gz8tlAXGg9b4IpUF9y,08:49:35,Mon,Survivor,4, ap-southeast-1,xsx,111,success,10,Survivor,334
+498,86BPPqhRmbpnsBjDMSd7ITnYkwWBLy5G,04:13:31,Wed,Survivor,2, ap-southeast-1,steam,108,success,10,Survivor,441
+499,X3SauGiVQs3m9041gjmUM5oLuOhek476,21:39:30,Mon,Survivor,3,us-west-2,xsx,25,success,14,Survivor,1639
+500,9xGWMGWV3rd4SlL4G3S1UjasmbuyG0h5,19:18:36,Sat,Killer,1, eu-central-1,steam,79,success,2,Killer,519
+501,9F1OItT7nnk8ramRbZtg8OPUqro76WS1,01:45:05,Wed,Survivor,2,us-west-2,ps5,30,success,9,Survivor,446
+502,Zof9jswO7IaBGCrBZvYtMU4EcEpZlc2H,02:03:07,Sun,Survivor,3, us-east-1,ps5,36,success,8,Survivor,1091
+503,l2GAoEJtD7J6DJ6MvAQfjmGzKNbucW7D,07:58:07,Sat,Survivor,1,us-west-2,steam,66,success,8,Survivor,16
+504,WUhebyP2HyNGpcRlf9vKt1CzqbrR2fOT,09:57:40,Thu,Survivor,1, eu-central-1,xsx,33,success,17,Survivor,1695
+505,dKiSmIrhHZJ3HWPWltG3mwL7zsYzIRRh,21:26:44,Sun,Survivor,4, eu-central-1,steam,96,success,16,Survivor,1003
+506,zVPdJiOUwzusRNJJDzMamvdz4S52BNOT,10:14:51,Tue,Survivor,4, ap-southeast-1,xsx,51,success,15,Survivor,734
+507,KBriRYB5lwuXuXyEOzTxVo7YukYxTnvB,12:30:21,Sun,Survivor,2, ap-southeast-1,ps5,68,success,12,Survivor,415
+508,5L6fCmXM4l98R3SPG1DmF9dCmhMngaxU,01:58:17,Tue,Survivor,4, eu-central-1,egs,1,success,15,Survivor,746
+509,vs4QTwUaUOvIrFEI7ZxnVcLpbWlexYEu,07:29:04,Fri,Survivor,1,us-west-2,egs,23,success,17,Survivor,1902
+510,NK6kWMuVamHL8yxwuIKrTh96zp74rNll,08:19:25,Fri,Survivor,3, ap-southeast-1,egs,80,success,6,Survivor,1795
+511,O0yUbHaUOPBlsLArzRBJwKAZOFWerf00,10:12:39,Fri,Survivor,2, us-east-1,xsx,21,success,12,Survivor,40
+512,eyouNhtZaZ9FJFW80iamIcnRa52avMbd,15:21:22,Fri,Killer,1, ap-southeast-1,egs,90,success,5,Killer,257
+513,L67z5JD33QVcnJZQO0DhVliQhcgc6qZ7,16:25:09,Thu,Killer,1, eu-central-1,ps5,96,success,1,Killer,267
+514,rzcY0TQgRR9qaYPDCIM3ZmrwjkUeM0hQ,15:23:43,Thu,Survivor,2,us-west-2,xsx,0,played_cancelled,12,Survivor,241
+515,du6TkB9yZh5QRzKlJiKh7AFu2APaql3x,02:52:20,Wed,Killer,1, us-east-1,egs,34,success,18,Killer,242
+516,dLZ0H6uvnmG3Y4JlTWJm8WQaKowjY82p,01:27:57,Thu,Survivor,3, us-east-1,ps5,16,success,8,Survivor,1467
+517,7Rq1iz21f70f2UfuDYzVYkqhFtSJVsq4,00:01:14,Sun,Survivor,4, eu-central-1,ps5,47,success,6,Survivor,1744
+518,lJ0SCH5iOn6yfb4DGRVOIe7Ko5SZeQOp,14:31:15,Thu,Survivor,1, us-east-1,ps5,2,success,6,Survivor,1021
+519,CVetgNjwFPLcQm0JPF9IQBNxrUZTHIRP,08:44:28,Wed,Survivor,1,us-west-2,steam,114,success,12,Survivor,1621
+520,C4GtHY8g1OPrSMQDke2VAjOviupnCphH,09:45:35,Tue,Survivor,3, eu-central-1,egs,46,success,20,Survivor,902
+521,kvEBH7auoUG7JARwEt3UH4x6G2bWGMiu,16:20:03,Sat,Survivor,1, eu-central-1,ps5,105,success,8,Survivor,1032
+522,Gda7vBsSXaTFOYBqOkSjJJHIm4ONyQAT,18:13:18,Sun,Survivor,4, us-east-1,egs,103,success,12,Survivor,329
+523,Ufy04up2rAMEzkDyGPow1qFbjQsb503I,14:51:52,Thu,Survivor,4, us-east-1,steam,40,success,10,Survivor,1219
+524,tihqY9PmMrRk9LQeaYgjYZMFBz3ic53X,20:15:01,Fri,Survivor,2, eu-central-1,ps5,104,success,10,Survivor,1565
+525,gdiABuErTOJ6DgDLHJpeGhEDw0KSz7DJ,08:08:13,Tue,Killer,1,us-west-2,egs,54,success,17,Killer,305
+526,7FxGWIkmSyYkIBq4FHP4WYqmm4e3kkfn,12:50:25,Wed,Survivor,3, eu-central-1,xsx,108,success,20,Survivor,693
+527,kzFycsVK63cpWoqdyBjEsxpjO0VwQ5Nr,09:22:42,Sun,Survivor,4, ap-southeast-1,ps5,17,success,15,Survivor,1043
+528,qn7ApP1cIGU1F22ahDdUIX6rZWtzr7UM,02:54:42,Sun,Survivor,4, us-east-1,egs,41,success,8,Survivor,1498
+529,UjPEAL5JC2kyUbHcdXcBKDYckttWvWFv,08:27:28,Thu,Killer,1, eu-central-1,steam,65,success,10,Killer,627
+530,yJeaNwKBgjlxeujkX3ocd65vtA9A77Hg,19:07:05,Sat,Survivor,2, us-east-1,egs,92,success,5,Survivor,1765
+531,H6pxoUMf9cb9dInbSGEm5P38eY4OJnC5,18:02:45,Sat,Survivor,4, eu-central-1,ps5,59,success,4,Survivor,767
+532,zAUfEynXTiNDrmNz6D0AbEkxrg1yl6EG,18:40:27,Sun,Survivor,1, eu-central-1,egs,77,success,13,Survivor,1283
+533,XN6foqrPvrJLxNw3fsOHRuqeTvCzxDDv,01:14:04,Sun,Killer,1, us-east-1,ps5,113,success,14,Killer,907
+534,N83t2aI8Rm0TL5P8CT7ZzBTSMlW2Kx7s,03:24:25,Thu,Killer,1, ap-southeast-1,steam,7,success,5,Killer,1079
+535,KFbNrw8BNA5J0hF4MMa5GylJcew6A3pw,03:57:42,Fri,Survivor,3, us-east-1,egs,79,success,5,Survivor,1920
+536,fG2oJh4q7wMehI4Q9ATmfGVN9JgivoHW,00:10:24,Thu,Killer,1, us-east-1,egs,8,success,17,Killer,431
+537,wzVgC3et8yir7jqpfiNJ4ESf7hsGqLmi,02:50:36,Mon,Survivor,2, us-east-1,xsx,19,success,13,Survivor,250
+538,3b2Cb0e1jD9wdbDQXk8uOn5bKCE0WA5O,20:38:34,Sat,Killer,1, ap-southeast-1,ps5,75,success,15,Killer,989
+539,MIpTUG1oBBXbMcwAvalK49zFReQR6Lqp,10:41:51,Wed,Survivor,4, us-east-1,egs,89,success,9,Survivor,1536
+540,fw2wqsMBqIGk5L1kcyvkEov5Kz495bgC,07:03:58,Mon,Survivor,1, eu-central-1,xsx,14,success,12,Survivor,776
+541,FtMiZyPUk8try8U2kCZ043yAKCrJqNQK,14:59:22,Sun,Survivor,3, us-east-1,egs,1,success,12,Survivor,696
+542,halOmqWuAWV5IhPLI1V8ddveBioYIuqg,22:55:25,Fri,Survivor,3, eu-central-1,egs,75,success,17,Survivor,1675
+543,iOPAma5k5jt4FzxdJYEejkU25Oe7ZJAk,22:53:04,Fri,Survivor,1,us-west-2,ps5,13,success,12,Survivor,459
+544,KU7YfYVG96cOR4WKRFfe5mg9qWawO6Mu,20:48:13,Sun,Survivor,1, eu-central-1,xsx,64,success,15,Survivor,974
+545,zckiM44AW0fXiJaLbaGULnGJx0tZn4yN,16:19:47,Sat,Survivor,2, ap-southeast-1,xsx,97,success,1,Survivor,554
+546,md1J9BAlZihde9jJ9mLgxBr3WrG54AHJ,01:19:47,Sat,Killer,1, us-east-1,ps5,69,success,17,Killer,1468
+547,y2bvl6sLRFVCsNT2SDMNmE3VawjAKczJ,05:11:12,Sat,Killer,1,us-west-2,egs,77,success,14,Killer,1642
+548,fSGKUSoIURIHkncNLlZGQqGAxgV3ocDB,06:30:52,Thu,Survivor,2, ap-southeast-1,egs,42,success,8,Survivor,672
+549,UZblKGdvpRfiaK2qmS5apllCZuZgtg16,13:20:19,Fri,Survivor,3, eu-central-1,egs,111,success,14,Survivor,1409
+550,t9Cgxk4A4ItjwLIJTgwxgYiEBExmqqhp,16:46:47,Sat,Survivor,2, us-east-1,steam,76,success,20,Survivor,1995
+551,2yWYKJLHkpHZe1sk1XFtQV0PRXQq5tcc,09:52:32,Wed,Survivor,4, ap-southeast-1,xsx,78,success,1,Survivor,1566
+552,qjFReNcdpzAL2ss1vXoewYhY4HOHYhc4,22:21:52,Sun,Survivor,2, us-east-1,egs,114,success,2,Survivor,172
+553,J1DaLseg3Mb5wsElnCoSDgAxubV2QENk,09:40:35,Mon,Survivor,1, ap-southeast-1,ps5,70,success,2,Survivor,115
+554,dM78usdXNc4MDd9lJ8Gw5k6ebQGagCE5,05:49:12,Fri,Survivor,3, eu-central-1,steam,71,success,14,Survivor,1847
+555,ONqDcipRQYcR7Z5YYbOeWbyQNfia62j7,22:26:11,Mon,Survivor,1, eu-central-1,egs,50,success,10,Survivor,1844
+556,eNQ18PMGhfgR1NKwfzXKzsNNr3hjHnaf,23:02:06,Thu,Survivor,2, us-east-1,xsx,45,success,13,Survivor,1285
+557,VrSw6caNM9n9BAoRz7Ad24Vb3impfuJs,23:07:55,Mon,Survivor,3,us-west-2,egs,90,success,14,Survivor,1424
+558,vpBHeXQxYkkAr2enh7eaaek2zRhsuGlo,16:43:36,Fri,Survivor,4, eu-central-1,xsx,85,success,18,Survivor,1605
+559,IbOlhUP3u97cedpL7G2m91RJ1RacGlKX,17:46:39,Tue,Survivor,4, eu-central-1,egs,55,success,1,Survivor,234
+560,OOjPkF0BiNU3Pc2cyqLaTZebSKGW9QuU,04:14:49,Wed,Survivor,2, ap-southeast-1,egs,82,success,5,Survivor,1747
+561,MN4I7uls4cpxY4pxZkdffp8Hvp0vOyHQ,03:34:02,Thu,Killer,1,us-west-2,ps5,90,success,13,Killer,1573
+562,tHcnRrNUm3mwBp0VALgKQzseDevmd64X,12:57:53,Tue,Survivor,4, us-east-1,ps5,99,success,14,Survivor,1985
+563,DjmEEKKK9PDEfu1fUUln9OydGSucRl8F,14:07:43,Sun,Survivor,2, us-east-1,egs,18,success,7,Survivor,1783
+564,UVtH99mogjf4gw5uSJTPUn2aOtu0P3Fy,19:54:34,Wed,Survivor,4,us-west-2,steam,0,played_cancelled,15,Survivor,1322
+565,sRIi7Ygkdb9UqFjxJ161ilsH7wdwOjwL,23:48:31,Tue,Survivor,2, eu-central-1,egs,58,success,8,Survivor,1201
+566,4dTnxSrrrqdn7z2JdB3VuRREeDIsPTE0,09:03:34,Thu,Survivor,1, ap-southeast-1,xsx,106,success,18,Survivor,1030
+567,ADBpEcX1as0xlOdd4Pm0fYZYr697Eg1Z,02:55:38,Tue,Survivor,4, ap-southeast-1,xsx,114,success,6,Survivor,321
+568,4aSq8L20zgfpsGdvshBqgaBP0eb2M1oX,08:10:25,Sun,Survivor,3, ap-southeast-1,egs,105,success,7,Survivor,1890
+569,8J71jYxbj7dvUwhinHaTmcYiP5AkI4Dp,00:42:18,Fri,Survivor,2, eu-central-1,steam,25,success,6,Survivor,1584
+570,1m197iMZUrpn9DlE7P5l7rND4YpNK1gA,17:07:11,Sat,Survivor,4, ap-southeast-1,ps5,74,success,3,Survivor,494
+571,Cf09h06jDRIGelbNXoIZZDATwrRL9baS,05:35:31,Fri,Killer,1,us-west-2,ps5,119,success,14,Killer,1170
+572,I25qiCuEQibuq4PJxysrg2yz78eB3EYV,16:16:12,Sat,Survivor,1,us-west-2,ps5,58,success,2,Survivor,1963
+573,MR3BtVwXgc0Y6AWINkg1gFZjY7OehTCq,11:06:27,Fri,Survivor,2,us-west-2,steam,112,success,18,Survivor,1922
+574,6ZPKgTkShjGiYlgrl08TpAFI86IIJyVY,06:40:05,Sat,Killer,1, eu-central-1,steam,2,success,9,Killer,577
+575,sHLLZ2b42oii9K513Bvx3fKC5009ZMlA,09:36:01,Fri,Survivor,1, ap-southeast-1,ps5,23,success,13,Survivor,551
+576,AZxl5mKUaNdZ6F7VdhI4hRFECKMqftpt,07:45:32,Wed,Survivor,2,us-west-2,ps5,114,success,5,Survivor,1926
+577,AjIIjhQijlxTU2KoMr64EKzZ2AsfpRxY,16:42:50,Sat,Killer,1, ap-southeast-1,steam,65,success,7,Killer,1296
+578,36f0SNMh5fLWxcOis0d2aqr2eah40RXx,11:36:59,Sun,Survivor,1, us-east-1,egs,80,success,19,Survivor,1974
+579,G0pUv4XzYWt8Ej5gGvSDIhonpaZyel2R,14:34:16,Fri,Survivor,1,us-west-2,xsx,110,success,3,Survivor,1685
+580,H83olRyqImeCwKzGiZys8XC8CZFiMruw,15:18:20,Mon,Survivor,3,us-west-2,ps5,31,success,18,Survivor,344
+581,rHk1BsEoC5i5XjxOoaiuRFBxSVsgjmMB,19:40:44,Sun,Survivor,4, ap-southeast-1,ps5,87,success,10,Survivor,1238
+582,1pIecNhaBZuSnrxP7qg0TBppYQDZYKMA,16:06:49,Sat,Killer,1, eu-central-1,ps5,111,success,19,Killer,515
+583,2Z0tBGS6s0wsffhzuqSxTg0m4ofP1EXW,12:54:37,Mon,Survivor,2, eu-central-1,ps5,118,success,4,Survivor,1164
+584,q6LXgaEx9VQrGnxTqIhhzklofp68D5ow,10:53:38,Wed,Killer,1,us-west-2,xsx,69,success,17,Killer,181
+585,tpOwtHQVDT4GitN6e9Q9FiPG6aPZl8yj,17:03:00,Tue,Survivor,2,us-west-2,egs,69,success,4,Survivor,983
+586,mwfPUj1KqSOPtuD4Ud8xjbg1C6wZ3uD2,03:28:35,Thu,Survivor,4, us-east-1,egs,19,success,9,Survivor,362
+587,O7hug2qZEZWy1AnTRR33kE2EHbflLE8G,20:20:30,Thu,Survivor,1, ap-southeast-1,ps5,43,success,9,Survivor,1724
+588,1bodcZmWxh6M1NGV7tB4uQHqxxwwhhS1,12:40:18,Fri,Survivor,4,us-west-2,egs,82,success,6,Survivor,1900
+589,sL0GfV55NwB25cUGHJLl82HK3Btx7NkJ,19:40:12,Fri,Survivor,1, ap-southeast-1,egs,46,success,14,Survivor,1634
+590,050dZ6xhLfGuAZdaRieVERar5983ijn6,16:04:57,Sun,Survivor,3, us-east-1,steam,100,success,8,Survivor,800
+591,e41vtXmGZHov8amOQuopaB7ZCcMQHAR2,03:51:20,Sun,Survivor,1, ap-southeast-1,steam,67,success,15,Survivor,81
+592,LD5SEdtIaPTWodVo4Tpalr7miRlt7LAl,07:32:28,Mon,Killer,1, ap-southeast-1,egs,77,success,5,Killer,422
+593,8pp0ZT27qXJXodtyCGqhsY2jSClzUv9Z,13:03:29,Tue,Survivor,1,us-west-2,egs,95,success,14,Survivor,1407
+594,8bARAcVOtgQmr2ovZUZ5JQ1huzCsPHLA,22:50:29,Sun,Survivor,1, eu-central-1,egs,89,success,19,Survivor,957
+595,J6u0W5fiPjlPlpeVe59qCCgcD0yrG2nr,14:34:07,Tue,Survivor,4, us-east-1,ps5,77,success,1,Survivor,1523
+596,YAUlDhQ6MPCooDkjh0s7djHOjrrXrBru,06:23:35,Thu,Survivor,3, ap-southeast-1,ps5,110,success,6,Survivor,1035
+597,rkdl8147QvVOvg4fsOIJsHxuLlArUGCc,20:10:08,Tue,Survivor,2, eu-central-1,ps5,107,success,4,Survivor,256
+598,0zRjmsBtulli1GD559i8j2wmJu5t9d9a,09:48:43,Sun,Survivor,2,us-west-2,steam,66,success,16,Survivor,1426
+599,B2YBbG4L5pxcjLfIybHegsP5ZtuD6dSj,07:38:16,Tue,Survivor,1, eu-central-1,xsx,32,success,1,Survivor,894
+600,7tHKcGK7USnPQZnPbdMP20R5ej5jjunP,12:23:07,Tue,Survivor,2,us-west-2,xsx,80,success,18,Survivor,460
+601,3VnCGSOetfmA90WK1OJelnvXy22jjoz6,18:40:42,Tue,Survivor,1, ap-southeast-1,xsx,14,success,18,Survivor,990
+602,IjTJVoTX9fx2KqMngiUjGGoiXTiOtrSZ,20:14:47,Thu,Survivor,2, ap-southeast-1,ps5,13,success,20,Survivor,835
+603,dk7mM4KYRJlYgbuOOrP8I5RxNlMIgbvW,02:47:37,Fri,Survivor,4, ap-southeast-1,ps5,51,success,3,Survivor,1703
+604,XdcO8iVlfWF7O0MYaHuqLDahmPpzVXjY,18:47:12,Fri,Survivor,4, us-east-1,steam,88,success,8,Survivor,417
+605,UvKUU5P5irw3qnWeDvQ1ldWoptFsjmF6,15:59:47,Wed,Survivor,3, eu-central-1,ps5,76,success,4,Survivor,1607
+606,7RAIJkA9TyDqREcE43jIlibKQXV9qS8d,09:15:02,Mon,Killer,1, us-east-1,steam,79,success,15,Killer,901
+607,KArNWLpunTBQWMGsF0Opj5R5YBSIcd2g,14:54:44,Sun,Survivor,1, us-east-1,ps5,60,success,9,Survivor,1859
+608,nkHpwvz0EWhvUz2luF1RUQQTczAvLN6m,01:51:48,Tue,Killer,1, ap-southeast-1,ps5,26,success,20,Killer,952
+609,QzKWplc6kqdzdalU5PSSgN9fPNjOqxkv,05:37:33,Wed,Survivor,4, ap-southeast-1,egs,92,success,6,Survivor,1551
+610,2bEQJeV41SkLFJlMFsnWe1tstjTJuikF,13:36:30,Tue,Survivor,4,us-west-2,egs,43,success,3,Survivor,447
+611,b8CuXh9uP9B4F8et6TN6b8SAZBaysICG,18:04:28,Tue,Survivor,4, us-east-1,ps5,105,success,15,Survivor,1514
+612,Vxm202DcKXm2oTlcKXTCtV1NclyWxNei,23:39:05,Sat,Survivor,4, us-east-1,egs,61,success,12,Survivor,1816
+613,gdw36xxvClUyKeaUluz5Bg8OdcBkwN2N,11:21:47,Wed,Survivor,2, ap-southeast-1,egs,96,success,2,Survivor,1356
+614,Y79hf8RtFNC7eA3B84tQMilLBf0CPNvb,23:15:46,Thu,Survivor,4, ap-southeast-1,ps5,14,success,12,Survivor,1588
+615,Y9ZAJjWRaPFM5jRcVdNKdAHh6uxlotJt,17:09:36,Sun,Killer,1, eu-central-1,xsx,115,success,17,Killer,1171
+616,bcUWCYGtibsnLddo2I4eIQEdIZBL3DZj,07:22:48,Thu,Survivor,1, ap-southeast-1,ps5,111,success,2,Survivor,1683
+617,12Eg2KGS2MF9cgi1GUWTq1dKMlKXTLOs,23:00:49,Sat,Killer,1, ap-southeast-1,egs,16,success,17,Killer,19
+618,UM8Y9i0zDDTfonaATcyvhGSLKc93ncwP,18:57:34,Tue,Survivor,2, eu-central-1,xsx,27,success,6,Survivor,772
+619,dIzhSzoU1yd29Xz6vNAthlpFVCo6ADo8,01:32:06,Tue,Survivor,1,us-west-2,steam,80,success,18,Survivor,17
+620,XaQKJ1Kcpo7cRusOOWFdXjnBOF2Krhap,13:05:10,Wed,Killer,1, us-east-1,ps5,30,success,10,Killer,300
+621,1XBaIVKemCpSpfALuQ7OiwfOJyucu74K,02:04:44,Thu,Killer,1, us-east-1,egs,72,success,11,Killer,261
+622,fZ3YlG2tRROVB9DC9LVH42xl2onukcyw,03:44:58,Mon,Survivor,3, ap-southeast-1,egs,108,success,15,Survivor,420
+623,5RH1RSkowvOfsU2UPEhe1ECHKco0czjz,21:17:59,Wed,Survivor,2, ap-southeast-1,egs,55,success,17,Survivor,1492
+624,zAUAen1FTeakXylEBfXI5gK0quPXxwSs,15:24:00,Wed,Survivor,4,us-west-2,steam,70,success,3,Survivor,754
+625,PrJ6n4TuOJmGKfUcAJdp244HL4aJfwlS,10:58:56,Thu,Survivor,3,us-west-2,egs,7,success,11,Survivor,982
+626,xsvwxBvlZW5iE4n02dcQtrIO40KZdTFL,08:06:42,Sun,Survivor,1, eu-central-1,xsx,67,success,4,Survivor,1058
+627,e8GJIdFouvnP2AIBoGgsKETweGBHG2Lp,08:55:40,Wed,Survivor,2, eu-central-1,steam,62,success,14,Survivor,1626
+628,AEsW27khcpbvmvlJ6qq4A9OTNjHWpPaQ,07:06:35,Thu,Killer,1,us-west-2,ps5,116,success,7,Killer,708
+629,H5dV0lCBErnFN0aqOK9e0oGsXEQe04kQ,05:37:11,Thu,Survivor,3, us-east-1,xsx,98,success,6,Survivor,435
+630,SmRDIYLtBAIrPVfCWTpH0YnUetJMExqH,02:59:13,Thu,Killer,1, us-east-1,xsx,112,success,15,Killer,1702
+631,zjqfZbFYA3WmSvi818wp8mL35HU6vOVn,00:24:49,Sun,Survivor,2, ap-southeast-1,steam,76,success,9,Survivor,529
+632,BSMFSu05f7Itu2cx4y5BwnwYAg0stAbL,01:12:20,Sat,Killer,1, ap-southeast-1,steam,110,success,20,Killer,1295
+633,kKQKOFEKDUR3ry0Bks4LV9iE4xGbEyDx,06:22:47,Wed,Survivor,3,us-west-2,steam,29,success,15,Survivor,1109
+634,ZHNAnwMcHmlknCRrz7HFBXrQ20ov0Jmm,03:30:05,Fri,Survivor,1, ap-southeast-1,steam,61,success,7,Survivor,43
+635,plrs0QBKxxQsnajRvd1rewMOGkO6QyWY,15:28:19,Sat,Killer,1, us-east-1,ps5,48,success,17,Killer,114
+636,L575CICZUK1HE9neLyQZAYLi9EY4DjBu,16:10:18,Wed,Killer,1, us-east-1,egs,73,success,18,Killer,1277
+637,TNubSABSKzg2odEZHTLXqtoHX3KS2dMa,12:25:44,Thu,Survivor,4, eu-central-1,egs,5,success,15,Survivor,590
+638,x4pF1k5sVvmULWLnZLto2XsG8MbwT7G7,08:28:49,Fri,Survivor,4, ap-southeast-1,steam,12,success,14,Survivor,1876
+639,LWMQk8p6SzGJlRS6xCHMRSeYexiKImmK,14:04:44,Fri,Survivor,1, ap-southeast-1,ps5,107,success,17,Survivor,671
+640,TfRoQTJkuCyj6GLlxCtGIeJxMHJ9uwva,18:08:43,Tue,Survivor,3,us-west-2,steam,45,success,2,Survivor,293
+641,82rHa6mt9IipXHJSEQqjOSA4WPZUPHCJ,00:39:40,Fri,Survivor,3, us-east-1,xsx,2,success,1,Survivor,1327
+642,a6YWMuejY3c03KUYQMlKKTTPeUIBd49F,10:16:23,Sat,Survivor,2, ap-southeast-1,steam,31,success,5,Survivor,96
+643,IqtvTapkTiNkfkVu1qLH7gKWW5SSuUhw,23:00:44,Thu,Killer,1, ap-southeast-1,steam,98,success,19,Killer,393
+644,nEzCP77PornQXOPUb15oY1HG7iLzTH16,02:13:42,Thu,Survivor,3, eu-central-1,egs,5,success,17,Survivor,1981
+645,yTPR7GrYPHiRXEr0WbClehhUZHTQCsue,03:56:28,Thu,Killer,1, ap-southeast-1,egs,100,success,5,Killer,1770
+646,HS33JtczfJIaVP4YYTNbrS0rwVU8etnt,07:07:19,Sun,Survivor,1,us-west-2,ps5,98,success,17,Survivor,1353
+647,VSP5t5BKMwUbmeBW8E0vciBNNQI5PDOp,22:38:57,Fri,Killer,1, ap-southeast-1,steam,79,success,20,Killer,743
+648,EVjKzajw8nbl27NCUmRPNFtOxBzwHS8A,14:56:01,Mon,Survivor,2, us-east-1,egs,60,success,2,Survivor,888
+649,SDt5XA49uSilVnj5ujXbBGG3obCEp8EK,22:58:04,Mon,Survivor,4, ap-southeast-1,xsx,98,success,7,Survivor,1578
+650,ZW4R29JeKfORDMYHTKvJUixJLk0IXt5A,16:35:34,Mon,Survivor,2, ap-southeast-1,xsx,59,success,9,Survivor,1688
+651,o6VfOVjDTBr43H2GVncTbl5QJGq87idU,07:10:02,Sun,Survivor,3, ap-southeast-1,ps5,52,success,5,Survivor,613
+652,6T3qsIUDQl6ulEOK9JSAEZ9aMXEdadem,02:27:15,Mon,Killer,1, us-east-1,ps5,55,success,19,Killer,485
+653,R0fFBmawoiQBJEEDtuPLXanIBAfKzdQ9,13:02:05,Sat,Survivor,1,us-west-2,steam,60,success,16,Survivor,736
+654,aOuDyLrMUVn4rzQeXzF3tYs45Ehzyktt,17:15:05,Thu,Killer,1, eu-central-1,steam,111,success,16,Killer,1833
+655,g2Du1r1Ieho0VTErit01pzCt4gqgCyTm,08:19:21,Sat,Killer,1,us-west-2,xsx,74,success,15,Killer,444
+656,Ab0rsRLRB8nFMrgG3enKwg2czo2IZKNS,13:55:06,Wed,Survivor,3, us-east-1,steam,99,success,1,Survivor,1863
+657,hqhDAsGn3Qm7njfSZHgXLA7F99gsB4Oo,02:58:16,Mon,Survivor,4, ap-southeast-1,egs,76,success,1,Survivor,853
+658,V4HkDHp22P17un8N1eItSqvXA8VV2N5H,15:30:21,Wed,Survivor,3, eu-central-1,steam,26,success,4,Survivor,1287
+659,oyM8YrHwuOS6MIbH0WhHdFta14CMXooB,03:50:42,Fri,Survivor,2, us-east-1,ps5,79,success,8,Survivor,1667
+660,C2ScUP0th36bsiHQdTmZMQzHktAqDW6H,23:57:12,Sat,Survivor,3, us-east-1,egs,47,success,13,Survivor,1473
+661,sDymmtDZFlYMKK79GyVkf8hOw7ZbRWrc,18:53:50,Thu,Killer,1,us-west-2,steam,111,success,20,Killer,1546
+662,wy2YdPWP9Tny40ppR1CYAvese4sIruYj,04:51:38,Sun,Survivor,2, us-east-1,egs,39,success,2,Survivor,1033
+663,uzhFKqNsHBgJDZ5v5eRhcCs0xWeHdVkP,11:33:32,Tue,Killer,1, ap-southeast-1,steam,57,success,7,Killer,675
+664,IO1V2zTloafeASMex6ZgnhtoGof06MeB,00:22:45,Fri,Survivor,2,us-west-2,ps5,45,success,15,Survivor,61
+665,NEWuW616pg5q5YomVQNRu9EsbaSrnCW4,23:10:13,Sat,Survivor,4, us-east-1,xsx,22,success,19,Survivor,1751
+666,SK9loXPrCnZ22yVAlkbUXzZUqhtHd8qY,22:37:07,Thu,Killer,1, ap-southeast-1,egs,22,success,17,Killer,1947
+667,8dMoiryhIqWn6Ax1S8QjyUfPnE12RtDt,22:56:20,Wed,Survivor,3,us-west-2,steam,51,success,12,Survivor,217
+668,LjUx2Xg4USocsEa2G0xoFoJU0gfhZ9Mm,01:57:39,Tue,Survivor,4, us-east-1,steam,13,success,14,Survivor,1436
+669,2LkeC0TmxeZXd5T1oSHYgaIUZTDCQZ1l,08:27:45,Thu,Survivor,1, us-east-1,egs,87,success,11,Survivor,1480
+670,RN8NRWtRlCyI4Ibk6IL23Ll8tg998d2T,16:39:25,Fri,Survivor,1, us-east-1,ps5,14,success,19,Survivor,887
+671,PMkfZWMDcNzdXoODaKeT9FaUS5QqPdWb,10:17:08,Sun,Survivor,3, ap-southeast-1,egs,60,success,13,Survivor,95
+672,gn3lroE5XLmRwrMnHDF1dlxsV0oYv8xz,19:17:02,Mon,Survivor,1,us-west-2,steam,26,success,3,Survivor,1597
+673,RXYAhtgq5vsr3mQri8OmUNVMF2UpbCL5,21:11:36,Wed,Survivor,1, eu-central-1,egs,74,success,18,Survivor,37
+674,qPu2SQnoDpDjPbEEGXwYyiqRXGOiUEgT,09:05:24,Mon,Survivor,3,us-west-2,ps5,68,success,6,Survivor,684
+675,B6Egi0WVeidjeBxOVDWTYXLQ9ygn5bL9,06:28:46,Fri,Survivor,2,us-west-2,steam,63,success,2,Survivor,1440
+676,iUNJQ7vHtP4LkqEScClTJdXtH4rkGDmQ,01:19:17,Fri,Survivor,3,us-west-2,steam,7,success,18,Survivor,419
+677,hVTW2JZOAYQIDbzuWJZfKRnnzViIR2BW,21:52:48,Sun,Survivor,3, ap-southeast-1,ps5,78,success,11,Survivor,699
+678,p1dkeshsLFItjgtyUr0Gn2Fk3XHKXnGm,06:15:53,Sun,Survivor,3, ap-southeast-1,xsx,44,success,19,Survivor,1437
+679,089XjMx7kQKjV4xFN4BEVQEldqX6KX4G,08:49:12,Mon,Survivor,4, us-east-1,xsx,114,success,1,Survivor,924
+680,MsR7c1TtTuiuXktjXVYAd2S1CmxJVg0a,04:00:33,Fri,Survivor,2, ap-southeast-1,egs,113,success,20,Survivor,1888
+681,A6NyzmWJkW5lLMYiCUWoQTuh5Cj6DkOH,23:25:31,Thu,Survivor,1, ap-southeast-1,ps5,68,success,5,Survivor,1110
+682,MeDajCbTmVUdO8Yqo6IGw2xr1JnELuFW,07:47:35,Thu,Survivor,3, eu-central-1,ps5,79,success,9,Survivor,1323
+683,Pa18KXsY6vrgP9ktKZCguZVeTRhYhxRP,05:51:02,Mon,Survivor,3, eu-central-1,steam,84,success,1,Survivor,1707
+684,crZ9hPqT7e0im8Sgbz6erulqMMVBwVz8,13:39:59,Wed,Survivor,3, eu-central-1,steam,60,success,19,Survivor,728
+685,P2LZSSNzZ9QRblysBfzGBNPwFayHrmOj,17:04:01,Thu,Killer,1, us-east-1,steam,87,success,12,Killer,1574
+686,vLzpDBXCqiqSKJhrExgpPlB0wljsS11h,00:56:40,Wed,Survivor,2,us-west-2,egs,97,success,13,Survivor,193
+687,n9sExDSYGLrZuQybazjbCDNqVPkwtx6L,18:05:21,Sat,Survivor,3, eu-central-1,ps5,81,success,14,Survivor,412
+688,eJwlhMvc4K4HSbXk4IhCT3n6xg0NmBsW,04:20:41,Tue,Survivor,1, us-east-1,xsx,93,success,12,Survivor,858
+689,9pjudQ7Avq2c1KVPuMAyRhmXLoNLH4Fk,18:18:10,Thu,Survivor,1, eu-central-1,ps5,100,success,13,Survivor,1527
+690,7mef8LD0o9R8rFbYTwM6WM2vgf2yXvnB,16:07:01,Wed,Survivor,2, ap-southeast-1,ps5,96,success,17,Survivor,566
+691,3XODyWXzlVDAXwJYNox49Adlh4pFf2nX,10:48:32,Tue,Survivor,4, ap-southeast-1,egs,85,success,14,Survivor,1945
+692,BFhSc3Ac2ZNZEm6RnCpH8jQsdIAqK6Y1,04:27:32,Sun,Survivor,4,us-west-2,ps5,60,success,18,Survivor,1734
+693,RpxyyutdkCTeDiIYS3DBAzX0ncdL4V06,05:38:40,Sat,Survivor,3, us-east-1,xsx,49,success,6,Survivor,1961
+694,ipMD3g0eKnA4sVSlUhftGVae6vnxYEA6,03:02:24,Sat,Survivor,4, eu-central-1,xsx,22,success,6,Survivor,1376
+695,EnVyUWpZOvm6AYhiPcDwEvjWGkpuejpa,00:48:05,Mon,Survivor,2,us-west-2,egs,35,success,9,Survivor,704
+696,ortxqXJyUPVt9R4wdE9nHYGstP37ocgu,04:09:10,Tue,Killer,1, us-east-1,xsx,18,success,20,Killer,1038
+697,QZQnLqtmff3L0WTbPo4CFCrBJ3YQy6lL,10:37:13,Fri,Survivor,4,us-west-2,ps5,48,success,10,Survivor,796
+698,neBfFqrQsRVZyrZizV9lZXOUC97L0jM2,07:21:26,Fri,Survivor,4,us-west-2,egs,109,success,13,Survivor,1085
+699,A10pI8vRgPIfN8iBw8fewpjSoaqBBLSl,13:42:22,Thu,Survivor,1, eu-central-1,egs,81,success,1,Survivor,1691
+700,zf5LLHLfEeDxGZBtyqXXNziQ5jSM2VG7,15:45:46,Thu,Survivor,2, us-east-1,ps5,65,success,13,Survivor,1526
+701,5ySNGidOS8CKgIbA7JCl2vtHLV9oiJew,22:05:56,Tue,Killer,1,us-west-2,ps5,117,success,19,Killer,173
+702,EqAFzNI8NUoIELJKatRsHGnLbOmbt0n6,03:53:00,Mon,Survivor,2, us-east-1,xsx,81,success,11,Survivor,1086
+703,V8A4Mdt3igvAhh1EmZZxTNLe6HSJxM0n,04:40:22,Tue,Survivor,3, us-east-1,xsx,81,success,10,Survivor,84
+704,2enNLU8QU0014evpSXqzLAErSJq9o3FX,00:38:58,Tue,Killer,1, eu-central-1,steam,91,success,12,Killer,897
+705,5PAOhZEspffSjJ1B5c3nucn1MwTSh4JM,03:08:42,Sat,Survivor,3,us-west-2,xsx,100,success,8,Survivor,591
+706,LrLd1CP7ZtVgaLnDBNZ1kzkvibjxX0tv,17:03:02,Tue,Survivor,2, us-east-1,xsx,103,success,7,Survivor,749
+707,AFBTYzIpJFhCqOIfo6oeiXQbqZ0DaHMf,22:44:12,Thu,Survivor,2, eu-central-1,ps5,21,success,16,Survivor,811
+708,ZYrqTUBEgjZLQiSF73zpdkBg1KKxKDc7,16:17:06,Tue,Killer,1, eu-central-1,ps5,62,success,11,Killer,761
+709,MECf3hlNCZ2YoHb6jqZziLPB5XvSxkQ6,15:07:54,Sat,Survivor,4, eu-central-1,egs,19,success,6,Survivor,4
+710,VdoOkvw7LLtBle947869eslUWF7lINAk,14:04:15,Thu,Survivor,3, us-east-1,steam,13,success,17,Survivor,865
+711,KvIOpNEqvEGr8YaEvqESVoKTLUg65Z7x,04:22:10,Thu,Survivor,3, us-east-1,ps5,95,success,17,Survivor,1228
+712,DW3xFk9vDv0Jt7dSyuXU7wiTNzLpFobq,21:01:26,Wed,Survivor,4, us-east-1,steam,20,success,7,Survivor,1555
+713,UkUQAUKyJ8jIPtadu7HfTQX7tn0S6puJ,17:11:02,Thu,Survivor,2,us-west-2,xsx,3,success,4,Survivor,52
+714,ziNyAdi9S2EDGPvJVbM77hptGF97Hh5U,04:53:58,Thu,Survivor,2,us-west-2,ps5,108,success,16,Survivor,1491
+715,PB2reYJewaSkPxQ53GPyOrfUVu8xuDPA,13:24:33,Sat,Killer,1, us-east-1,xsx,3,success,6,Killer,1905
+716,i7F2Wl6pf0Y8olo6hRMtmzummdJyhWhx,17:50:45,Fri,Survivor,2, us-east-1,steam,34,success,11,Survivor,866
+717,pBtgVomWqiuv0gbFDfiaqGOw4Owd1rh0,05:35:40,Thu,Killer,1, us-east-1,ps5,103,success,3,Killer,705
+718,YtfaJcwbseK9AOO7mnX5eyuZoJdskjnV,04:48:37,Wed,Survivor,3,us-west-2,egs,75,success,16,Survivor,589
+719,sLUZJk7RxdHODI2YhhmGoqYa57oCJ8lI,00:07:47,Sat,Survivor,2, ap-southeast-1,xsx,36,success,5,Survivor,1503
+720,2FJCi6v27WghyKmatWyo4vBj80awYgbu,14:47:28,Tue,Survivor,3, ap-southeast-1,egs,4,success,1,Survivor,1205
+721,flacg67y6logyRjDRTsucX8Py6RPvyYU,09:14:42,Fri,Survivor,4, eu-central-1,steam,74,success,20,Survivor,1633
+722,98BStzQaZz0q9Z9wV1VcPugOC5Oex5eo,16:47:31,Mon,Killer,1, ap-southeast-1,xsx,55,success,10,Killer,968
+723,wd7lMnyYuAxYAfcT9VicVHqkyeT4uprW,01:23:29,Tue,Survivor,1, eu-central-1,egs,102,success,4,Survivor,1142
+724,a6Wt5QoQGcrfhecThFabJiK6VX565LYJ,22:10:48,Mon,Survivor,2,us-west-2,egs,1,success,14,Survivor,1757
+725,X2ecuu8qG02vL6IaZo9wRsM0WJhp4Qd9,04:25:37,Fri,Survivor,4,us-west-2,steam,22,success,1,Survivor,1071
+726,UGZ75Mzh1i9WtDmaquH8vB4OZFoYKvMP,15:25:32,Wed,Survivor,2, ap-southeast-1,ps5,110,success,16,Survivor,1967
+727,Y8YOPKmOWCUtdS4GtVlCIyMMyU8oTahX,03:42:34,Mon,Survivor,3, us-east-1,steam,110,success,10,Survivor,1122
+728,xpzRuRMCZjkuroXQm1l6KCOd5afkYNyY,05:38:59,Tue,Survivor,1, us-east-1,xsx,97,success,19,Survivor,407
+729,ThoD22FfYprHKTGQFtwnm1jdaV2VxSTU,07:20:52,Sun,Killer,1, ap-southeast-1,egs,65,success,8,Killer,658
+730,EQoYRfVxEu4Dzbb3F6HssM134oonCqjB,16:14:37,Sun,Survivor,3, us-east-1,egs,90,success,5,Survivor,948
+731,x74vuGwr74HjSdRzU7VQ3D5jTTwDLxVO,07:15:26,Fri,Survivor,3,us-west-2,egs,104,success,17,Survivor,541
+732,IYVN0iUYus34Synat0gcl4pHsz0lLgqd,17:48:18,Tue,Survivor,1, ap-southeast-1,xsx,37,success,18,Survivor,1512
+733,Pyc9AUIr9gtEne6BcABOBi5DWKlN4oim,20:54:50,Mon,Killer,1, us-east-1,xsx,64,success,17,Killer,1635
+734,MyxSzINDsPU1keRxuIZwSjZkr1z8VPTU,10:53:54,Fri,Survivor,4, eu-central-1,xsx,117,success,18,Survivor,59
+735,c0wfwebokcOVN5ZxrJXIFpj8xCfcJnI7,13:34:16,Tue,Survivor,2, us-east-1,ps5,99,success,9,Survivor,1307
+736,uHqFZaztCMi9fRiEPekxS3zCIEBVaiH6,00:07:50,Wed,Killer,1,us-west-2,steam,10,success,17,Killer,1428
+737,KxrRBW0zTTUI9Lz9vBexluFG7Xvu8I8e,19:31:47,Sat,Killer,1, us-east-1,egs,113,success,10,Killer,668
+738,4kSp9u8MMGpa9MtMDI1IxLTFqIJ4dTPG,23:40:21,Wed,Killer,1, eu-central-1,steam,21,success,1,Killer,448
+739,O7H9p3xLWZstva518xTuxVgMnN9bqy6f,04:50:13,Sat,Survivor,1, eu-central-1,egs,58,success,15,Survivor,1203
+740,SjVcmYsfU16WEjKmSc5ULUQytDqoBKoI,06:37:04,Thu,Survivor,1, ap-southeast-1,xsx,86,success,7,Survivor,534
+741,11U5oDZ7pLHd9lqwbYkKq8BLi2ddLd9M,20:06:23,Fri,Survivor,3, ap-southeast-1,egs,90,success,15,Survivor,1176
+742,gxX3tXNDbmpInGCKBJQRbeNXMsUQbr5a,08:20:02,Thu,Survivor,3, ap-southeast-1,xsx,3,success,13,Survivor,1840
+743,Vok2CEE92w8cdQQGCJ0Li1x0OBRGOqh8,12:24:06,Sun,Survivor,2, eu-central-1,ps5,8,success,3,Survivor,319
+744,fS4ko6PQJvbf7kOthKscZvoRovsQrSOt,13:36:19,Tue,Survivor,1,us-west-2,ps5,94,success,10,Survivor,479
+745,fYjwYWADALrKLS8HmgKEtMSogkS0nkBs,00:31:52,Tue,Survivor,3, eu-central-1,xsx,90,success,16,Survivor,859
+746,amXtEBWQ96frCGshQd3eO3hvdmWL0E8q,00:07:08,Mon,Survivor,3,us-west-2,steam,18,success,7,Survivor,24
+747,drBYau1cAer8AswDAHjfNxRXECSib7ro,18:02:20,Mon,Survivor,4,us-west-2,xsx,93,success,8,Survivor,963
+748,ekrKrfU8HBhsozmcYkDRZ3mSV64XzDX4,08:51:19,Mon,Survivor,2, us-east-1,steam,97,success,2,Survivor,413
+749,jKuZkMFvqTmZP3HWLTwrhc2DluTT9VFA,01:32:56,Tue,Survivor,4,us-west-2,steam,100,success,10,Survivor,1656
+750,TvsOvwDsSCNCqFMNExuRhyI93tBMXps7,15:10:39,Thu,Survivor,4, ap-southeast-1,steam,90,success,1,Survivor,1012
+751,46k5ENCXhKzwMCaOSyFdodnXVyzjGXQj,11:44:20,Fri,Survivor,4, ap-southeast-1,ps5,28,success,3,Survivor,972
+752,NuSrCX0M5Rlk17P3TfMXjyqPtj1TpNul,19:13:15,Thu,Survivor,3, eu-central-1,xsx,69,success,12,Survivor,1082
+753,aKQ08zt9QbOXmcQlT2K36M73Rb2ikLjA,18:55:00,Sat,Killer,1, ap-southeast-1,ps5,30,success,17,Killer,238
+754,SN5JzRqwB4RvUzJt7cLWqbYQEs6EJNJg,23:23:12,Thu,Survivor,4, ap-southeast-1,steam,30,success,13,Survivor,1894
+755,epkZ4tuv9dNrdiSyvWy8Omr0FThsiivC,10:14:00,Fri,Survivor,2,us-west-2,ps5,29,success,5,Survivor,473
+756,zttDrogWVhzGhsk9rl1PaZxlKGeNXcYq,08:19:47,Fri,Survivor,3, eu-central-1,egs,10,success,16,Survivor,595
+757,tfkdSIp5FolmbBUsmtRA2th4ZQ8eBKcL,11:57:42,Mon,Survivor,4, eu-central-1,ps5,87,success,19,Survivor,1659
+758,MFl5HWNfvwN3kxeg4MqOCz8jTk7cjdig,09:10:46,Thu,Survivor,3, eu-central-1,xsx,55,success,18,Survivor,1658
+759,9I12uyfvPKQkRh7eAOtKh963C2GxEpnT,09:46:35,Wed,Killer,1,us-west-2,ps5,59,success,16,Killer,1660
+760,9cU0s7nq47BF73NNAyefV94qmVYyi18N,01:59:37,Wed,Killer,1, us-east-1,steam,92,success,8,Killer,1528
+761,NCcPzZgaF7uFe4UhZ0tPOkdwVIhJBfBj,17:00:26,Tue,Survivor,4, ap-southeast-1,ps5,50,success,12,Survivor,532
+762,NPhZZP0QY9OVfyISrcTjsVxeVNPa1kbP,11:29:30,Mon,Survivor,3, eu-central-1,ps5,57,success,17,Survivor,1028
+763,eBezr3A8L9tnQbNwCOPmFFSNseN4gXeF,19:21:31,Thu,Survivor,4,us-west-2,ps5,7,success,16,Survivor,919
+764,ZQlVduqcuOYctksCKzDqC1ryiYZVlOl6,10:35:47,Fri,Survivor,3, us-east-1,xsx,6,success,11,Survivor,1390
+765,rLqdyfBzNVBu9qP3jOGJvU1mHepWd0aY,01:02:32,Mon,Survivor,3, us-east-1,ps5,3,success,5,Survivor,860
+766,XvOCnEdYI8agYjgBGBhOoRImI2f52AG3,10:33:33,Thu,Survivor,2, us-east-1,ps5,12,success,17,Survivor,908
+767,tLbKM2Tbesbp6W35FxjmZ84Ns3LbAO3y,10:14:21,Wed,Survivor,2, us-east-1,egs,37,success,18,Survivor,1309
+768,YoKkRvgviSbBFlAUK4gJ2LBWupwnNB0M,15:37:48,Sun,Killer,1, us-east-1,xsx,114,success,14,Killer,526
+769,5miZjfW6d9GnJb0MPEuBN2qmbU8zKyKC,14:42:21,Thu,Survivor,3, eu-central-1,steam,3,success,9,Survivor,1067
+770,eey3EVfoQ74XQYNCds52eGizQdJNz6yW,05:16:59,Thu,Killer,1, ap-southeast-1,egs,81,success,5,Killer,1350
+771,MbWzSvV3nYzd7nnyFFjuKb7NTlTlJ3Wz,17:49:17,Thu,Survivor,1,us-west-2,egs,64,success,12,Survivor,1636
+772,gFqB6SWajQiVyO7HP7IheHOrWUVqTBHd,05:27:18,Tue,Survivor,3, us-east-1,egs,109,success,5,Survivor,1782
+773,UF66My7rk5MFfc3JF4vzRzHtHHiiHINi,01:02:07,Fri,Survivor,2, ap-southeast-1,ps5,79,success,5,Survivor,371
+774,7bhYXS4whtP5aEi0TiIIBQPrUmVqSgEk,06:02:11,Sat,Survivor,3, eu-central-1,ps5,74,success,16,Survivor,205
+775,M4EK8rQDn493GUEWUxUTthXzBvzCUyPj,04:18:48,Thu,Survivor,1, ap-southeast-1,egs,5,success,17,Survivor,72
+776,YoqaCJIlXpEHc5FwAxqx9zPsEk2l1ucG,14:13:12,Fri,Killer,1,us-west-2,xsx,58,success,13,Killer,537
+777,z6aDeumZzCaZh7hzfhw0pClcyRDvtHbX,18:16:52,Mon,Survivor,3,us-west-2,xsx,93,success,6,Survivor,392
+778,6ouNa4mctXwQjpV1jMIlzyQBYTUHaEa2,09:06:24,Wed,Survivor,3, eu-central-1,egs,93,success,11,Survivor,1689
+779,MDD9Rc0iOcs6xa90w30SNskfHApVUj3F,15:40:07,Fri,Survivor,4, eu-central-1,egs,57,success,6,Survivor,323
+780,ZQwmA8HMQcXNUCWHE6akXhSL7a9CfiIE,20:11:24,Sun,Survivor,1, eu-central-1,xsx,37,success,9,Survivor,1200
+781,lJuqb86LT7CRVFJljIlCNkM4oFwIx9kc,02:29:52,Mon,Killer,1, eu-central-1,xsx,118,success,14,Killer,111
+782,HuAWnNc0908wSB1ODqNqgMpTlX2X7W9R,09:38:51,Mon,Survivor,4, us-east-1,ps5,109,success,2,Survivor,1908
+783,0vujU612hBg5ARaCqrw4UOO1AIQLWjz0,23:35:34,Wed,Survivor,2,us-west-2,ps5,75,success,6,Survivor,273
+784,eb2Y8hXkc0hboPp250HhPEkKOfmbAK4H,17:02:04,Sun,Survivor,4, eu-central-1,ps5,19,success,3,Survivor,1909
+785,9XmgvwHSkTmwUzDNOdhwJBIViyMMph8l,12:33:38,Mon,Survivor,2,us-west-2,xsx,7,success,19,Survivor,1516
+786,stUKc6ds1tO46edEvP4mqW65MtkDq6lD,22:23:53,Wed,Survivor,2, ap-southeast-1,xsx,92,success,1,Survivor,635
+787,jEbtv7gw8v3SFBfn7wqXDiqS2cIBodmP,16:08:50,Mon,Killer,1, ap-southeast-1,ps5,4,success,2,Killer,1397
+788,AeRxPutiAU4S7MwJQdEZcLgdikgZybap,09:29:23,Fri,Survivor,2,us-west-2,ps5,71,success,3,Survivor,129
+789,QWQz0CkaZgZiGuFyPLqZtWuyc3Dlh6tm,18:25:06,Sat,Survivor,3, ap-southeast-1,ps5,60,success,19,Survivor,1076
+790,iC3JiELRotLqQe6g80HHmHWotecbkc5k,18:56:35,Sat,Survivor,2, eu-central-1,xsx,45,success,7,Survivor,1115
+791,ElqLXvSSCKzyI2tTIzED2egqpha3LRRV,10:21:50,Thu,Survivor,4, us-east-1,ps5,106,success,17,Survivor,818
+792,yDzK5ePepfzcOGkZYhie4P8t3n1RfD5B,15:34:27,Mon,Killer,1, eu-central-1,ps5,106,success,2,Killer,1303
+793,7HYH1SWrMNvLhVjMC6Uz10Ia0njCH46p,05:21:28,Sun,Survivor,1, ap-southeast-1,egs,14,success,1,Survivor,469
+794,F8dDCN968tGBog4PL7T8cvXwnEQfQSoP,01:28:13,Tue,Survivor,2, ap-southeast-1,egs,5,success,9,Survivor,905
+795,e3YtMOqnVja9F3JYEClOSWc7rqwyGV5l,05:09:33,Sun,Survivor,2, eu-central-1,xsx,63,success,15,Survivor,220
+796,ccjAYxuFNuA9psOltpCSupE0eiIGTuvi,05:55:59,Tue,Survivor,4, eu-central-1,xsx,73,success,8,Survivor,451
+797,aFkVhZjqF4PuRClJPmS3hppnbddjm2Op,01:05:24,Sat,Killer,1, us-east-1,egs,18,success,9,Killer,1829
+798,9c78ckjLW7faG4iOwQBlJV9EhnDjdkSB,19:03:22,Sat,Survivor,1,us-west-2,ps5,53,success,11,Survivor,314
+799,I6uOcE3IH3c83EWnewT77fmo5Smi4wU8,11:58:34,Mon,Survivor,4, eu-central-1,ps5,16,success,12,Survivor,36
+800,B7JwR9BYo8ypr8s0c65BxvcgZVkEa0YR,04:32:22,Mon,Survivor,4, ap-southeast-1,egs,35,success,6,Survivor,631
+801,c3eXo6gA7piDymZTsVeUi07qxvEil3hI,14:46:39,Wed,Survivor,3,us-west-2,egs,89,success,1,Survivor,1776
+802,zSqD2hQoHllpqcf1mpwKIwLBMsp4eqpK,20:44:23,Tue,Survivor,3,us-west-2,egs,106,success,16,Survivor,125
+803,mRl6CaZg6ZaDpd76gESxpkMqWpUBs31T,04:19:48,Thu,Survivor,1, eu-central-1,xsx,72,success,8,Survivor,1279
+804,KoPhT3JBuZb4D7IumZxkYuzRGxe2wKmh,02:17:46,Mon,Survivor,2, ap-southeast-1,egs,104,success,18,Survivor,291
+805,0vNLPCY15Q4hgPoaTZVnK4LbM4u31D1z,21:16:50,Mon,Survivor,2, ap-southeast-1,xsx,112,success,4,Survivor,1982
+806,VtwciZ3HarNU5W10OqYDLbA384kCBjBY,09:25:23,Tue,Killer,1, ap-southeast-1,steam,44,success,1,Killer,823
+807,41Epgtie8BeFRB7d9Vvy99QqyDQY5Qo6,01:04:31,Thu,Survivor,4, us-east-1,egs,94,success,17,Survivor,1773
+808,udkvAgCihy5qaVOLLigTFYZfDS2w14ZN,08:08:58,Wed,Killer,1, us-east-1,ps5,67,success,11,Killer,49
+809,IjhxPdMnuF7LYYLccCCjnyUnT8IE189i,16:33:11,Wed,Survivor,3, us-east-1,egs,82,success,17,Survivor,600
+810,4FpJSi4z1P6mr7xIB3CWSZIWKVWpBBxe,10:57:35,Thu,Killer,1, ap-southeast-1,ps5,7,success,12,Killer,1
+811,FFCUKRREWIR33y1WppwHRAb1NFUHLUuX,07:24:39,Tue,Killer,1, us-east-1,steam,34,success,4,Killer,453
+812,Jhz7PHfuZ1oEXP4jW1VbYwfyxLPAkLiz,17:20:58,Tue,Survivor,2, ap-southeast-1,steam,84,success,16,Survivor,1354
+813,pjOGhbGjADwpQjcrXEVTbaS71WU2Qd2F,03:43:56,Sun,Survivor,1,us-west-2,xsx,13,success,11,Survivor,1722
+814,tSgt9NH3hoREgaSGPG8VVXLRDzdAdkPj,06:33:23,Tue,Survivor,2,us-west-2,xsx,91,success,10,Survivor,39
+815,lT78lucx2oDkUIfnp3ZMipQg6L4mqV70,05:48:04,Thu,Survivor,2, ap-southeast-1,xsx,11,success,19,Survivor,1360
+816,j3tUKM6YIUw1hytjqpNldeVIa9uqIuXG,00:53:48,Sat,Survivor,4,us-west-2,ps5,86,success,6,Survivor,55
+817,lTYBNgC7xCfV7Na5ZhUaaEWtiYHGxHbZ,22:50:21,Fri,Survivor,3, us-east-1,egs,29,success,2,Survivor,1477
+818,ATgXOVzL4wJ1tB4OjO6NhmGk3UGKWEoU,21:22:29,Thu,Survivor,4,us-west-2,xsx,110,success,16,Survivor,360
+819,rlZGNNYvE6n29P470y0AoxcoFgMQYCtg,08:26:59,Sat,Survivor,1, ap-southeast-1,steam,7,success,16,Survivor,179
+820,DQjivojUitK4YZF7wScLGBKA5rL3IHX2,22:39:14,Sat,Survivor,4,us-west-2,steam,115,success,15,Survivor,322
+821,BPVcfG1kaWyltKk7CzBZxEvAxhKvq9tx,15:36:29,Tue,Survivor,1, eu-central-1,egs,35,success,3,Survivor,437
+822,CBcGQxpIehON4eRRkT6w0i02tb5v4jAD,06:33:44,Wed,Survivor,2, ap-southeast-1,xsx,108,success,3,Survivor,1714
+823,HSpHBvVfBIHUMuPKlDgejl4rAjgRolJ0,00:22:09,Mon,Survivor,4, ap-southeast-1,xsx,20,success,20,Survivor,1590
+824,YTukZcV6pHLc1gNmtixuRco4dFdtGN7S,17:53:05,Wed,Survivor,3, us-east-1,steam,107,success,9,Survivor,1106
+825,qGpXNXK4czXEEC0jzXmEXJMbPID6lsyU,01:21:07,Wed,Killer,1,us-west-2,egs,45,success,16,Killer,543
+826,T2T8o0HrOpMW2bh4oqS6vvSzCVuGuHoA,07:37:01,Wed,Survivor,1, eu-central-1,steam,19,success,12,Survivor,312
+827,qqHoVLuLZFuWbbLuPRNYpZsBG2xvI4c8,11:05:32,Tue,Survivor,2, eu-central-1,ps5,38,success,16,Survivor,1972
+828,gPLEpdLLpPedX9HMgp3Qbs4jhHPCePBN,16:52:56,Mon,Survivor,1, us-east-1,xsx,80,success,11,Survivor,47
+829,EfNtg5zCxla1TUlodW8BbSs4zADUzkg8,13:09:50,Sat,Survivor,3, ap-southeast-1,ps5,60,success,9,Survivor,666
+830,hcV7zJNSKW8rhHkWCXcblurFUV8pBqbS,18:18:40,Fri,Survivor,3,us-west-2,egs,36,success,20,Survivor,1715
+831,C1bq6Cc5K1hUWWWSG2F1PHJ3AlE7c7Fi,10:51:32,Mon,Survivor,2, eu-central-1,xsx,5,success,5,Survivor,1838
+832,55sCCqJtps54baJTNprrlZNjm4yDa7Bh,20:40:51,Wed,Survivor,2,us-west-2,ps5,36,success,1,Survivor,1056
+833,zIx09jy7ipldez5s32jIqUNvBMJSzkhM,22:42:05,Sun,Killer,1, ap-southeast-1,steam,113,success,15,Killer,190
+834,Qk3SYfPyXOj46yNoQ44huxxOjnSlcMi2,08:06:22,Mon,Survivor,3,us-west-2,egs,36,success,4,Survivor,345
+835,5IaB9osVqSDGU4UYbvpoj7FXWRRt2BtR,23:57:25,Fri,Survivor,3, ap-southeast-1,steam,43,success,4,Survivor,1874
+836,OBnca9Q3PEKczIwFlICTw9Myry3y013t,08:36:16,Mon,Survivor,1, us-east-1,egs,2,success,18,Survivor,1392
+837,kgVpxomomkiGBAEypOWcVsyKe2aZcC2k,21:59:46,Mon,Survivor,3, us-east-1,egs,67,success,7,Survivor,1883
+838,fFHO1HUHvNsO9MTAIFe0GXfINxcARj2I,14:58:00,Wed,Survivor,2,us-west-2,steam,1,success,7,Survivor,1564
+839,DRatdCCT8OGyv1qpzw3PfIP4hmrkznh6,16:52:40,Thu,Survivor,4, us-east-1,egs,23,success,7,Survivor,1938
+840,CrVYYMKD0hpz3fcf1t8wypcsZy2izzSu,19:59:38,Sun,Survivor,4, us-east-1,steam,95,success,5,Survivor,1678
+841,UeMjFlVPLD9ftA1uTmjfedHYWgmM5F3c,19:42:11,Tue,Killer,1, us-east-1,ps5,61,success,2,Killer,1881
+842,m7hv1tOMCQoVJ7JqOVikQ0QCRY8WSqYu,16:24:04,Mon,Killer,1, eu-central-1,ps5,81,success,9,Killer,489
+843,OMxpvcPJu2G9hboOVhkYdxtFdIsjSS04,03:52:27,Fri,Survivor,3, eu-central-1,steam,65,success,10,Survivor,340
+844,zDv7nWUEmnDa2PXJC71qcBb2oUIPnoAX,05:36:03,Mon,Survivor,2, eu-central-1,steam,73,success,13,Survivor,1825
+845,IWcAcN84IWbft5a48h9WLwKB7Q5SqOQe,19:00:52,Sun,Survivor,1, eu-central-1,xsx,10,success,16,Survivor,738
+846,2Rp66p1tPYiVLEhEMUK28c8FZjhUKOBY,14:48:42,Tue,Survivor,3,us-west-2,steam,119,success,11,Survivor,1955
+847,z6BWMyNqW6z07IwBshvFnAsYYfnksO8n,09:43:39,Fri,Survivor,4, us-east-1,xsx,65,success,10,Survivor,690
+848,hTYLvf8YXYHuu1IQIKISa2oUFMQzjqem,19:19:38,Mon,Survivor,3,us-west-2,steam,33,success,6,Survivor,920
+849,DPJCkXMi5wlDSaya7HwXgR8k4mh9cSLm,07:57:56,Fri,Survivor,1,us-west-2,xsx,107,success,8,Survivor,1997
+850,EtHWhmcTaru7k6NVHEeKQQ4Q2SoqOtKi,20:59:22,Fri,Survivor,1, ap-southeast-1,ps5,62,success,1,Survivor,1884
+851,TJFuFip5hf5PX62gWbRFkb1yImCZD2jK,03:25:47,Sat,Killer,1, eu-central-1,egs,95,success,5,Killer,995
+852,T6MNfh3DjGb4sM5kvO6P2wO071vecKWg,07:52:51,Mon,Survivor,4,us-west-2,egs,97,success,3,Survivor,1213
+853,HgNyccjUdlT9qYJUXSs6NIzHcWjN7jaU,05:11:35,Fri,Survivor,3, us-east-1,steam,26,success,18,Survivor,1346
+854,tjXOifv7jVTGaLJznzEyfxMA6z4C6i3r,00:35:07,Thu,Killer,1, ap-southeast-1,egs,115,success,2,Killer,1182
+855,wzCCboHayymRuDFdseOm7rlc9swgJeWA,09:28:25,Tue,Survivor,4,us-west-2,egs,52,success,10,Survivor,1423
+856,GpEcg1hoBCsWulBMlR9SKp0mcHV3GypY,14:37:26,Wed,Killer,1, ap-southeast-1,xsx,76,success,14,Killer,844
+857,7OfEq80VykeeMxmJpEglfvl0tEsdTXWa,08:07:42,Thu,Survivor,1,us-west-2,xsx,30,success,20,Survivor,1501
+858,cFe86CnQ4eeIg9aiw2mg40VUNsW3gEcW,20:54:31,Mon,Survivor,4,us-west-2,steam,75,success,11,Survivor,1903
+859,jBQZVT7XMW6obzgJ9yidIgNMLf53Bsqt,01:24:06,Tue,Survivor,4, ap-southeast-1,steam,32,success,9,Survivor,418
+860,9nIue0T8pduGDIXz6DPxSugBMmUCnXLA,17:39:31,Tue,Killer,1, ap-southeast-1,xsx,84,success,14,Killer,1811
+861,qK4aVbEdBdwB7OqQREkkyoxiakaIBW8V,23:21:52,Sun,Killer,1, ap-southeast-1,egs,52,success,10,Killer,679
+862,HtE2YmSF3YnaKB8N2QcZGxqHp9bEcn8n,18:25:46,Wed,Survivor,1, us-east-1,steam,39,success,1,Survivor,1308
+863,OBxySsnJJjTphYeJfFPAKFZ4KWYpJpDy,02:55:16,Thu,Killer,1,us-west-2,ps5,108,success,3,Killer,1843
+864,3Fzf6ELvnUdfoi1y8BoSniZHmJQQOt1o,17:03:46,Sat,Survivor,3, eu-central-1,ps5,25,success,7,Survivor,1785
+865,lnnZb01MxwRUYXeg1yekr5sjEd2SK4ON,12:14:58,Tue,Survivor,1,us-west-2,xsx,20,success,3,Survivor,878
+866,pFxeV6wiB9ccQGhh0yjC5AoN72XBXyC7,00:27:29,Tue,Survivor,1, us-east-1,ps5,17,success,12,Survivor,506
+867,4BVI0F2hggEm0uBSHDLbYyCrfBgCZkNi,11:21:36,Tue,Survivor,3,us-west-2,xsx,34,success,20,Survivor,142
+868,n2nFtSPUlFcj4tQLBIIop8SX5AelMdFn,06:25:56,Tue,Survivor,4, ap-southeast-1,steam,4,success,11,Survivor,1189
+869,lQyErdi5crq0z0NCpEg53FCHZGBEkmWk,02:27:24,Tue,Survivor,1, eu-central-1,steam,64,success,14,Survivor,1713
+870,Oz9m3Il8AYzclEAJSBGWknryBKeIBDOK,13:07:29,Sat,Killer,1, us-east-1,ps5,17,success,13,Killer,727
+871,cTltXm7qRkF9NmNdbFKVUabgfjf9cOha,09:56:05,Wed,Survivor,1, eu-central-1,ps5,93,success,13,Survivor,468
+872,NPypmQFr0vFx0sb5L3Gmle0TZERFyM15,04:08:27,Sat,Survivor,2, ap-southeast-1,egs,69,success,20,Survivor,1494
+873,exbH7WfbaPUUmvyzGa9vcBCaIzKlXUi2,05:08:42,Sun,Survivor,3, us-east-1,steam,105,success,1,Survivor,1609
+874,ZZXwxRnDuIrBWplzauOZQezUYg42sf28,10:06:11,Wed,Survivor,3, us-east-1,egs,8,success,20,Survivor,491
+875,7hQgRLjbLJkhTMguN1mP3BwxN2zyx5jP,00:26:11,Fri,Survivor,2, us-east-1,xsx,90,success,15,Survivor,1935
+876,Mw72XeViypdYE4szILOxvPr6kPgoXw5A,19:08:19,Tue,Survivor,1, ap-southeast-1,xsx,50,success,10,Survivor,394
+877,vyjlLSx35zEdPH8oZEz1VAIW0zKOFiyL,06:50:22,Sun,Survivor,3, us-east-1,egs,1,success,4,Survivor,1449
+878,UAkwyARv4JIdk5nAjXZus9RvKBWSJm9o,02:28:46,Wed,Survivor,4, ap-southeast-1,ps5,96,success,16,Survivor,501
+879,owqdGZeJMq9rV6AYzc2xczfCrEyUw9km,05:48:20,Sat,Survivor,2, us-east-1,ps5,54,success,17,Survivor,880
+880,2HYlEfXPFWzxsAHpnlfCRqItmur5dpZy,23:58:20,Sun,Survivor,4, us-east-1,egs,12,success,8,Survivor,861
+881,ihdIVtXWdha5U2jH1UQmcaSgfQFADVH2,11:28:19,Sun,Survivor,4,us-west-2,steam,16,success,20,Survivor,841
+882,dJH7XSsRebQrSpgdiiXQX0kECWGY5QMA,01:03:19,Mon,Survivor,4,us-west-2,ps5,107,success,19,Survivor,1710
+883,RwaiFdGEnIrY2cKdTMivPwRoUrIogxYB,15:41:21,Thu,Survivor,1, eu-central-1,steam,29,success,16,Survivor,274
+884,uLWLYdFncyHJG2m7m0OXs1kePa7SmaPx,21:01:00,Sat,Killer,1,us-west-2,xsx,109,success,20,Killer,86
+885,7ybL3zpErSpj5nVDZeoBZN8UdQUVT9cx,18:17:38,Mon,Survivor,3, us-east-1,ps5,76,success,3,Survivor,1733
+886,63IBpclAPPqG3gbpZ0FHRqu4H2Sy0yeH,23:07:21,Tue,Survivor,2, eu-central-1,steam,48,success,6,Survivor,1444
+887,AfdiYtcveFPoo7RmlbTfMGlDQG0suRTf,23:15:30,Tue,Survivor,3, us-east-1,egs,102,success,8,Survivor,6
+888,qAtocfckpzQNA4HzmQvKCHDnfORkCpGi,17:41:37,Thu,Killer,1, eu-central-1,ps5,38,success,15,Killer,488
+889,LAyWSEF2a2nB5L2YQg0k1jIajXBFPDG6,18:27:49,Thu,Survivor,3, us-east-1,steam,94,success,7,Survivor,1585
+890,d6htGduUxLTT3ppWCpYqLOn8iJLzh9kE,04:49:36,Wed,Survivor,1, eu-central-1,steam,110,success,13,Survivor,427
+891,kgca2fHdzNSPYoKaqdHIqM3zX9ode8mp,23:55:50,Sun,Killer,1, ap-southeast-1,egs,87,success,6,Killer,102
+892,9qiATUzdJROtZ0xbstgo9gdD7PTQuOq9,21:28:08,Tue,Survivor,1,us-west-2,egs,109,success,6,Survivor,167
+893,RLZ987zgW73vxxD9k5jPdVXCmQVM662b,21:11:53,Wed,Survivor,3, eu-central-1,steam,26,success,17,Survivor,1593
+894,fVb6BazTogYTYco0FRYlWRupyPugNQwZ,23:29:47,Wed,Survivor,3, ap-southeast-1,ps5,41,success,18,Survivor,294
+895,n96l86gdSA5HayzQafKMLcgRLnayD7EA,22:16:40,Fri,Survivor,3, eu-central-1,steam,68,success,6,Survivor,657
+896,2cxYCfxJYPJuA4xIrekKlfx4ndfE8W0V,05:14:03,Mon,Survivor,3,us-west-2,ps5,88,success,5,Survivor,778
+897,zU9zJaKlJnHeIzWZIdYYBmTafNAfHJ47,20:18:35,Sat,Killer,1, ap-southeast-1,xsx,12,success,7,Killer,642
+898,6erejyD0xu1VF7RJzYxB6ZBQXAIsMzKN,23:48:00,Sun,Survivor,1,us-west-2,steam,32,success,15,Survivor,1135
+899,ofbWgZUVYbHCisauiZvdEAOzlCHGFjl2,15:32:22,Thu,Survivor,1,us-west-2,egs,90,success,19,Survivor,1511
+900,eUAAr61ptsnx4owizx5q3HtwQIy6S2V4,09:32:36,Tue,Survivor,1, ap-southeast-1,steam,115,success,14,Survivor,1821
+901,DuTTD4jTN3tuhNwtrewDNZdA4kWwTV6B,05:29:12,Sun,Survivor,4, us-east-1,egs,86,success,4,Survivor,249
+902,nqrOSc1Zq6XIA2ARXad4t9E0C4wgGaDW,18:35:12,Thu,Killer,1,us-west-2,steam,116,success,1,Killer,1204
+903,XHwn5JrgYxCizphXsQgwAGzXO4URPVQq,00:15:10,Thu,Survivor,4, us-east-1,steam,108,success,15,Survivor,315
+904,WeT80RA91ZdPe28evPw5eivD732EHDgO,06:03:10,Sat,Survivor,4, ap-southeast-1,xsx,106,success,20,Survivor,1928
+905,DQYZBQVm7oOrldKE8Odz5Phuwx3Y2jk0,05:47:12,Tue,Survivor,2, us-east-1,egs,50,success,20,Survivor,1252
+906,wRJEmpFtMFXWX2Q34Pi3IkFpgoNz50dq,18:01:55,Sat,Killer,1,us-west-2,egs,109,success,17,Killer,442
+907,Jr4hYMDHRt6AkNArUduxxexpD1oCPy1W,08:39:01,Sat,Killer,1,us-west-2,egs,57,success,15,Killer,548
+908,aftR7C1R2vn68Zc8vHE8eVvNc4WZMpCR,08:13:24,Sat,Survivor,2,us-west-2,ps5,27,success,11,Survivor,230
+909,Z2SFm8SAAJtX7DZEnQjyFZtcaoIk08x7,05:02:08,Sat,Survivor,1,us-west-2,xsx,28,success,7,Survivor,1721
+910,fETXcq9jw7W8h0j6y0XyLDb7yl6yZgXW,18:42:16,Mon,Survivor,4, ap-southeast-1,ps5,14,success,18,Survivor,147
+911,fcIrVmRWhyAJBSWO2zYUUse0HwazL2Ah,16:51:47,Wed,Killer,1,us-west-2,xsx,109,success,18,Killer,958
+912,pHbFeC69nPWyebwCmCRawSIxAvs837AT,07:04:25,Fri,Survivor,2, us-east-1,xsx,9,success,3,Survivor,320
+913,FNN9w3ZR7HdlvJEHLdkLCfKLfvTBflPj,11:12:51,Wed,Survivor,3,us-west-2,xsx,8,success,2,Survivor,1989
+914,V9SUiV6UWPKpEYGCxElqbuGclxP9nANm,19:58:11,Sun,Survivor,2,us-west-2,egs,80,success,6,Survivor,1620
+915,BbtUiWOaH701wiKJxynrBG3DAohMlNvd,16:40:11,Sat,Survivor,3, us-east-1,steam,64,success,4,Survivor,1591
+916,yqwHdvpAcqnjrdF4GLGgecHwQNwZEgJ6,12:19:21,Sat,Survivor,4,us-west-2,steam,98,success,19,Survivor,395
+917,mrG5D6GeFrnANSWm0PJA1k54SY48gYEL,16:09:13,Wed,Killer,1, eu-central-1,egs,100,success,4,Killer,1320
+918,XXE9p6fdj4Hg1OddiAKgH6mIOaiclblp,01:12:21,Sat,Survivor,3,us-west-2,steam,107,success,18,Survivor,781
+919,s96X4jZVdO31b9Fg1Vox1rkAU2iYBdhD,04:25:51,Mon,Survivor,4, ap-southeast-1,ps5,92,success,11,Survivor,1870
+920,ihfW4fQ9BSI117NJZtawZ2Dg8mmBqQyW,03:56:42,Tue,Survivor,1, ap-southeast-1,steam,14,success,20,Survivor,1487
+921,sFMv7liwH9mL2txO34QHqoeCbBP7MTLM,10:18:18,Thu,Survivor,3,us-west-2,steam,30,success,10,Survivor,898
+922,BZivo7GPFharELiZT2M4XcVkRx7RadCE,11:32:05,Thu,Killer,1, eu-central-1,steam,104,success,1,Killer,80
+923,YCcT3HNz4mqBiFllmClWva05QzGjiQeR,22:01:15,Sat,Survivor,3, ap-southeast-1,steam,28,success,10,Survivor,156
+924,5lfld7NILCtn7e2icPSJG0fsaM6owktP,02:53:44,Mon,Killer,1, us-east-1,xsx,116,success,6,Killer,215
+925,tAXtKK1gy1uc0MMoLJBWNTMimXGdBGOz,09:55:57,Tue,Survivor,2, ap-southeast-1,steam,87,success,12,Survivor,1054
+926,2zMtbQtjOSDO2PiHmy6MxmaiOslnZ5Lf,19:41:49,Wed,Killer,1, eu-central-1,ps5,48,success,9,Killer,994
+927,FD4T1wNYXdtlpgsxz6gry9G5FapgjroW,01:51:04,Tue,Survivor,2, ap-southeast-1,steam,108,success,17,Survivor,89
+928,iArv7vfDaHpJdjKEj7ZiIteoe3cKm96F,12:26:53,Wed,Killer,1,us-west-2,steam,3,success,11,Killer,819
+929,2FZnKJGddpMFy0ZNruU3UL3dA0fbMYGh,11:44:19,Mon,Survivor,4,us-west-2,ps5,113,success,4,Survivor,756
+930,C0YCq8y0GO4bLxlcCk1PyXXlwypsfqG3,03:54:29,Tue,Survivor,4,us-west-2,egs,23,success,14,Survivor,1753
+931,s7jsDo8NmrpLArZFObxmtoLv3TUezSO7,08:15:41,Tue,Survivor,1, ap-southeast-1,xsx,21,success,2,Survivor,223
+932,sc782fGzWBnVIAaXNAE48wS1ydqBDXx1,07:19:11,Sat,Killer,1, eu-central-1,ps5,41,success,13,Killer,41
+933,CKFD80QoVbV5ntSC113bqgNktI9NSnUX,06:19:37,Mon,Killer,1, eu-central-1,xsx,46,success,5,Killer,1771
+934,gS3rNEZMptTN8o5FipCMPt2X4JpcL7xm,08:00:45,Fri,Survivor,4, eu-central-1,steam,70,success,9,Survivor,1787
+935,hPDqadFQlqBPdHuwX8E0Ce3Uv9JFLztr,11:51:11,Fri,Killer,1, eu-central-1,steam,12,success,12,Killer,1326
+936,fMxtJZ1um8WypEUzMoM1EN47MgbztcS1,02:28:08,Tue,Killer,1, eu-central-1,xsx,99,success,13,Killer,280
+937,3BiwGOyCFFqXOsG7dTFqT7yWW8qLYaHu,11:02:12,Fri,Survivor,4, ap-southeast-1,steam,119,success,3,Survivor,1704
+938,lR3oSch2XpVIrVGGCUdMmhIp1LCD1oLa,16:56:18,Tue,Survivor,3,us-west-2,ps5,72,success,18,Survivor,1725
+939,uPxRb6ZXSuQGPTgOxbOzsXu3pQRWcV5i,17:04:36,Sat,Survivor,3,us-west-2,ps5,36,success,7,Survivor,1192
+940,ZL5NW3BtPoihOCcqAF2l1iTRDr9qr1cx,10:20:35,Fri,Survivor,1, eu-central-1,xsx,24,success,12,Survivor,759
+941,UGDsTqFUqwnybekgV8cAMVAsfpqI7D7h,00:16:36,Thu,Survivor,4, us-east-1,ps5,58,success,14,Survivor,912
+942,D7PYjstQ4klnfLYpVAENiABJtrpYUz78,02:16:53,Fri,Survivor,4, ap-southeast-1,egs,17,success,14,Survivor,795
+943,dHUwLladQUqUp0tuKQgCcQqWc89vvAlz,17:27:08,Mon,Survivor,1, us-east-1,xsx,33,success,6,Survivor,625
+944,2zCaaUBNdZxlrooFzrAbLhZPi3CC8qsv,23:16:04,Mon,Survivor,3, eu-central-1,ps5,38,success,11,Survivor,643
+945,4VTb9FHIP4lukJ7GaIWmC6K8sH3N46D7,05:59:36,Wed,Survivor,1, us-east-1,xsx,2,success,9,Survivor,244
+946,nugCNbqlmtiIymZ03Wi5js4gS1xKWYDp,09:59:10,Thu,Killer,1, ap-southeast-1,xsx,53,success,1,Killer,1163
+947,8zefeTZw1attsR4udJi4smwRe0bTIolq,15:48:18,Sun,Killer,1, us-east-1,ps5,42,success,4,Killer,1103
+948,fmZH17WmCbtXW6XFNezzivgqdeZatAES,18:11:45,Wed,Survivor,3, us-east-1,ps5,89,success,15,Survivor,1640
+949,TJIwtTX1RYvuH0ecQlYjTsoKDTlGtU2s,22:04:14,Fri,Survivor,4, us-east-1,xsx,34,success,8,Survivor,243
+950,9n0SSzVIBIaXLeSnHgv5K7xy93DR1IZn,18:31:50,Fri,Killer,1, ap-southeast-1,xsx,113,success,1,Killer,854
+951,nxetCMCP1RVIUD7wQWHE27AhWYIPY9Ck,12:09:50,Tue,Survivor,4, eu-central-1,xsx,4,success,17,Survivor,106
+952,byIfyIANCikiTJF70evruibcXJJFePNK,09:21:39,Mon,Survivor,1, ap-southeast-1,egs,63,success,16,Survivor,1849
+953,Kca0Ix9gaA5VHoPf6tXZVLml2UaG2sAR,21:30:59,Wed,Survivor,1, eu-central-1,ps5,106,success,14,Survivor,1956
+954,0mB0oqKVb50ngQ9agRztVbI0qzY7Tovg,00:31:05,Sun,Survivor,1,us-west-2,egs,45,success,13,Survivor,1554
+955,EsN2YHYnRHF2pnJQHkZOP7rCV01cBc96,12:17:08,Sat,Survivor,1, us-east-1,steam,65,success,6,Survivor,712
+956,CpCrW4ZSXGWGxc9yxHnvRDWo7NkhU3xt,00:03:20,Wed,Survivor,4,us-west-2,xsx,51,success,20,Survivor,988
+957,X2KMrGhfpyezLB4iCrtUwntoQXhcAGud,17:19:31,Tue,Killer,1, ap-southeast-1,ps5,23,success,15,Killer,191
+958,JAHyXDjntt0euiC2v2KY5ireneuw8v9V,05:08:55,Sat,Killer,1, eu-central-1,ps5,80,success,11,Killer,1344
+959,lJfblWnEIjwQ6A8g2bNKR2Fx0smQh6S5,21:52:14,Fri,Survivor,3, eu-central-1,ps5,26,success,14,Survivor,144
+960,pEesS4QVrFTJEfzXSo29UltHGGRdCQfW,05:58:52,Wed,Survivor,2,us-west-2,steam,118,success,11,Survivor,1112
+961,KEqLfFYK2BvsFC6EGDh4vsPfCn6pAYyD,12:06:35,Sun,Survivor,2, us-east-1,steam,14,success,6,Survivor,1181
+962,YePpCD09YkLRIE4YCGQrVRP6IlicK71z,05:54:25,Fri,Survivor,4, ap-southeast-1,steam,29,success,15,Survivor,365
+963,0vCNtayc5JcSHlxnIwjtAWt8ePAgEopj,06:33:01,Mon,Survivor,2, ap-southeast-1,ps5,36,success,10,Survivor,68
+964,kchfkmgYSAhn5l7RnIQCGmfD9jzMiwcA,03:02:25,Sat,Survivor,3, us-east-1,steam,118,success,18,Survivor,411
+965,R1pFSDMRAcaMxggaWoxKlbY0sIGf3jMH,16:33:17,Mon,Survivor,1,us-west-2,steam,104,success,6,Survivor,1495
+966,VZZTs76LgEP8nhH4mvIdPPCmtnHwB8LJ,14:52:06,Thu,Survivor,3, ap-southeast-1,xsx,25,success,15,Survivor,1018
+967,2Mn93WBfaIx4yerHrz2c43PEPYCkd1va,09:25:27,Fri,Survivor,1, ap-southeast-1,xsx,94,success,14,Survivor,330
+968,CoSkWcAsEaGGGEgjSNYjSKUoyINAliKq,01:11:00,Sun,Survivor,2,us-west-2,ps5,54,success,9,Survivor,240
+969,Y4cEqRyBFbnyQQ0yOE9LDwR69zGSGRi3,19:43:36,Fri,Survivor,2, us-east-1,xsx,7,success,5,Survivor,640
+970,pCfqnV14aIx8nNKVu1ZtIitcYW2WfbtG,09:06:14,Mon,Survivor,2, us-east-1,ps5,64,success,12,Survivor,99
+971,SRZLzGxVWCmvgftDZZsID8MPPzuS5zce,22:28:11,Sat,Survivor,2, eu-central-1,egs,50,success,11,Survivor,1483
+972,X9rxWZAlbWOYj2kwR9vHgUVZ4VXyDBV4,09:41:43,Sun,Killer,1,us-west-2,ps5,116,success,8,Killer,1627
+973,45IHLWwydaqKpUsEjI5NNJQHIC8ow9On,22:21:42,Wed,Survivor,3, us-east-1,xsx,109,success,7,Survivor,1901
+974,6rojVKK2radr4Lwj2k8sD1lIzQosKUAw,06:41:22,Sat,Survivor,4, eu-central-1,xsx,85,success,18,Survivor,1730
+975,GIBQxsSAZri8l4Vo36ZND3K46lLBrIWe,14:15:56,Wed,Survivor,1, eu-central-1,xsx,22,success,17,Survivor,470
+976,dnVmQfhnFVitczULzy40dxbI8JvmlFyc,19:52:29,Tue,Survivor,2, eu-central-1,xsx,61,success,4,Survivor,465
+977,hUefkQ7dn2VRpf22iRDNog9Xr1wByXIF,02:07:15,Tue,Killer,1,us-west-2,egs,2,success,15,Killer,1186
+978,SF3cQJ8JVsMltzszOjAN8Ra1UhDxp5Ga,01:58:16,Mon,Survivor,3,us-west-2,egs,91,success,15,Survivor,528
+979,O9EHvstBlZ5GIsOYsqdTmvkNSqKUUtxI,13:51:01,Sun,Survivor,2, ap-southeast-1,egs,4,success,12,Survivor,903
+980,0daJWqKZwBJqTUsFx6LzsX2mbvTukf6Z,01:17:18,Wed,Killer,1, eu-central-1,steam,87,success,14,Killer,646
+981,42AgHJDNC9yLV3gWdjDGBZLlfsSt0VlX,14:17:06,Wed,Survivor,3, us-east-1,steam,54,success,17,Survivor,1617
+982,ukPCTlt4OMkvIh8SnJ5lZc4mLwlpVQZP,23:32:33,Fri,Survivor,4, us-east-1,xsx,73,success,18,Survivor,885
+983,iREzmYgBkO8MEZbajXTiHx6Hzzx3NFSO,11:52:13,Wed,Survivor,1, us-east-1,ps5,107,success,19,Survivor,1340
+984,sjHNgCRoC9W9IsO3v07lbR6j7WKINLMQ,22:40:14,Fri,Survivor,2,us-west-2,steam,27,success,18,Survivor,964
+985,nAYnG3ZYd09t87aVeDCFDxvv0XDxHHmc,21:36:51,Sun,Survivor,1,us-west-2,steam,29,success,14,Survivor,390
+986,4Q9dOw9nMrKBkv7ADCoDE9JWqFIw9Z6G,00:17:51,Tue,Survivor,4, eu-central-1,ps5,77,success,19,Survivor,1240
+987,vYcTYlmfJdfQ16czLhA0bOZ6IHWFGbuM,18:45:23,Tue,Survivor,2,us-west-2,steam,106,success,8,Survivor,1022
+988,d9c0IzyG6C47U2WEcE6ImGqWG3NRXvhm,21:31:15,Fri,Survivor,4, ap-southeast-1,egs,44,success,3,Survivor,45
+989,goOC473m8UjrzgVNjeB2UpXruEM2iU4Z,13:50:21,Fri,Killer,1, ap-southeast-1,ps5,12,success,16,Killer,1257
+990,3a3nd3SbTnjJBTORDBRg8sb138PfNCmh,09:47:05,Thu,Survivor,3, ap-southeast-1,egs,102,success,11,Survivor,893
+991,1OsYLHEfU0Yu7PFsRLbdROwMuLbT8aqD,04:13:05,Tue,Survivor,3, us-east-1,egs,4,success,1,Survivor,1522
+992,D16h6RkR5qIGv2kfENXMQPtF9suWhWXj,22:47:51,Thu,Survivor,4,us-west-2,steam,49,success,11,Survivor,1971
+993,DeJvVizIGiDTKajzRKLKv4Ysr31v83RS,20:31:54,Sat,Killer,1, ap-southeast-1,steam,32,success,8,Killer,1010
+994,06Eg2hhhyBpOsguxfIbChafJYKACA91b,10:57:58,Sun,Killer,1, ap-southeast-1,steam,18,success,11,Killer,1490
+995,XPjX5R33Cal3vHaFWQlENneT9M8vgIGg,00:00:26,Thu,Killer,1, eu-central-1,xsx,102,success,20,Killer,1796
+996,sgul7bovdT48VwrzrQVepGtzlbdiD2La,17:21:58,Tue,Killer,1, ap-southeast-1,steam,28,success,13,Killer,1739
+997,U9NSemYEGLAEzLkkwj5sNlTlJO7RiDcl,03:44:59,Tue,Survivor,3, us-east-1,steam,97,success,7,Survivor,1968
+998,msxrYeCObTqKxvjg2bXOFlszaSQZvtHM,17:40:32,Thu,Survivor,1, ap-southeast-1,egs,37,success,1,Survivor,1104
+999,Ynafgvnu4LEWQ1lDyUmf5Xo9RIfCMFKA,12:10:04,Wed,Killer,1, us-east-1,ps5,96,success,3,Killer,979
