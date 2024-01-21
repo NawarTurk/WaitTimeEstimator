@@ -61,7 +61,7 @@ def train():
       model = train_and_get_model()
       print("the model is")
       print(model)
-      return redirect("index.html")
+      return redirect("/")
 
 
 @app.route("/estimate", methods=["POST"])
@@ -75,7 +75,9 @@ def estimate():
     user_input["time"] = request.form.get("time")
     user_input["day"] = request.form.get("day")
 
-    return render_template("index.html")
+    estimated_wait = 10
+
+    return render_template("index.html", estimated_wait=estimated_wait)
   else:
     flash("Must POST")
 
