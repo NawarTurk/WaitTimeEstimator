@@ -22,10 +22,15 @@
     <form id="inputForm" action="/estimate" method="POST">
         <label for="role">Role:</label>
         <label for="Survivor">Survivor<label>
-        <input type="radio" id="role" name="role" accept=".csv">
+        <input type="radio" id="role" name="role">
         <label for="Killer">Killer</label>
-        <input type="radio" id="role" name="role" accept=".csv">
+        <input type="radio" id="role" name="role">
 
+        <label for="party_size">Party Size:</label>
+        <input type="number" id="party_size" name="party_size" min="1" max="4" required>
+
+        <label for="rank">Rank:</label>
+        <input type="number" id="rank" name="rank" min="1" max="20" required>
         
         <label for="server">Server:</label>
         <select id="server" name="server">
@@ -45,6 +50,10 @@
 
         <label for="date">Date:</label>
         <input type="date" id="date" name="date" required>
+
+        <label for="time">Time:</label>
+        <input type="datetime-local" required>
+
 
         <button type="button" onclick="validateAndSubmit()">Submit</button>
         <p id="warningMessage" class="warning"></p>
