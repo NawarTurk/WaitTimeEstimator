@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_error
 
 
 def train_and_get_model(file_p) :
+    match_id = "MATCH_ID"
     part_size = 'PARTY_SIZE'
     queue_duration = 'QUEUE_DURATION_IN_SECS'
     rank = 'MMR_GROUP_DECILE'
@@ -14,6 +15,8 @@ def train_and_get_model(file_p) :
     player_role = 'PLAYER_ROLE'
     server_name = 'SERVER_NAME'
     platform = 'PLATFORM'
+    match_outcome="MATCHMAKING_OUTCOME"
+    char_name = "CHARACTER_NAME"
 
 
 
@@ -21,7 +24,9 @@ def train_and_get_model(file_p) :
     df = pd.read_csv(file_p)
     df.columns = df.columns.str.strip()
     df[start_time] = df[start_time].apply(lambda x: (datetime.strptime(x, '%H:%M:%S').strftime('%H:%M:%S') if not isinstance(x, str) else x)[:-6])
-    df=df.drop(["MATCH_ID","MATCHMAKING_OUTCOME","CHARACTER_NAME","MATCHMAKING_OUTCOME", "Unnamed: 11"], axis=1)  # this column does not exist ___________________________>
+    if len(list(df.columns)) == 11:
+        df.drop([10], axis=1)
+    df=df.drop([match_id,match_outcome,char_name], axis=1)  # this column does not exist ___________________________>
     df[[part_size, queue_duration, rank]] = df[[part_size,queue_duration, rank]].astype("int32")
     df = df[df[queue_duration] !=int(0)]
 
@@ -65,4 +70,5 @@ def train_and_get_model(file_p) :
     # dump(model, 'trained_model.joblib')
     return(model)
 
-
+if __name__=="__main__":
+    train_and_get_model("../f_data.csv")

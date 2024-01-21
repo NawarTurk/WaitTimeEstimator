@@ -13,7 +13,7 @@ player_role = 'PLAYER_ROLE'
 server_name = 'SERVER_NAME'
 platform = 'PLATFORM'
 match_outcome="MATCHMAKING_OUTCOME"
-char_name = " CHARACTER_NAME"
+char_name = "CHARACTER_NAME"
 
 def random_id():
   return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(32))
@@ -35,4 +35,4 @@ def random_data():
   return df
 
 if __name__=="__main__":
-  random_data().to_csv("f_data.csv")
+  random_data().to_csv("f_data.csv", index=False)
