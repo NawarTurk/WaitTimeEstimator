@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form with File Upload, Dropdown, and Date</title>
     <style>
@@ -37,15 +38,20 @@
     </style>
 </head>
 <body>
-
+    <!--Upload real data to model-->
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <label for="fileInput">Choose a file:</label>
+        <input type="file" id="fileInput" name="file">
+        <button type="submit">Upload</button>
+    </form>
     <form id="inputForm">
         <label for="file">File:</label>
-        <input type="file" id="role" name="role" accept=".txt, .pdf, .docx">
+        <input type="file" id="role" name="role" accept=".csv">
         <label for="role">Role:</label>
         <label for="Survivor">Survivor<label>
-        <input type="radio" id="role" name="role" accept=".txt, .pdf, .docx">
+        <input type="radio" id="role" name="role" accept=".csv">
         <label for="Killer">Killer</label>
-        <input type="radio" id="role" name="role" accept=".txt, .pdf, .docx">
+        <input type="radio" id="role" name="role" accept=".csv">
 
         
         <label for="server">Server:</label>
