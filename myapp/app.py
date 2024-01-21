@@ -74,10 +74,10 @@ def train():
       dump(model, model_filename)
       message= "Trained model saved to" + str(model_filename)
 
-      average = 0
+      average = "The Average is: " + str(0)
 
       error = str(round(error,2))
-      return render_template("index.html", message="Root Mean Squeared Error: " + str(error), average_wait = average)
+      return render_template("index.html", message="Root Mean Squared Error: " + str(error), average_wait = average)
 
 
 @app.route("/estimate", methods=["POST"])
@@ -99,8 +99,8 @@ def estimate():
       user_df = pd.DataFrame([user_input])
       user_df_encoded = encode_dataframe(user_df)
 
-      estimated_wait = round(model.predict(user_df_encoded)[0], 2)
-      average = 100
+      estimated_wait = "Estimated wait time " + str(round(model.predict(user_df_encoded)[0], 2))
+      average = "The average is " + str(0)
 
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
