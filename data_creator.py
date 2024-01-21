@@ -30,7 +30,6 @@ def random_data():
   df[match_outcome] = df[queue_duration].apply(lambda x: "played_cancelled" if x==0 else "success")
   df[rank] = np.random.randint(1, 21,size=len(df))
   df[char_name] = df[player_role]
-  df["Unnamed"] = random.sample(range(2*len(df)), len(df))
 
   return df
 
