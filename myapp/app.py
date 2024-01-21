@@ -10,6 +10,15 @@ from joblib import dump, load
 
 # Global model
 model = None
+part_size = 'PARTY_SIZE'
+rank = 'MMR_GROUP_DECILE'
+start_time = 'MATCHMAKING_ATTEMPT_START_TIME_UTC'
+day = 'MATCHMAKING_DAY_OF_WEEK'
+player_role = 'PLAYER_ROLE'
+server_name = 'SERVER_NAME'
+platform = 'PLATFORM'
+
+
 
 """
 File Input Tutorials
@@ -77,14 +86,20 @@ def estimate():
       model = load('trained_model.joblib')
       user_input = {}
       # Assume form validation is complete in javascript, client-side
-      user_input["role"] = request.form.get("role")
-      user_input["server"] = request.form.get("server")
-      user_input["platform"] = request.form.get("platform")
-      user_input["time"] = request.form.get("time")
-      user_input["date"] = request.form.get("date")
+      user_input[start_time] = int(request.form.get("time")[:2])
+      user_input[day] = request.form.get("day")
+      user_input[player_role] = request.form.get("role")
+      user_input[part_size] = request.form.get("party_size")
+      user_input[server_name] = request.form.get("server")
+      user_input[platform] = request.form.get("platform")
+      user_input[rank] = request.form.get("rank")
+
+
+      
 
       estimated_wait = 10
       average = 100
+      print()
       print(user_input)
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)

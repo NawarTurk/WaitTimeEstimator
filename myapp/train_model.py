@@ -30,7 +30,6 @@ def train_and_get_model(file_p) :
     df[[part_size, queue_duration, rank]] = df[[part_size,queue_duration, rank]].astype("int32")
     df = df[df[queue_duration] !=int(0)]
 
-    print(df)
     
     # df_encoded = pd.get_dummies(df, columns=[day, player_role, server_name, platform])
     df_encoded = encode_dataframe(df)
@@ -75,16 +74,7 @@ def encode_dataframe(df):
     player_role = 'PLAYER_ROLE'
     platform = 'PLATFORM'
     server_name = 'SERVER_NAME'
-
-    object_columns = df.select_dtypes(include=['object']).columns
-    df[object_columns] = df[object_columns].astype('str')
-
-    print("type is")
-    print(type(df))
-    print(type(df))
-
-    print("here")
-    print(df.dtypes)
+ 
 
     day_to_num = {
     'Sun': 0,
@@ -112,7 +102,8 @@ def encode_dataframe(df):
     'ap-southeast-1': 0,
     'us-west-2': 1,
     'eu-central-1': 2,
-    'us-east-1': 3
+    'us-east-1': 3,
+
     }
 
     df[day] = df[day].map(day_to_num)
