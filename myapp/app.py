@@ -76,7 +76,7 @@ def train():
 
 
 
-      error = str(1000000000)
+      error = str(round(error,2))
       return render_template("error.html", message=error)
 
 
