@@ -1,8 +1,6 @@
 # Source: https://flask.palletsprojects.com/en/3.0.x/
-import csv
 import os
-from flask import Flask, flash, redirect, render_template, request, session, url_for
-from flask_session import Session
+from flask import Flask, flash, redirect, render_template, request
 
 from werkzeug.utils import secure_filename
 
