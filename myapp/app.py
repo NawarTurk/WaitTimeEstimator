@@ -3,8 +3,10 @@ import os
 from flask import Flask, flash, redirect, render_template, request, url_for
 from flask_session import Session
 from werkzeug.utils import secure_filename
-from train_model import train_and_get_model
+from train_model import train_and_get_model, encode_dataframe
 from joblib import dump, load
+import pandas as pd
+
 
 
 
@@ -94,13 +96,16 @@ def estimate():
       user_input[platform] = request.form.get("platform")
       user_input[rank] = request.form.get("rank")
 
-
+      user_df = pd.DataFrame([user_input])
+      user_df_encoded = encode_dataframe(user_df)
+      print(user_df_encoded)
+      model.predict(user_df_encoded)
       
 
       estimated_wait = 10
       average = 100
-      print()
       print(user_input)
+
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
     except:
