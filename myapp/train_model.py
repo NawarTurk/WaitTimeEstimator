@@ -31,9 +31,9 @@ def train_and_get_model(file_p) :
     df = df[df[queue_duration] !=int(0)]
 
     print(df)
-    # Apply one-hot encoding to the dataframe
-    # Assuming 'col1', 'col2', 'col3' are the categorical columns that need encoding
-    df_encoded = pd.get_dummies(df, columns=[day, player_role, server_name, platform])
+    
+    # df_encoded = pd.get_dummies(df, columns=[day, player_role, server_name, platform])
+    df_encoded = encode_dataframe(df)
 
     # Display the encoded dataframe
     print("\nEncoded DataFrame:")
@@ -49,7 +49,7 @@ def train_and_get_model(file_p) :
     # Initialize the Linear Regression model
     model = LinearRegression()
     print(type(model))
-
+    
     # Train the model
     model.fit(X_train, y_train)
 
@@ -69,6 +69,60 @@ def train_and_get_model(file_p) :
     # from joblib import dump
     # dump(model, 'trained_model.joblib')
     return(model)
+
+def encode_dataframe(df):
+    day = 'MATCHMAKING_DAY_OF_WEEK'
+    player_role = 'PLAYER_ROLE'
+    platform = 'PLATFORM'
+    server_name = 'SERVER_NAME'
+
+    object_columns = df.select_dtypes(include=['object']).columns
+    df[object_columns] = df[object_columns].astype('str')
+
+    print("type is")
+    print(type(df))
+    print(type(df))
+
+    print("here")
+    print(df.dtypes)
+
+    day_to_num = {
+    'Sun': 0,
+    'Mon': 1,
+    'Tue': 2,
+    'Wed': 3,
+    'Thu': 4,
+    'Fri': 5,
+    'Sat': 6
+    }
+
+    role_to_num = {
+    'Killer': 0,
+    'Survivor': 1
+    }
+
+    platform_to_num = {
+    'steam': 0,
+    'egs': 1,
+    'xsx': 2,
+    'ps5': 3
+    }
+
+    server_to_num = {
+    'ap-southeast-1': 0,
+    'us-west-2': 1,
+    'eu-central-1': 2,
+    'us-east-1': 3
+    }
+
+    df[day] = df[day].map(day_to_num)
+    df[player_role] = df[player_role].map(role_to_num)
+    df[platform] = df[platform].map(platform_to_num)
+    df[server_name] = df[server_name].map(server_to_num)
+
+    return df
+
+
 
 if __name__=="__main__":
     train_and_get_model("../f_data.csv")
