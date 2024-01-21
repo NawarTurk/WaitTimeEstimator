@@ -17,6 +17,7 @@ day = 'MATCHMAKING_DAY_OF_WEEK'
 player_role = 'PLAYER_ROLE'
 server_name = 'SERVER_NAME'
 platform = 'PLATFORM'
+average = None
 
 
 UPLOAD_FOLDER = 'uploaded_file'
@@ -57,15 +58,14 @@ def train():
       return redirect("/")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
-      model, error = train_and_get_model(file)
+      global average
+      model, error, average = train_and_get_model(file)
       print(model, error)
 
       # Save the trained model to a file
       model_filename = 'trained_model.joblib'
       dump(model, model_filename)
       message= "Trained model saved to" + str(model_filename)
-
-      average = 0
 
       error = str(round(error,2))
       return render_template("index.html", message="Root Mean Squeared Error: " + str(error), average_wait = average)
@@ -89,15 +89,22 @@ def estimate():
 
       user_df = pd.DataFrame([user_input])
       user_df_encoded = encode_dataframe(user_df)
+<<<<<<< Updated upstream
       print("user encoded")
       print(user_df_encoded)
       print("model prediction")
       print(model.predict(user_df_encoded))
+=======
+
+      estimated_wait = round(model.predict(user_df_encoded)[0],2)
+>>>>>>> Stashed changes
 
       average = "The average wait time is: " + 100
       estimated_wait = "The estimated wait time is: " + 10
 
-      return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
+
+
+      return render_template("index.html", estimated_wait, average_wait = average)
     except:
       return render_template("index.html", message="Need to train a model. Please input a csv file.")
 
