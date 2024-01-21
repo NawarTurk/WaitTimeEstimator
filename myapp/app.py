@@ -66,8 +66,8 @@ def train():
       return redirect("/")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
-      model = train_and_get_model(file)
-      print(model)
+      model, error = train_and_get_model(file)
+      print(model, error)
 
       # Save the trained model to a file
       model_filename = 'trained_model.joblib'

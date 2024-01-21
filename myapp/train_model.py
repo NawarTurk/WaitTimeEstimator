@@ -67,7 +67,7 @@ def train_and_get_model(file_p) :
     # Optionally: Save the trained model to a file
     # from joblib import dump
     # dump(model, 'trained_model.joblib')
-    return(model)
+    return(model, rmse)
 
 def encode_dataframe(df):
     day = 'MATCHMAKING_DAY_OF_WEEK'
