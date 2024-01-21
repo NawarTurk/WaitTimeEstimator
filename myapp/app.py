@@ -20,7 +20,7 @@ player_role = 'PLAYER_ROLE'
 server_name = 'SERVER_NAME'
 platform = 'PLATFORM'
 
-
+g_average = None
 
 """
 File Input Tutorials
@@ -66,7 +66,8 @@ def train():
       return redirect("/")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
-      model, error = train_and_get_model(file)
+      global g_average
+      model, error, g_average = train_and_get_model(file)
       print(model, error)
 
       # Save the trained model to a file
@@ -74,7 +75,7 @@ def train():
       dump(model, model_filename)
       message= "Trained model saved to" + str(model_filename)
 
-      average = "The Average is: " + str(0)
+      average = "The Average is: " + str(g_average)
 
       error = str(round(error,2))
       return render_template("index.html", message="Root Mean Squared Error: " + str(error), average_wait = average)
@@ -100,10 +101,10 @@ def estimate():
       user_df_encoded = encode_dataframe(user_df)
 
       estimated_wait = "Estimated wait time " + str(round(model.predict(user_df_encoded)[0], 2))
-      average = "The average is " + str(0)
+      average = "The average is " + str(g_average)
 
 
-      return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
+      return render_template("index.html", estimated_wait=estimated_wait, average_wait = g_average)
     except:
       return render_template("index.html", message="Need to train a model. Please input a csv file.")
 
