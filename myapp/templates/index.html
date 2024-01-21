@@ -13,76 +13,85 @@
     
 </head>
 <body>
-    <!--Upload real data to model-->
-    <form action="/train" method="POST" enctype="multipart/form-data">
-        <label for="fileInput">Choose a file:</label>
-        <input type="file" id="fileInput" name="file">
-        <button type="submit">Upload</button>
-    </form>
-    <form id="inputForm" action="/estimate" method="POST">
-        <label for="role">Role:</label>
-        <label for="Survivor">Survivor<label>
-        <input type="radio" id="role" name="role">
-        <label for="Killer">Killer</label>
-        <input type="radio" id="role" name="role">
+    <div class="container">
+        <!--Upload real data to model-->
+        <form action="/train" method="POST" enctype="multipart/form-data">
+            <label for="fileInput">Choose a file:</label>
+            <input type="file" id="fileInput" name="file">
+            <button type="submit">Upload</button>
+        </form>
+        <form action="/estimate" method="POST">
+            
+            <h3>Role</h3>
+            <label for="role1">Survivor<label>
+            <input type="radio" id="role1" name="role" value="Survivor" required>
+            <label for="role2">Killer</label>
+            <input type="radio" id="role2" name="role" value="Killer" required>
 
-        <label for="party_size">Party Size:</label>
-        <input type="number" id="party_size" name="party_size" min="1" max="4" required>
+            <label for="party_size">Party Size:</label>
+            <input type="number" id="party_size" name="party_size" min="1" max="4">
 
-        <label for="rank">Rank:</label>
-        <input type="number" id="rank" name="rank" min="1" max="20" required>
-        
-        <label for="server">Server:</label>
-        <select id="server" name="server">
-            <option value="ap-southeas">ap-southeas</option>
-            <option value=us-west-2">us-west-2</option>
-            <option value="eu-centeral-1">eu-centeral-1</option>
-            <option value="us-east-1">us-east-1</option>
-        </select>
+            <label for="rank">Rank:</label>
+            <input type="number" id="rank" name="rank" min="1" max="20">
+            
+            <label for="server">Server:</label>
+            <select id="server" name="server">
+                <option value="ap-southeas">ap-southeas</option>
+                <option value="us-west-2">us-west-2</option>
+                <option value="eu-centeral-1">eu-centeral-1</option>
+                <option value="us-east-1">us-east-1</option>
+            </select>
 
-        <label for="platform">Platform:</label>
-        <select id="platform" name="platform">
-            <option value="steam">steam</option>
-            <option value=egs">egs</option>
-            <option value="xsx">xsx</option>
-            <option value="ps5">ps5</option>
-        </select>
+            <label for="platform">Platform:</label>
+            <select id="platform" name="platform">
+                <option value="steam">steam</option>
+                <option value="egs">egs</option>
+                <option value="xsx">xsx</option>
+                <option value="ps5">ps5</option>
+            </select>
 
-        <label for="date">Date:</label>
-        <input type="date" id="date" name="date" required>
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date">
 
-        <label for="time">Time:</label>
-        <input type="datetime-local" required>
+            <label for="time">Time:</label>
+            <input type="time" id="time" name="time" min="00:00" max="23:59">
 
+            <button type="submit">Submit</button>
+        </form>
+    </div>
 
-        <button type="button" onclick="validateAndSubmit()">Submit</button>
-        <p id="warningMessage" class="warning"></p>
-    </form>
+    <h1>{{ estimated_wait }}</h1>
+    <h2>{{ average_wait }}</h2>
+
 
     <script>
         function validateAndSubmit() {
-            // Fetch values from the form
-            var role = document.getElementById('role').value;
-            var server = document.getElementById('server').value;
-            var platform = document.getElementById('platform').value;
-            var date = document.getElementById('date').value;
+            $('#estimate_form').onclick(submit())
+            
+            // 
+            // // Fetch values from the form
+            // var role = document.getElementById('role').value;
+            // var server = document.getElementById('server').value;
+            // var platform = document.getElementById('platform').value;
+            // var date = document.getElementById('date').value;
 
-            // Check for blank fields
-            if (role === '' || server === '' || date === '') {
-                document.getElementById('warningMessage').textContent = 'Please fill in all fields.';
-            } else {
-                // Reset warning message
-                document.getElementById('warningMessage').textContent = '';
+            // // Check for blank fields
+            // if (role === '' || server === '' || date === '') {
+            //     document.getElementById('warningMessage').textContent = 'Please fill in all fields.';
+            // } else {
+            //     // Reset warning message
+            //     document.getElementById('warningMessage').textContent = '';
 
-                // Log values to the console or perform other actions
-                console.log('Role:', role);
-                console.log('Server:', server);
-                console.log('Platform:', platform);
-                console.log('Date:', date);
-            }
+            //     // Log values to the console or perform other actions
+            //     console.log('Role:', role);
+            //     console.log('Server:', server);
+            //     console.log('Platform:', platform);
+            //     console.log('Date:', date);
+
+            // }
         }
     </script>
-    {% Train %}{% endblock %}
+    {% block message %}{% endblock %}
 
 </body>
 </html>
