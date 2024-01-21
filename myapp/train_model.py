@@ -28,8 +28,6 @@ def train_and_get_model(file_p) :
     df[[part_size, queue_duration, rank]] = df[[part_size,queue_duration, rank]].astype("int32")
     df = df[df[queue_duration] !=int(0)]
 
-    average = df[queue_duration].mean()
-
     print("im herererere")
     # df_encoded = pd.get_dummies(df, columns=[day, player_role, server_name, platform])
     df_encoded = encode_dataframe(df)
@@ -69,7 +67,7 @@ def train_and_get_model(file_p) :
     # Optionally: Save the trained model to a file
     # from joblib import dump
     # dump(model, 'trained_model.joblib')
-    return(model, rmse, average)
+    return(model, rmse)
 
 def encode_dataframe(df):
     day = 'MATCHMAKING_DAY_OF_WEEK'
