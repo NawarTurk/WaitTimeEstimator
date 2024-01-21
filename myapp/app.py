@@ -8,6 +8,8 @@ from joblib import dump, load
 import pandas as pd
 
 
+
+
 # Global model
 model = None
 part_size = 'PARTY_SIZE'
@@ -18,6 +20,13 @@ player_role = 'PLAYER_ROLE'
 server_name = 'SERVER_NAME'
 platform = 'PLATFORM'
 
+
+
+"""
+File Input Tutorials
+# https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
+# https://stackoverflow.com/questions/65912720/uploading-and-reading-a-csv-file-with-flask
+"""
 
 UPLOAD_FOLDER = 'uploaded_file'
 UPLOAD_NAME = "CLIENT_DATASET.csv"
@@ -93,13 +102,43 @@ def estimate():
       print(user_df_encoded)
       print("model prediction")
       print(model.predict(user_df_encoded))
+      print("here 222")
 
-      average = "The average wait time is: " + 100
-      estimated_wait = "The estimated wait time is: " + 10
+      estimated_wait = 10
+      average = 100
+
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
     except:
       return render_template("index.html", message="Need to train a model. Please input a csv file.")
 
+    
+    
+    
   else:
-    return render_template("index.html", message="Error: must input form through Post")
+    flash("Must POST")
+
+
+
+
+# Source: https://www.w3schools.com/jquery/
+# https://www.w3schools.com/js/
+# Import jQuery
+
+
+"""
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("p").click(function(){
+    // Validate form
+    if validated:
+      # Send to form
+      $("#answer1").text(wait_time);
+  
+  });
+});
+
+</script>
+"""
+  
