@@ -1,0 +1,7 @@
+﻿MATCH_ID, MATCHMAKING_ATTEMPT_START_TIME_UTC, MATCHMAKING_DAY_OF_WEEK, PLAYER_ROLE, PARTY_SIZE, SERVER_NAME, PLATFORM, QUEUE_DURATION_IN_SECS, MATCHMAKING_OUTCOME, MMR_GROUP_DECILE, CHARACTER_NAME,
+3d666e265d34d257bf19ea7624606893, 12:53:35, Sun, Killer, 1, ap-southeast-1, steam, 1, success, 7, Killer,13
+9b85b48aef6601ae4bad984f3ff1f524, 23:55:34, Sun, Killer, 1, us-west-2, steam, 1, success, 3, Killer,6
+f3f1c5faa1fcc44e1dbca95696207e29, 15:47:14, Sat, Survivor, 1, eu-central-1, egs, 27, success, 7, Survivor,10
+24185dc67dffb0343bbe77c9d2c370d6, 23:48:41, Fri, Survivor, 2, eu-central-1, xsx, 32, success, 1, Survivor,34
+6dc48071669357fd7690bd678ca4716f, 1:13:20, Sun, Survivor, 2, us-east-1, ps5, 32, success, 2, Survivor,16
+ed79549780bdb26b137ac81696e860c1, 0:45:51, Tue, Survivor, 2, us-east-1, xsx, 0, played_cancelled, 3, Survivor,33
