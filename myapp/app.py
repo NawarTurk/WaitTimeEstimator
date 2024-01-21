@@ -99,6 +99,7 @@ def estimate():
       user_df = pd.DataFrame([user_input])
       user_df_encoded = encode_dataframe(user_df)
       print(user_df_encoded)
+      print("model prediction")
       model.predict(user_df_encoded)
       
 

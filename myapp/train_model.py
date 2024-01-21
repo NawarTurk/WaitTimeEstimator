@@ -21,7 +21,7 @@ def train_and_get_model(file_p) :
 
 
     #file_p = "uploaded_file/CLIENT_DATASET.csv"
-    df = pd.read_csv(file_p)
+    df = pd.read_csv(file_p, skipinitialspace=True)
     df.columns = df.columns.str.strip()
     df[start_time] = df[start_time].apply(lambda x: (datetime.strptime(x, '%H:%M:%S').strftime('%H:%M:%S') if not isinstance(x, str) else x)[:-6])
     if len(list(df.columns)) == 11:
@@ -35,8 +35,7 @@ def train_and_get_model(file_p) :
     df_encoded = encode_dataframe(df)
 
     # Display the encoded dataframe
-    print("\nEncoded DataFrame:")
-    print(df_encoded)
+  
 
     # Separate the features and the target
     X = df_encoded.drop(queue_duration, axis=1)  # drop the target column to isolate features
@@ -54,6 +53,9 @@ def train_and_get_model(file_p) :
 
     # Make predictions on the test set
     y_pred = model.predict(X_test)
+
+    print("x-test")
+    print(X_test)
 
 
 
