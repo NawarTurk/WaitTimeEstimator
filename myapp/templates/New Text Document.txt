@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with File Upload, Dropdown, and Date</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px;
+            background-color: #4caf50;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        .warning {
+            color: red;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <form id="inputForm">
+        <label for="file">File:</label>
+        <input type="file" id="role" name="role" accept=".txt, .pdf, .docx">
+        <label for="role">Role:</label>
+        <label for="Survivor">Survivor<label>
+        <input type="radio" id="role" name="role" accept=".txt, .pdf, .docx">
+        <label for="Killer">Killer</label>
+        <input type="radio" id="role" name="role" accept=".txt, .pdf, .docx">
+
+        
+        <label for="server">Server:</label>
+        <select id="server" name="server">
+            <option value="ap-southeas">ap-southeas</option>
+            <option value=us-west-2">us-west-2</option>
+            <option value="eu-centeral-1">eu-centeral-1</option>
+            <option value="us-east-1">us-east-1</option>
+        </select>
+
+        <label for="platform">Platform:</label>
+        <select id="platform" name="platform">
+            <option value="steam">steam</option>
+            <option value=egs">egs</option>
+            <option value="xsx">xsx</option>
+            <option value="ps5">ps5</option>
+        </select>
+
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required>
+
+        <button type="button" onclick="validateAndSubmit()">Submit</button>
+        <p id="warningMessage" class="warning"></p>
+    </form>
+
+    <script>
+        function validateAndSubmit() {
+            // Fetch values from the form
+            var role = document.getElementById('role').value;
+            var server = document.getElementById('server').value;
+            var platform = document.getElementById('platform').value;
+            var date = document.getElementById('date').value;
+
+            // Check for blank fields
+            if (role === '' || server === '' || date === '') {
+                document.getElementById('warningMessage').textContent = 'Please fill in all fields.';
+            } else {
+                // Reset warning message
+                document.getElementById('warningMessage').textContent = '';
+
+                // Log values to the console or perform other actions
+                console.log('Role:', role);
+                console.log('Server:', server);
+                console.log('Platform:', platform);
+                console.log('Date:', date);
+            }
+        }
+    </script>
+
+</body>
+</html>
