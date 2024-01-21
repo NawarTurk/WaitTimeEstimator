@@ -51,6 +51,7 @@ def index():
 
 @app.route("/train", methods=["POST"])
 def train():
+  
   # If user is entering data through a form
   if request.method == "POST":
     # Ensure request has files
@@ -59,7 +60,11 @@ def train():
       return redirect("/")
     
     file = request.files['file']
-
+    """
+    File Input Tutorials
+    https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
+    https://stackoverflow.com/questions/65912720/uploading-and-reading-a-csv-file-with-flask
+    """
     # Ensure user entered a file
     if file.filename == '':
       flash('No selected file')
