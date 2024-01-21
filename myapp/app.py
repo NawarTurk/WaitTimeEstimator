@@ -81,7 +81,7 @@ def estimate():
       user_input["server"] = request.form.get("server")
       user_input["platform"] = request.form.get("platform")
       user_input["time"] = request.form.get("time")
-      user_input["day"] = request.form.get("day")
+      user_input["date"] = request.form.get("date")
 
       estimated_wait = 10
       average = 100
