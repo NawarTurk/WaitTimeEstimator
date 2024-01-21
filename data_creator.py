@@ -33,3 +33,6 @@ def random_data():
   df["Unnamed"] = random.sample(range(2*len(df)), len(df))
 
   return df
+
+if __name__=="__main__":
+  random_data().to_csv("f_data.csv")
