@@ -8,34 +8,53 @@
     <!--Styles-->
     <style src="/static/styles.css"></style>
 
+    <!-- Use Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form with File Upload, Dropdown, and Date</title>
     
 </head>
 <body>
     <div class="container">
+        <h2>Train Data</h2>
         <!--Upload real data to model-->
         <form action="/train" method="POST" enctype="multipart/form-data">
-            <label for="fileInput">Choose a file:</label>
-            <input type="file" id="fileInput" name="file">
-            <button type="submit">Upload</button>
+            <div class="form-group">
+                <label for="fileInput">Choose a file:</label>
+                <input type="file" id="fileInput" class="form-control-file" name="file" required>
+                <button type="submit">Upload</button>
+            </div>
         </form>
+    </div>
+    <br>
+    <div class="container">
+        <h2>Test Data</h2>
         <form action="/estimate" method="POST">
-            
-            <h3>Role</h3>
-            <label for="role1">Survivor<label>
-            <input type="radio" id="role1" name="role" value="Survivor" required>
-            <label for="role2">Killer</label>
-            <input type="radio" id="role2" name="role" value="Killer" required>
+            <div class="form-check">
+                <div class="col">
+                <input type="radio" class="form-check-input" id="role1" name="role" value="Survivor" required>
+                <label for="role1" class="form-check-label">Survivor</label>
+
+                </div>
+                <div class="col">
+
+                <input type="radio" class="form-check-input" id="role2" name="role" value="Killer" required>
+                <label for="role2" class="form-check-label">Killer</label>
+                </div>
+            </div>
 
             <label for="party_size">Party Size:</label>
-            <input type="number" id="party_size" name="party_size" min="1" max="4" required>
+            <input type="number" id="party_size" class='form-control' name="party_size" min="1" max="4" required>
 
             <label for="rank">Rank:</label>
-            <input type="number" id="rank" name="rank" min="1" max="20" required>
+            <input type="number" id="rank" class="form-control" name="rank" min="1" max="20" required>
             
             <label for="server">Server:</label>
-            <select id="server" name="server">
+            <select id="server" name="server" class="form-control">
                 <option value="ap-southeast-1">ap-southeast-1</option>
                 <option value="us-west-2">us-west-2</option>
                 <option value="eu-centeral-1">eu-centeral-1</option>
@@ -43,7 +62,7 @@
             </select>
 
             <label for="platform">Platform:</label>
-            <select id="platform" name="platform">
+            <select id="platform" name="platform" class="form-control">
                 <option value="steam">steam</option>
                 <option value="egs">egs</option>
                 <option value="xsx">xsx</option>
@@ -51,7 +70,7 @@
             </select>
 
             <label for="day">Day of the week:</label>
-            <select id="day" name="day">
+            <select id="day" name="day" class="form-control">
                 <option value="Sun">Sunday</option>
                 <option value="Mon">Monday</option>
                 <option value="Tue">Tuesday</option>
@@ -62,7 +81,7 @@
             </select>
 
             <label for="time">Time:</label>
-            <input type="time" id="time" name="time" min="00:00" max="23:59" required>
+            <input type="time" id="time" class="form-control" name="time" min="00:00" max="23:59" required>
 
             <button type="submit">Submit</button>
         </form>
@@ -72,35 +91,6 @@
     <h2>{{ average_wait }}</h2>
     
     <h2>{{ message }}</h2>
-
-
-    <script>
-        function validateAndSubmit() {
-            $('#estimate_form').onclick(submit())
-            
-            // 
-            // // Fetch values from the form
-            // var role = document.getElementById('role').value;
-            // var server = document.getElementById('server').value;
-            // var platform = document.getElementById('platform').value;
-            // var date = document.getElementById('date').value;
-
-            // // Check for blank fields
-            // if (role === '' || server === '' || date === '') {
-            //     document.getElementById('warningMessage').textContent = 'Please fill in all fields.';
-            // } else {
-            //     // Reset warning message
-            //     document.getElementById('warningMessage').textContent = '';
-
-            //     // Log values to the console or perform other actions
-            //     console.log('Role:', role);
-            //     console.log('Server:', server);
-            //     console.log('Platform:', platform);
-            //     console.log('Date:', date);
-
-            // }
-        }
-    </script>
 
 </body>
 </html>
