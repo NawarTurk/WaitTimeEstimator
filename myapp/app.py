@@ -7,7 +7,7 @@ from flask_session import Session
 from werkzeug.utils import secure_filename
 
 
-UPLOAD_FOLDER = '/uploaded_files'
+UPLOAD_FOLDER = 'uploaded_files'
 ALLOWED_EXTENSIONS = {'csv'}
 
 # Configure application
