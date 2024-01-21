@@ -41,12 +41,12 @@
 </head>
 <body>
     <!--Upload real data to model-->
-    <form action="/" method="POST" enctype="multipart/form-data">
+    <form action="/train" method="POST" enctype="multipart/form-data">
         <label for="fileInput">Choose a file:</label>
         <input type="file" id="fileInput" name="file">
         <button type="submit">Upload</button>
     </form>
-    <form id="inputForm">
+    <form id="inputForm" action="/estimate" method="POST">
         <label for="role">Role:</label>
         <label for="Survivor">Survivor<label>
         <input type="radio" id="role" name="role" accept=".csv">

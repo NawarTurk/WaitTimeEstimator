@@ -7,6 +7,12 @@ from flask_session import Session
 from werkzeug.utils import secure_filename
 
 
+"""
+File Input Tutorials
+# https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
+# https://stackoverflow.com/questions/65912720/uploading-and-reading-a-csv-file-with-flask
+"""
+
 UPLOAD_FOLDER = 'uploaded_files'
 ALLOWED_EXTENSIONS = {'csv'}
 
@@ -23,28 +29,34 @@ def allowed_file(filename):
 @app.route("/", methods=["GET", "POST"])
 def index():
   """Home Page"""
+  return render_template("index.html")
+
+
+@app.route("/train", methods=["POST"])
+def train():
   # If user is entering data through a form
   if request.method == "POST":
     # Ensure request has files
     if 'file' not in request.files:
       flash('No file part')
-      return redirect(request.url)
+      return render_template("index.html")
     
     file = request.files['file']
 
     # Ensure user entered a file
     if file.filename == '':
       flash('No selected file')
-      return redirect(request.url)
+      return render_template("index.html")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
-      file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-      # Assume friendly user
-      return redirect("index.html")
+      saved_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+      file.save(saved_path)
+      return render_template("index.html")
 
-    # https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
-    # https://stackoverflow.com/questions/65912720/uploading-and-reading-a-csv-file-with-flask
 
+@app.route("/estimate", methods=["POST"])
+def estimate():
+  if request.method == "POST":
     user_input = {}
     # Assume form validation is complete in javascript, client-side
     user_input["role"] = request.form.get("role")
@@ -53,13 +65,11 @@ def index():
     user_input["time"] = request.form.get("time")
     user_input["day"] = request.form.get("day")
 
-    # Ensure they inputted a file
-    # Ensure user inputted a .xlsx file
-    # Ensure it has the correct headers
-    #filename == 'data/testdata.xlsx':
-
-  else:
     return render_template("index.html")
+  else:
+    flash("Must POST")
+
+
 
 
 
