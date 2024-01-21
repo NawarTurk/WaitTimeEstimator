@@ -29,10 +29,10 @@
             <input type="radio" id="role2" name="role" value="Killer" required>
 
             <label for="party_size">Party Size:</label>
-            <input type="number" id="party_size" name="party_size" min="1" max="4">
+            <input type="number" id="party_size" name="party_size" min="1" max="4" required>
 
             <label for="rank">Rank:</label>
-            <input type="number" id="rank" name="rank" min="1" max="20">
+            <input type="number" id="rank" name="rank" min="1" max="20" required>
             
             <label for="server">Server:</label>
             <select id="server" name="server">
@@ -50,7 +50,7 @@
                 <option value="ps5">ps5</option>
             </select>
 
-            <label for="day">Date:</label>
+            <label for="day">Day of the week:</label>
             <select id="day" name="day">
                 <option value="Sun">Sunday</option>
                 <option value="Mon">Monday</option>
@@ -62,7 +62,7 @@
             </select>
 
             <label for="time">Time:</label>
-            <input type="time" id="time" name="time" min="00:00" max="23:59">
+            <input type="time" id="time" name="time" min="00:00" max="23:59" required>
 
             <button type="submit">Submit</button>
         </form>
