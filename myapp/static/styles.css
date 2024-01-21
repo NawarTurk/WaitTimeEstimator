@@ -1,31 +1,76 @@
 <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+        @font-face {
+            font-family: 'font';
+            src: url('Good Brush.ttf') format('truetype');
+            /* You can include additional font formats for better compatibility: woff, woff2, etc. */
         }
+    
+    
+        body {
+            font-family: 'font', Arial, sans-serif;
+            /* Change the font-family here */
+            margin: 0;
+            padding: 0;
+            background: url('Dead By DayLIGHT.jpg') no-repeat center center fixed;
+            background-size: cover;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    
         form {
             max-width: 400px;
             margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+    
         label {
             display: block;
             margin-bottom: 8px;
         }
-        input, select {
+    
+        input,
+        select,
+        button {
             width: 100%;
-            padding: 8px;
+            padding: 10px;
             margin-bottom: 16px;
             box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 5px;
         }
+    
+        input[type="file"] {
+            margin-bottom: 8px;
+        }
+    
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+    
         button {
-            padding: 10px;
-            background-color: #4caf50;
+            background-color: #4c6daf;
             color: #fff;
             border: none;
             cursor: pointer;
+            transition: background-color 0.3s ease;
         }
+    
+        button:hover {
+            background-color: #45a049;
+        }
+    
+        button:active {
+            background-color: #3e8741;
+        }
+    
         .warning {
             color: red;
             margin-top: 8px;
         }
-    </style>
+    
+</style>
