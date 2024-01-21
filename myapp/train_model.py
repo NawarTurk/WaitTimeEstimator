@@ -24,13 +24,11 @@ def train_and_get_model(file_p) :
     df = pd.read_csv(file_p, skipinitialspace=True)
     df.columns = df.columns.str.strip()
     df[start_time] = df[start_time].apply(lambda x: (datetime.strptime(x, '%H:%M:%S').strftime('%H:%M:%S') if not isinstance(x, str) else x)[:-6])
-    if len(list(df.columns)) == 11:
-        df.drop([10], axis=1)
     df=df.drop([match_id,match_outcome,char_name], axis=1)  # this column does not exist ___________________________>
     df[[part_size, queue_duration, rank]] = df[[part_size,queue_duration, rank]].astype("int32")
     df = df[df[queue_duration] !=int(0)]
 
-    
+    print("im herererere")
     # df_encoded = pd.get_dummies(df, columns=[day, player_role, server_name, platform])
     df_encoded = encode_dataframe(df)
 

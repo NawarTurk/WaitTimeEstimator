@@ -98,14 +98,14 @@ def estimate():
 
       user_df = pd.DataFrame([user_input])
       user_df_encoded = encode_dataframe(user_df)
+      print("user encoded")
       print(user_df_encoded)
       print("model prediction")
-      model.predict(user_df_encoded)
-      
+      print(model.predict(user_df_encoded))
+      print("here 222")
 
       estimated_wait = 10
       average = 100
-      print(user_input)
 
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
