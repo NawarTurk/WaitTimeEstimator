@@ -47,7 +47,7 @@ def train():
     # Ensure user entered a file
     if file.filename == '':
       flash('No selected file')
-      return redirect(url_for("index.html"))
+      return redirect("/")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
       saved_path = os.path.join(app.config['UPLOAD_FOLDER'], UPLOAD_NAME)
