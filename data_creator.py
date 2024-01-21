@@ -24,7 +24,7 @@ def random_data():
   df[day] = np.random.choice(["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], size=len(df))
   df[player_role] = np.random.choice(["Killer", "Survivor"], p= [0.2, 0.8], size=len(df))
   df[part_size] = df[player_role].apply(lambda x: np.random.randint(1,5) if x=="Survivor" else 1)
-  df[server_name] = np.random.choice([" ap-southeast-1", "us-west-2", " eu-central-1", " us-east-1", ], size=len(df))
+  df[server_name] = np.random.choice(["ap-southeast-1", "us-west-2", "eu-central-1", "us-east-1", ], size=len(df))
   df[platform] = np.random.choice(["steam", "egs", "xsx", "ps5"], size = len(df))
   df[queue_duration] = np.random.randint(0, 120,size=len(df))
   df[match_outcome] = df[queue_duration].apply(lambda x: "played_cancelled" if x==0 else "success")
