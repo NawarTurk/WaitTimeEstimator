@@ -75,7 +75,7 @@ def train():
       dump(model, model_filename)
       message= "Trained Model Saved To" + str(model_filename)
 
-      average = "The Average Is: " + str(g_average) "S"
+      average = "The Average Is: " + str(g_average) + "S"
 
       error = str(round(error,2))
       return render_template("index.html", message="Root Mean Squared Error: " + str(error), average_wait = average)
