@@ -6,6 +6,8 @@ from flask_session import Session
 
 from werkzeug.utils import secure_filename
 
+from train_model import train_and_get_model
+
 
 """
 File Input Tutorials
@@ -13,7 +15,8 @@ File Input Tutorials
 # https://stackoverflow.com/questions/65912720/uploading-and-reading-a-csv-file-with-flask
 """
 
-UPLOAD_FOLDER = 'uploaded_files'
+UPLOAD_FOLDER = 'uploaded_file'
+UPLOAD_NAME = "CLIENT_DATASET.csv"
 ALLOWED_EXTENSIONS = {'csv'}
 
 # Configure application
@@ -39,19 +42,28 @@ def train():
     # Ensure request has files
     if 'file' not in request.files:
       flash('No file part')
-      return render_template("index.html")
+      return redirect("index.html")
     
     file = request.files['file']
 
     # Ensure user entered a file
     if file.filename == '':
       flash('No selected file')
-      return render_template("index.html")
+      return redirect("index.html")
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
-      saved_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+      saved_path = os.path.join(app.config['UPLOAD_FOLDER'], UPLOAD_NAME)
+      # If data has already been saved
+      if os.path.exists(saved_path):
+        # Delete the file
+        os.remove(saved_path)
+
+      # Replace it
       file.save(saved_path)
-      return render_template("index.html")
+      model = train_and_get_model()
+      print("the model is")
+      print(model)
+      return redirect("index.html")
 
 
 @app.route("/estimate", methods=["POST"])

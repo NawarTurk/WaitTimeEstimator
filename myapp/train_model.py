@@ -17,7 +17,7 @@ def train_and_get_model() :
 
 
 
-    file_p = "uploaded_files/Remi.csv"
+    file_p = "uploaded_file/CLIENT_DATASET.csv"
     df = pd.read_csv(file_p)
     df.columns = df.columns.str.strip()
     df[start_time] = df[start_time].apply(lambda x: (datetime.strptime(x, '%H:%M:%S').strftime('%H:%M:%S') if not isinstance(x, str) else x)[:-6])
