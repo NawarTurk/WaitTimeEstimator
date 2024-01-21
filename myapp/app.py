@@ -72,12 +72,12 @@ def train():
       # Save the trained model to a file
       model_filename = 'trained_model.joblib'
       dump(model, model_filename)
-      print(f"Trained model saved to {model_filename}")
+      message= "Trained model saved to" + str(model_filename)
 
-
+      average = 0
 
       error = str(round(error,2))
-      return render_template("error.html", message=error)
+      return render_template("index.html", message="Root Mean Squeared Error: " + str(error), average_wait = average)
 
 
 @app.route("/estimate", methods=["POST"])
@@ -110,7 +110,7 @@ def estimate():
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
     except:
-      return render_template("error.html", message="Need to train a model. Please input a csv file.")
+      return render_template("index.html", message="Need to train a model. Please input a csv file.")
 
     
     
