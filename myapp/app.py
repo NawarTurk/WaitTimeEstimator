@@ -1,6 +1,6 @@
 # Source: https://flask.palletsprojects.com/en/3.0.x/
 import os
-from flask import Flask, flash, redirect, render_template, request
+from flask import Flask, flash, redirect, render_template, request, url_for
 
 from werkzeug.utils import secure_filename
 
@@ -47,7 +47,7 @@ def train():
     # Ensure user entered a file
     if file.filename == '':
       flash('No selected file')
-      return redirect("index.html")
+      return redirect(url_for("index.html"))
     if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
       saved_path = os.path.join(app.config['UPLOAD_FOLDER'], UPLOAD_NAME)
