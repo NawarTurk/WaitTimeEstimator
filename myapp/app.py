@@ -75,7 +75,7 @@ def train():
       dump(model, model_filename)
       message= "Trained Model Saved To" + str(model_filename)
 
-      average = "The Average Is: " + str(g_average)
+      average = "The Average Is: " + str(g_average) "S"
 
       error = str(round(error,2))
       return render_template("index.html", message="Root Mean Squared Error: " + str(error), average_wait = average)
@@ -100,8 +100,8 @@ def estimate():
       user_df = pd.DataFrame([user_input])
       user_df_encoded = encode_dataframe(user_df)
 
-      estimated_wait = "Estimated Wait Time " + str(round(model.predict(user_df_encoded)[0], 2))
-      average = "The Average Is " + str(g_average)
+      estimated_wait = "Estimated Wait Time " + str(round(model.predict(user_df_encoded)[0], 2)) + "S"
+      average = "The Average Is " + str(g_average) + "S"
 
 
       return render_template("index.html", estimated_wait=estimated_wait, average_wait = average)
